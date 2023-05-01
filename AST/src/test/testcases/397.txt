@@ -1,0 +1,1 @@
+ti : function integer   ( out TtTYgr : boolean    , inherit out wyD : float    , out F : array [ 94 , 3 ] of integer     , G : string     ) { }    

@@ -1,0 +1,4 @@
+Program([
+	FuncDecl(z, AutoType, [], N6Ven, BlockStmt([]))
+	VarDecl(a, AutoType, BinExpr(::, BinExpr(!=, UnExpr(-, UnExpr(!, UnExpr(-, Id(Y)))), BinExpr(+, BinExpr(-, UnExpr(-, Id(t)), Id(st)), Id(ikNz_n))), BinExpr(&&, UnExpr(!, Id(tG)), BinExpr(-, BinExpr(/, Id(t), Id(XM)), FuncCall(B, [])))))
+])

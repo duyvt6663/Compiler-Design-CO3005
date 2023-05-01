@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(z, AutoType, [Param(le, AutoType)], iE2, BlockStmt([]))
+])

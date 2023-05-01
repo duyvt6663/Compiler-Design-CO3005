@@ -1,0 +1,7 @@
+
+            main: function void(){
+                V: float = 100.3;
+                for ( V = 10, false, 1000) 
+                    main();     
+            }
+        

@@ -1,0 +1,4 @@
+Program([
+	FuncDecl(Pj, ArrayType([610], StringType), [InheritOutParam(Pe, ArrayType([88], IntegerType)), OutParam(PnR, BooleanType)], None, BlockStmt([]))
+	FuncDecl(Y1m, VoidType, [], None, BlockStmt([]))
+])

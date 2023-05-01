@@ -1,0 +1,6 @@
+Program([
+	FuncDecl(D, StringType, [OutParam(ghCcS, ArrayType([0], StringType)), Param(h, ArrayType([0], BooleanType))], WPuM, BlockStmt([AssignStmt(Id(Q), BinExpr(::, UnExpr(!, Id(Cu)), UnExpr(!, Id(BP)))), VarDecl(i, AutoType, BinExpr(!=, BinExpr(%, Id(C), Id(b)), BinExpr(+, Id(fD), Id(ktd)))), VarDecl(EGEu, AutoType, BinExpr(::, BinExpr(==, BinExpr(/, Id(Z), Id(oB)), BinExpr(%, Id(s4qY), Id(GR))), UnExpr(-, Id(T)))), ReturnStmt()]))
+	VarDecl(U, AutoType)
+	VarDecl(vRT, AutoType)
+	VarDecl(r_, AutoType)
+])

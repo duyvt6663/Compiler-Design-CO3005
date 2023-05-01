@@ -1,0 +1,7 @@
+Program([
+	FuncDecl(VSQj0, VoidType, [], A, BlockStmt([BreakStmt()]))
+	FuncDecl(l, IntegerType, [InheritOutParam(sqL, AutoType)], None, BlockStmt([WhileStmt(BinExpr(::, BinExpr(%, Id(l), Id(p)), BinExpr(<=, BinExpr(-, Id(KS4), Id(B)), BinExpr(&&, Id(fORjNe), Id(Sl)))), BreakStmt())]))
+	FuncDecl(sC, AutoType, [OutParam(V, FloatType), OutParam(bLBhK, BooleanType)], None, BlockStmt([]))
+	FuncDecl(ge, VoidType, [InheritOutParam(h, ArrayType([0], FloatType)), Param(n, AutoType)], None, BlockStmt([ContinueStmt(), ContinueStmt(), ForStmt(AssignStmt(Id(w), BinExpr(::, UnExpr(!, Id(CF0)), BinExpr(==, BinExpr(*, Id(T), Id(K)), IntegerLit(0)))), BinExpr(::, BinExpr(!=, FuncCall(_k, []), UnExpr(!, Id(d))), BinExpr(-, Id(O), Id(b))), BinExpr(%, Id(c), Id(l)), ContinueStmt()), CallStmt(S, )]))
+	VarDecl(oIf, AutoType)
+])

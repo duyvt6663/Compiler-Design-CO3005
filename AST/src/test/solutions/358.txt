@@ -1,0 +1,8 @@
+Program([
+	FuncDecl(jSVn07, VoidType, [], mbR, BlockStmt([WhileStmt(UnExpr(!, Id(kgdEny)), ContinueStmt()), VarDecl(veGK, BooleanType, BinExpr(::, BinExpr(>, BinExpr(*, Id(p3O), Id(Bm)), UnExpr(-, Id(F))), StringLit())), VarDecl(M, BooleanType, BinExpr(*, Id(Ej), Id(Vk)))]))
+	FuncDecl(D, IntegerType, [], None, BlockStmt([]))
+	FuncDecl(quwZQu, VoidType, [], None, BlockStmt([]))
+	VarDecl(RW, BooleanType, BinExpr(::, BinExpr(>, BinExpr(%, BinExpr(/, UnExpr(!, Id(N)), Id(XU8)), FuncCall(q, [])), BinExpr(||, UnExpr(!, FuncCall(mV, [])), BinExpr(%, Id(ST), Id(t)))), BinExpr(<, BinExpr(&&, UnExpr(-, UnExpr(!, Id(E))), Id(d)), UnExpr(-, UnExpr(!, UnExpr(-, Id(N4gb)))))))
+	VarDecl(fQd, BooleanType, BinExpr(::, BinExpr(>=, StringLit(), BinExpr(&&, BinExpr(*, FuncCall(gnsU, []), Id(i)), BinExpr(+, Id(C), BinExpr(%, UnExpr(-, Id(qR)), Id(Ci))))), BinExpr(<, BinExpr(+, Id(g), StringLit()), BinExpr(*, UnExpr(!, FuncCall(s, [])), UnExpr(!, Id(y))))))
+	VarDecl(ABbA, BooleanType, UnExpr(-, StringLit(\b\')))
+])

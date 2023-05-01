@@ -1,0 +1,13 @@
+Program([
+	VarDecl(Dc, ArrayType([5], StringType), BinExpr(||, BinExpr(-, Id(C), Id(pTd)), BinExpr(+, BinExpr(*, UnExpr(-, Id(T)), UnExpr(-, Id(xSB))), Id(Am))))
+	VarDecl(o, FloatType, BinExpr(::, FuncCall(xd, []), Id(NgXY)))
+	VarDecl(q, FloatType, BinExpr(::, FuncCall(BevuX, []), BinExpr(<=, BinExpr(+, BinExpr(+, UnExpr(!, Id(RljGcK)), Id(Fsl)), UnExpr(!, UnExpr(!, Id(c)))), BinExpr(&&, Id(N), BinExpr(+, Id(Bg), BinExpr(*, UnExpr(-, Id(G)), UnExpr(-, Id(th))))))))
+	VarDecl(a, FloatType, BinExpr(&&, BinExpr(-, BinExpr(-, UnExpr(-, UnExpr(!, Id(e))), Id(a)), Id(f)), FuncCall(b, [])))
+	VarDecl(mopa, BooleanType, BinExpr(::, BinExpr(+, BinExpr(-, BinExpr(+, StringLit(), Id(frm4Fc)), Id(P)), BinExpr(%, Id(SVE3), Id(J))), BinExpr(<=, BinExpr(&&, BinExpr(/, BinExpr(/, UnExpr(!, UnExpr(!, Id(kTsyN))), Id(EydJX)), Id(Jh)), UnExpr(-, Id(I))), BinExpr(||, BinExpr(||, UnExpr(-, UnExpr(!, Id(w))), Id(L)), Id(xBeGVl)))))
+	VarDecl(D, BooleanType, BinExpr(::, BinExpr(>, BinExpr(&&, FuncCall(Pd, []), BinExpr(-, UnExpr(!, Id(y2r)), Id(c))), BinExpr(||, BinExpr(||, BinExpr(+, BinExpr(*, UnExpr(!, Id(NA)), Id(Vn)), Id(SIa)), Id(Vt)), IntegerLit(8))), BinExpr(>, BinExpr(||, BinExpr(-, BinExpr(%, UnExpr(-, Id(R)), Id(Z6cH3Q)), Id(JT)), Id(ffF__)), BinExpr(&&, BinExpr(||, BinExpr(-, UnExpr(-, Id(pd)), Id(g)), BinExpr(+, UnExpr(-, Id(rh)), Id(fA))), Id(z)))))
+	VarDecl(boS, BooleanType, BinExpr(::, BinExpr(+, UnExpr(-, Id(Q)), BinExpr(*, Id(C), Id(l7))), UnExpr(!, FuncCall(G, []))))
+	FuncDecl(t, VoidType, [InheritOutParam(w, StringType)], None, BlockStmt([]))
+	FuncDecl(ExssD, ArrayType([0, 5656], BooleanType), [InheritParam(Uyn, AutoType), OutParam(JJh, AutoType)], t, BlockStmt([VarDecl(mhL, ArrayType([45, 4682], IntegerType)), VarDecl(f, IntegerType, BinExpr(::, FuncCall(q, []), BinExpr(<=, StringLit(), UnExpr(!, Id(tB))))), VarDecl(A, IntegerType, BinExpr(::, BinExpr(>=, BinExpr(||, Id(i), Id(fKAOR)), UnExpr(!, Id(GKXM))), BinExpr(||, Id(h), Id(VX)))), VarDecl(y, IntegerType, BinExpr(-, Id(k), Id(gT)))]))
+	VarDecl(VJ, ArrayType([0], StringType), BinExpr(<=, BinExpr(/, BinExpr(%, Id(iiQg), UnExpr(-, Id(yBG))), Id(BLbNm)), BinExpr(&&, UnExpr(-, UnExpr(!, Id(Z))), Id(rTh))))
+	VarDecl(C, ArrayType([0], StringType), BinExpr(>=, FuncCall(jdo8, []), BinExpr(||, BinExpr(||, BinExpr(+, Id(KIeoMd), BinExpr(%, Id(pps), UnExpr(!, Id(DF)))), UnExpr(!, Id(eYv))), BinExpr(*, Id(C), Id(r)))))
+])

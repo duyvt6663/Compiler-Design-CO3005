@@ -1,0 +1,4 @@
+
+            foo: function integer(){return "zam";}
+            main: function void(){}
+        

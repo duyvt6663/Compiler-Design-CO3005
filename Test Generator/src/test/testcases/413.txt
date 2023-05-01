@@ -1,0 +1,3 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  DVc  : array [ 7_1 , 173_173 , 0 ] of float    ;
+  y  : auto  = DVc [ bar ( )    % 0e83        ]    || DVc [ y   + true       , 57_1_693.972e+058     :: ""       ]        ;
+   

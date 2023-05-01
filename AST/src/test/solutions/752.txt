@@ -1,0 +1,3 @@
+Program([
+	VarDecl(n, ArrayType([0, 40, 219351207], FloatType), BinExpr(<, UnExpr(-, UnExpr(-, UnExpr(-, Id(a)))), BinExpr(-, UnExpr(!, Id(MNmav)), BinExpr(*, Id(O), BooleanLit(True)))))
+])

@@ -1,0 +1,5 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  V  : float   = V [ ""     :: "\""       ]    == readString ( { bar ( V    :: .E+3    >= foo ( )      , ""     :: ""      )    <= V [ m   - bar       ]      , V     , V   < ( V [ { V   >= true      }     && { ( foo ( )      )   > 511_80_03_4231.2E-052969      }        , "\n\'"      , V   % V       ]      )     }     && { foo ( )    < V     , readFloat ( )      }        )      , .15E-1    > V     , { }     && { { true    * 4       , 11.7E-32      , V [ 0    == .E-8987      , bar ( printBoolean ( )      , V [ V    :: V     , ""     :: "\"\'"       ]    > V     )    && foo ( )        ]      , ( 0.      )     }     || V      }         ;
+  v : function array [ 0 ] of boolean    ( ) { _ , C  : auto  ;
+  continue ;
+   i  : auto  ;
+  }    

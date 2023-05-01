@@ -1,0 +1,1 @@
+m : function array [ 0 ] of boolean    ( ) inherit VBI { }    Z , I  : boolean   = - true      :: ! t ( )    && AGX   - I        , ! V    || S   * Z     + ! - t         ;   q : function void ( E : float    , tB : auto    ) inherit T { }    

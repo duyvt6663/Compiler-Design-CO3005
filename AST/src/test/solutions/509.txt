@@ -1,0 +1,4 @@
+Program([
+	VarDecl(uB, ArrayType([0], StringType), BinExpr(::, BinExpr(==, Id(s_), BinExpr(*, UnExpr(!, UnExpr(-, Id(T0NQ))), Id(qN))), BinExpr(!=, BinExpr(%, BinExpr(/, BinExpr(*, Id(yNl), Id(Kx9LC)), UnExpr(-, Id(h))), FuncCall(U, [])), Id(K3o))))
+	FuncDecl(G, StringType, [InheritParam(cg, FloatType)], W, BlockStmt([]))
+])

@@ -1,0 +1,4 @@
+Program([
+	VarDecl(j, StringType)
+	VarDecl(O, StringType)
+])

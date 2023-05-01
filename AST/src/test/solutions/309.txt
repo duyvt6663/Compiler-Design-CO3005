@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(t2Q8, VoidType, [], None, BlockStmt([]))
+])

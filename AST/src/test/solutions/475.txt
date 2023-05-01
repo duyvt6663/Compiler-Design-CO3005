@@ -1,0 +1,3 @@
+Program([
+	VarDecl(YC, ArrayType([9, 4, 0], FloatType))
+])

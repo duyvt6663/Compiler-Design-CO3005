@@ -1,0 +1,10 @@
+Program([
+	FuncDecl(r, VoidType, [], I, BlockStmt([VarDecl(edjMa, ArrayType([0, 759, 0], BooleanType))]))
+	VarDecl(r, AutoType)
+	VarDecl(n, AutoType)
+	VarDecl(iZ, AutoType)
+	VarDecl(HeRAkG, AutoType)
+	VarDecl(sQF, AutoType)
+	VarDecl(n, AutoType)
+	FuncDecl(b, IntegerType, [], a, BlockStmt([]))
+])

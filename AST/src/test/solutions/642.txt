@@ -1,0 +1,8 @@
+Program([
+	VarDecl(Ks, FloatType, BinExpr(::, BinExpr(&&, UnExpr(-, Id(Q)), BinExpr(-, BinExpr(+, Id(f), UnExpr(!, Id(EKK))), Id(CjRS))), BinExpr(>, FuncCall(X8, []), BinExpr(%, UnExpr(!, UnExpr(-, Id(zsRXN))), UnExpr(-, Id(FW))))))
+	VarDecl(GXX, FloatType, BinExpr(::, BinExpr(>=, UnExpr(!, UnExpr(!, FuncCall(gANp, []))), BinExpr(+, BinExpr(/, UnExpr(-, Id(z)), UnExpr(!, Id(nyKb))), UnExpr(-, IntegerLit(4)))), BinExpr(*, BinExpr(/, BinExpr(*, Id(ZD), Id(C)), UnExpr(-, Id(hib))), UnExpr(!, UnExpr(-, Id(kf))))))
+	VarDecl(q, ArrayType([0, 0, 0, 0], StringType), BinExpr(||, BinExpr(-, UnExpr(-, Id(b)), Id(kypU)), Id(V)))
+	VarDecl(om1Mc, ArrayType([0, 0, 0, 0], StringType), BinExpr(::, UnExpr(!, BooleanLit(True)), BinExpr(<, BinExpr(+, UnExpr(-, UnExpr(-, Id(u))), Id(t0)), BinExpr(||, BinExpr(||, FuncCall(i, []), UnExpr(-, Id(k))), UnExpr(-, Id(s2m))))))
+	VarDecl(E, AutoType, BinExpr(<=, UnExpr(-, UnExpr(-, UnExpr(!, Id(nj)))), BinExpr(||, FuncCall(ZJ, []), Id(v))))
+	VarDecl(bU, AutoType, BinExpr(::, BinExpr(<, BinExpr(-, UnExpr(!, FuncCall(k, [])), BinExpr(%, Id(Ga), Id(P))), BinExpr(&&, UnExpr(!, Id(L)), UnExpr(!, UnExpr(-, Id(kC))))), BinExpr(-, BinExpr(+, BinExpr(+, UnExpr(!, Id(eAJKKz)), Id(ZjRf)), BinExpr(%, BinExpr(%, Id(gq), UnExpr(-, Id(EQge))), Id(aVx))), Id(lnh))))
+])

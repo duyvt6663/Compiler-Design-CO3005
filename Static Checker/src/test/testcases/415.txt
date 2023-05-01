@@ -1,0 +1,4 @@
+
+            boo: function void(a: integer){}
+            main: function void(a: integer) inherit boo{super(1, "dum");}
+        

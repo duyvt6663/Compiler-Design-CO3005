@@ -1,0 +1,7 @@
+Program([
+	FuncDecl(H, BooleanType, [], tg, BlockStmt([VarDecl(P, AutoType), VarDecl(G, AutoType), VarDecl(b, AutoType)]))
+	VarDecl(j, IntegerType)
+	VarDecl(GB, IntegerType)
+	VarDecl(SG1h, IntegerType)
+	FuncDecl(gbgVWUQ, ArrayType([0, 65282288290307, 3239], BooleanType), [], DxV2, BlockStmt([VarDecl(WKXVN, ArrayType([640000, 56, 899338130, 4], StringType))]))
+])

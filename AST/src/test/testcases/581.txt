@@ -1,0 +1,1 @@
+x : function void ( ) inherit DNd { }    L : function auto  ( out g8 : boolean     ) { }    

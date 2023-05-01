@@ -1,0 +1,1 @@
+A  : integer   ;   LC , Cz  : string   ;   h : function array [ 734_22 ] of integer    ( ) inherit m { continue ;   }    

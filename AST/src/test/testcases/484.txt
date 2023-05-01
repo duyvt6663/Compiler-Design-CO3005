@@ -1,0 +1,1 @@
+TIz , RfFKGo  : array [ 0 ] of integer    ;   

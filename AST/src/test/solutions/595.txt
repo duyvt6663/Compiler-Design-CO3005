@@ -1,0 +1,5 @@
+Program([
+	VarDecl(q, BooleanType)
+	VarDecl(YMEE0Sx, IntegerType, BinExpr(||, BinExpr(||, BinExpr(||, Id(J), BinExpr(%, Id(O), UnExpr(-, Id(FQrmSqV)))), BinExpr(%, Id(E1gZ), Id(X4eZO))), UnExpr(!, Id(Z))))
+	VarDecl(cB, IntegerType, BinExpr(::, Id(kM6f), BinExpr(&&, UnExpr(-, FuncCall(j, [])), UnExpr(!, Id(G)))))
+])

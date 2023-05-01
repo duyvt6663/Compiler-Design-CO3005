@@ -1,0 +1,8 @@
+
+            main: function void(){
+                {
+                    x = 43;
+                }
+                x: integer;
+            }
+        

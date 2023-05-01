@@ -1,0 +1,1 @@
+Type mismatch in statement: ForStmt(AssignStmt(Id(V), IntegerLit(10)), BooleanLit(False), IntegerLit(1000), CallStmt(main, ))

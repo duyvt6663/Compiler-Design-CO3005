@@ -1,0 +1,1 @@
+b  : auto  ;   zt  : array [ 63 , 0 ] of string    ;   

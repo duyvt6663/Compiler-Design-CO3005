@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(C, VoidType, [], None, BlockStmt([VarDecl(U, FloatType, BinExpr(::, BinExpr(!=, FuncCall(k, []), UnExpr(!, Id(M))), BinExpr(||, Id(AE), Id(kUF)))), VarDecl(pJ, FloatType, BinExpr(::, BinExpr(/, Id(Vt), Id(Mz)), BinExpr(*, Id(E), Id(J)))), VarDecl(Aej, FloatType, BinExpr(+, Id(Lr), Id(o))), VarDecl(Mr0F, FloatType, Id(v4tpT)), DoWhileStmt(BinExpr(!=, UnExpr(-, Id(f)), FuncCall(Tu, [])), BlockStmt([])), BreakStmt(), WhileStmt(BinExpr(::, BinExpr(!=, BinExpr(||, Id(Xw), Id(fzmo)), UnExpr(-, Id(r1))), Id(cHZ)), CallStmt(X, ))]))
+])

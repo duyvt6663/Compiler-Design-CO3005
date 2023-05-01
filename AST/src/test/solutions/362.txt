@@ -1,0 +1,8 @@
+Program([
+	FuncDecl(YQRT, BooleanType, [], WtTB, BlockStmt([WhileStmt(BinExpr(::, BinExpr(&&, Id(BGG), Id(u)), BinExpr(==, IntegerLit(0), UnExpr(-, Id(t)))), CallStmt(J, )), AssignStmt(Id(eC), BinExpr(+, Id(R9), Id(apH))), WhileStmt(BinExpr(::, BinExpr(>=, BinExpr(*, Id(vLDg), Id(n40)), BinExpr(%, Id(X), Id(e))), BinExpr(==, BinExpr(*, Id(c), Id(RI)), BinExpr(/, Id(O6Nh), Id(r)))), BlockStmt([VarDecl(pE, BooleanType), VarDecl(Hu, BooleanType), VarDecl(NC, BooleanType), VarDecl(R, BooleanType), VarDecl(T, BooleanType), VarDecl(q, BooleanType), VarDecl(b, BooleanType), VarDecl(B, FloatType)]))]))
+	VarDecl(Nu, FloatType)
+	VarDecl(l, FloatType)
+	VarDecl(j, FloatType)
+	VarDecl(c, FloatType)
+	VarDecl(G, FloatType)
+])

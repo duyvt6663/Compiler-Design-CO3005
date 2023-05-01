@@ -1,0 +1,4 @@
+Program([
+	FuncDecl(z7Y, AutoType, [], None, BlockStmt([WhileStmt(BinExpr(||, Id(s), Id(jJq)), BlockStmt([])), BlockStmt([])]))
+	FuncDecl(Q, VoidType, [OutParam(Y23, ArrayType([84], BooleanType))], None, BlockStmt([]))
+])

@@ -1,0 +1,1 @@
+i_ : function auto  ( inherit A : float     ) inherit a { if ( Ral_x   == H     ) R8 ( )  ;     P  : string   ;  }    

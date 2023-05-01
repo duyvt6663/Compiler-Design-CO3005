@@ -1,0 +1,8 @@
+
+            main: function void(){
+                V, v, R, Htd, OW, Lq, M: integer;
+                for ( V = - v, v < Htd, 1000) 
+                    main();     
+                break;
+            }
+        

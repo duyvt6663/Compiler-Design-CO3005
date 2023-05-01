@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(e, ArrayType([50, 86777, 0, 0, 9], StringType), [], None, BlockStmt([VarDecl(z0, IntegerType, BinExpr(<, FuncCall(Z, []), UnExpr(!, Id(j)))), BlockStmt([])]))
+])

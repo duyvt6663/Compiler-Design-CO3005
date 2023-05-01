@@ -1,0 +1,8 @@
+
+            foo: function integer(inherit k: integer){}
+            man: function void(out sk: string)inherit foo{ 
+                super(1000);
+                k:string;
+            }
+            main: function void(){}
+        

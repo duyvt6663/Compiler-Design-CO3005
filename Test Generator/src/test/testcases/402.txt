@@ -1,0 +1,10 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  S , s  : boolean   ;
+  K2r , S , b , Yl  : array [ 97_8 ] of integer    ;
+   Z : function string   ( ) { s , c  : string   ;
+  do { }  while ( c   * Z ( K2r   - foo ( )       )       ) ;
+   }    WXo , u  : string   = printString ( )     :: ( printInteger ( 9_03_044      )     :: "\"\f"      )     , - foo ( )        ;
+   K2r : function void ( ) inherit HR { preventDefault ( ) ;
+  while ( { u   - K2r [ 0    != Z ( )       ]       , K2r [ - 0.e+3        ]      }       ) if ( u    :: u   > foo ( )      ) { }       U  : auto  ;
+  }    Ni : function string   ( inherit out eR : array [ 8_681080 ] of integer     , inherit R : integer     ) inherit foo { super ( { }  , 6_7_7 ) ;
+  continue ;
+   }    

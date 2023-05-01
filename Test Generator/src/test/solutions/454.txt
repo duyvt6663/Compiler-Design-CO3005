@@ -1,0 +1,1 @@
+Type mismatch in expression: ArrayCell(p, [UnExpr(!, FuncCall(foo, [])), UnExpr(!, Id(p))])

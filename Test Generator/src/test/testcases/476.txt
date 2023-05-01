@@ -1,0 +1,3 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  a  : auto  = a    :: a      ;
+  w3 : function auto  ( F : auto    ) { }    jS : function float   ( ) inherit readFloat { preventDefault ( ) ;
+  }    

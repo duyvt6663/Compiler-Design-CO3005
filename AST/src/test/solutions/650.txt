@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(zPr4eY, AutoType, [InheritParam(V, FloatType), InheritParam(_x, FloatType)], E, BlockStmt([]))
+])

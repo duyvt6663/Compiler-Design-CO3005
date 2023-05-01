@@ -1,0 +1,9 @@
+Program([
+	VarDecl(h, StringType, BinExpr(::, BinExpr(||, UnExpr(!, UnExpr(!, Id(z))), Id(XKnj)), BinExpr(==, BinExpr(||, BinExpr(||, BinExpr(+, UnExpr(!, UnExpr(!, Id(XX2))), UnExpr(!, Id(I))), Id(c)), Id(Bc)), BinExpr(&&, BinExpr(/, BinExpr(*, BinExpr(/, Id(z), Id(IP)), Id(sAB)), Id(l3)), BinExpr(-, UnExpr(-, Id(Qj)), Id(m))))))
+	VarDecl(K4e, StringType, BinExpr(::, Id(H), BinExpr(>=, BinExpr(&&, BinExpr(&&, BinExpr(&&, Id(MD), BinExpr(-, Id(x1Q), Id(N))), UnExpr(-, Id(i))), UnExpr(-, Id(u))), BinExpr(&&, BinExpr(-, BinExpr(/, BinExpr(*, BinExpr(%, UnExpr(!, Id(a)), Id(Jh)), Id(Kck)), Id(TA)), Id(uAZYrOQ)), BinExpr(+, Id(l6), Id(OOt))))))
+	FuncDecl(FA, ArrayType([0, 5], StringType), [], Yc8Ylf, BlockStmt([]))
+	FuncDecl(tmg87, AutoType, [OutParam(mOg, AutoType)], kld2, BlockStmt([VarDecl(R, ArrayType([0], StringType)), VarDecl(O4r, ArrayType([0], StringType)), ContinueStmt()]))
+	FuncDecl(mN, BooleanType, [InheritOutParam(a, ArrayType([20], BooleanType)), Param(L, AutoType)], ug, BlockStmt([BreakStmt(), WhileStmt(BinExpr(::, BinExpr(*, Id(UTQi), Id(O)), IntegerLit(9)), ContinueStmt())]))
+	VarDecl(_K, AutoType)
+	FuncDecl(K, BooleanType, [OutParam(X, IntegerType)], None, BlockStmt([ContinueStmt(), ContinueStmt()]))
+])

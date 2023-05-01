@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(F, AutoType, [InheritParam(D5, ArrayType([0, 0, 6095], IntegerType)), OutParam(qP, AutoType)], ZG, BlockStmt([AssignStmt(Id(fqb), BinExpr(::, BinExpr(>=, BinExpr(&&, Id(w), Id(E)), UnExpr(-, Id(pd))), BinExpr(<, BinExpr(-, Id(pzR), Id(WYJVA)), BinExpr(&&, Id(xV), Id(DvQ))))), VarDecl(j, AutoType, BinExpr(::, BinExpr(>, StringLit(), UnExpr(-, Id(x))), BinExpr(<, BinExpr(&&, Id(Q), Id(h9)), StringLit()))), AssignStmt(Id(QLAX), BinExpr(::, BinExpr(>, Id(v9), BinExpr(-, Id(QEV9l), Id(sU))), BinExpr(>=, BinExpr(+, Id(XwgWmP), Id(i)), BinExpr(/, Id(s03), Id(D)))))]))
+])

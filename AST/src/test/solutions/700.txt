@@ -1,0 +1,4 @@
+Program([
+	FuncDecl(sh, VoidType, [], None, BlockStmt([]))
+	FuncDecl(mVGH, VoidType, [OutParam(lbx, IntegerType)], None, BlockStmt([VarDecl(y, IntegerType, BinExpr(::, BinExpr(-, Id(z), Id(VI)), BinExpr(!=, BinExpr(/, Id(G), Id(S)), UnExpr(-, Id(Fa)))))]))
+])

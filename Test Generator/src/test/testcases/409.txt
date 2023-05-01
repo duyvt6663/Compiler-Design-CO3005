@@ -1,0 +1,4 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  ul  : array [ 56_610513_7 , 0 , 0 ] of boolean    = foo ( bar ( bar ( 0      , "\'\n"     :: p     )     :: foo ( )    >= 0.e-8      , ul   > readBoolean ( )      )      , ""     :: bar ( )      )     :: ul      ;
+  qSg , ul  : auto  ;
+   ISi , S  : array [ 0 , 9_96 , 4 ] of float    ;
+   

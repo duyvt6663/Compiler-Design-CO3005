@@ -1,0 +1,1 @@
+b_ , ir , N , Su  : array [ 0 ] of string    ;   

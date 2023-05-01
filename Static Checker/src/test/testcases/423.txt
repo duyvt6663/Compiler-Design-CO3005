@@ -1,0 +1,7 @@
+
+            a: function void (b: integer) inherit a { super(1); }
+            foo: function void(){
+                a: integer = 1000;
+            }
+            a: function string (inherit c: string) {}
+        

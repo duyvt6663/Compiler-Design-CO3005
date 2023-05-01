@@ -1,0 +1,4 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  printString , sJ , R  : integer   ;
+  Z : function auto  ( inherit out C : auto    ) { }    nW : function boolean   ( C : auto    ) inherit Z { super ( readBoolean ( )      ) ;
+  break ;
+   }    

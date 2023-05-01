@@ -1,0 +1,1 @@
+c , o , Hoo  : array [ 0 ] of float    ;   

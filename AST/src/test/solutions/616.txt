@@ -1,0 +1,9 @@
+Program([
+	FuncDecl(hRL, StringType, [InheritOutParam(wd, AutoType), InheritOutParam(GhA, ArrayType([856], IntegerType))], qA, BlockStmt([]))
+	VarDecl(kRfW, AutoType)
+	VarDecl(C, IntegerType)
+	VarDecl(T1k, ArrayType([0, 6, 2630794767870524], IntegerType))
+	VarDecl(UCf, ArrayType([0, 6, 2630794767870524], IntegerType))
+	VarDecl(Yf, ArrayType([0, 6, 2630794767870524], IntegerType))
+	FuncDecl(Z, VoidType, [OutParam(E, IntegerType), InheritParam(V, BooleanType)], StIY, BlockStmt([]))
+])

@@ -1,0 +1,1 @@
+baX : function void ( out N : auto   , c4S : float     ) inherit K { c ( )  ;   }    

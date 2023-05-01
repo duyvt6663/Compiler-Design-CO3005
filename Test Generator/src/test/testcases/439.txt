@@ -1,0 +1,3 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  O , ot7  : auto  ;
+  AeO04  : array [ 7_1573086 , 0 ] of boolean    = ot7   - ( 876_15E8      )       ;
+   

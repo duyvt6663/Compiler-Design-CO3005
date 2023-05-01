@@ -1,0 +1,6 @@
+
+            foo: function auto() {}
+            a: integer = -foo();  
+            x: auto = x + foo();
+            bar: function void(){ x = 100.0; }
+        

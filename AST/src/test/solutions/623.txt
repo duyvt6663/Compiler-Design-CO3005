@@ -1,0 +1,6 @@
+Program([
+	VarDecl(PFX, AutoType)
+	VarDecl(nj, AutoType)
+	VarDecl(jnq, IntegerType)
+	VarDecl(v, IntegerType)
+])

@@ -1,0 +1,7 @@
+
+            main: function void(){
+                V, x: auto = 100, 11.11;
+                for ( V = 10, false, x) 
+                    main();     
+            }
+        

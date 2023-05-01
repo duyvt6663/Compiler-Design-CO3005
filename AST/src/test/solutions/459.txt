@@ -1,0 +1,4 @@
+Program([
+	FuncDecl(QhU, FloatType, [], None, BlockStmt([CallStmt(M, ), VarDecl(fs, IntegerType), VarDecl(EXeMA, IntegerType), VarDecl(jK, IntegerType), ReturnStmt()]))
+	FuncDecl(g3, IntegerType, [InheritOutParam(nX9j, StringType)], None, BlockStmt([]))
+])

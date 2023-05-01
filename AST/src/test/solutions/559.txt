@@ -1,0 +1,3 @@
+Program([
+	VarDecl(pkqI, IntegerType, BinExpr(>, FuncCall(jU, []), BinExpr(||, Id(ohz), IntegerLit(863))))
+])

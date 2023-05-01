@@ -1,0 +1,3 @@
+Program([
+	VarDecl(vvk, ArrayType([0, 0, 0, 4, 0], BooleanType), BinExpr(::, BinExpr(+, BinExpr(-, BinExpr(+, UnExpr(-, Id(jb)), Id(J)), UnExpr(-, Id(ZL))), UnExpr(-, Id(f))), BinExpr(>=, BinExpr(&&, BinExpr(&&, BinExpr(%, UnExpr(!, Id(zSzDX46J)), UnExpr(!, Id(Jlb))), BinExpr(*, Id(Qcr), Id(g))), UnExpr(!, Id(c))), UnExpr(!, UnExpr(!, StringLit())))))
+])

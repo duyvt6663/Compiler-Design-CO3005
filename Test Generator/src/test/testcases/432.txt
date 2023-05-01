@@ -1,0 +1,5 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  vr , F , U  : integer   = vr    :: vr     , 1_6    >= 0      , vr   / bar ( bar ( U    :: ""      , bar ( printInteger ( )      , U     )    > F [ vr   != .98e2      , - F      , ( { }       )   || vr       ]      )      , ( U [ - 0        ]    >= U     )   >= ( vr [ U    :: bar ( )      , 39299E+380    > ( U    :: 6    - ( readInteger ( )      )      )     , 0e27    < vr [ vr [ ! { }         ]     :: F     , ""     :: ""      , "\'"     :: ! { }        , vr    :: readInteger ( )       ]      , F   < foo ( bar ( )     :: ""      , U    :: U     )      , - foo ( )       , ( vr     )   < foo ( )       ]      )     )        ;
+  U : function auto  ( ) { while ( ! { 8116.    >= vr     }        ) break ;
+     _x  : boolean   ;
+  break ;
+   }    

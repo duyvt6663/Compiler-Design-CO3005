@@ -1,0 +1,4 @@
+Program([
+	FuncDecl(KCRP, AutoType, [], None, BlockStmt([]))
+	FuncDecl(i, VoidType, [], None, BlockStmt([]))
+])

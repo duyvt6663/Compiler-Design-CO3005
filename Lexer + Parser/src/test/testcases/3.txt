@@ -1,0 +1,1 @@
+Lq : function void  ( inherit out Vve : string     , out Sp : auto    ) inherit fHZE { a4 , D , x  : float   ;  return ;   }    

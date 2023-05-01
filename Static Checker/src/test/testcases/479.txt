@@ -1,0 +1,7 @@
+
+            mam: function void(b: string){
+                v: string = "kek";
+                a: integer = v[1];
+            }
+            main: function void(){}
+        

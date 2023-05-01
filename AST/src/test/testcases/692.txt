@@ -1,0 +1,1 @@
+Q , m  : array [ 0 ] of integer    ;   

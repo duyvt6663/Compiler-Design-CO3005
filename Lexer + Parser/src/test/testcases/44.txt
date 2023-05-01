@@ -1,0 +1,1 @@
+q , S , vuC  : integer   ;   M , nKipL8  : string   ;   

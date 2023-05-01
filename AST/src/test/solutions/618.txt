@@ -1,0 +1,9 @@
+Program([
+	FuncDecl(W, VoidType, [], None, BlockStmt([VarDecl(GL, FloatType, UnExpr(!, Id(B))), VarDecl(k, FloatType, BinExpr(*, Id(F), Id(l))), VarDecl(q, FloatType, BinExpr(::, BinExpr(+, Id(ZC_F), Id(kg)), BinExpr(<, IntegerLit(0), UnExpr(!, Id(V0c))))), VarDecl(R, FloatType, BinExpr(::, BinExpr(>=, FuncCall(e, []), BinExpr(-, Id(g), Id(XM))), BinExpr(>, BinExpr(||, Id(Moq), Id(X)), StringLit()))), VarDecl(ZB14, FloatType, BinExpr(::, BinExpr(>=, BinExpr(&&, Id(s), Id(Fx)), UnExpr(!, Id(Rg))), BinExpr(!=, FuncCall(Ls, []), BinExpr(+, Id(g), Id(ZM7))))), VarDecl(Uq, FloatType, BinExpr(::, UnExpr(-, Id(G)), UnExpr(!, Id(M)))), VarDecl(l, FloatType, UnExpr(!, Id(m)))]))
+	VarDecl(h, AutoType)
+	VarDecl(g02, AutoType)
+	VarDecl(U, IntegerType)
+	VarDecl(M, IntegerType)
+	VarDecl(w, IntegerType)
+	VarDecl(b, IntegerType)
+])

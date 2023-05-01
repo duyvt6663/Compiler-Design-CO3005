@@ -1,0 +1,1 @@
+Z : function array [ 5 ] of float    ( inherit i : string     ) inherit F { }    CYk7 : function void ( ) inherit t { }    

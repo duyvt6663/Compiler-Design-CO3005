@@ -1,0 +1,10 @@
+Program([
+	VarDecl(SNm, BooleanType, BinExpr(&&, BinExpr(&&, UnExpr(!, Id(XdUo8n)), Id(K)), UnExpr(!, Id(X))))
+	VarDecl(Me, FloatType, BinExpr(::, BinExpr(||, BinExpr(/, FuncCall(M, []), UnExpr(-, Id(g))), Id(A)), BinExpr(&&, BinExpr(||, BinExpr(||, FuncCall(E, []), UnExpr(!, Id(_P))), Id(VZ)), BinExpr(-, Id(S), BinExpr(*, Id(w), Id(em))))))
+	FuncDecl(STq, ArrayType([8020], IntegerType), [InheritOutParam(h, ArrayType([2], StringType))], k, BlockStmt([]))
+	VarDecl(Q, FloatType, BinExpr(::, BinExpr(>, UnExpr(!, UnExpr(!, UnExpr(-, Id(u)))), FuncCall(n, [])), BinExpr(<=, Id(Y_9KBE), BinExpr(-, UnExpr(-, UnExpr(!, Id(Wht))), UnExpr(!, Id(F))))))
+	VarDecl(vg_, FloatType, BinExpr(::, BinExpr(<=, BinExpr(&&, BinExpr(&&, UnExpr(!, Id(E)), Id(b)), BinExpr(-, Id(i), Id(cA))), BinExpr(&&, FuncCall(Qk, []), BinExpr(-, UnExpr(!, Id(Xj00)), UnExpr(-, FuncCall(G1U, []))))), BinExpr(||, BinExpr(-, BinExpr(+, StringLit(), Id(u)), Id(P)), Id(p))))
+	VarDecl(Zk, ArrayType([7, 0], StringType), BinExpr(||, BinExpr(%, Id(D), Id(VWM)), BinExpr(+, UnExpr(-, Id(w)), UnExpr(!, Id(i5z)))))
+	VarDecl(q4, IntegerType)
+	VarDecl(P1, IntegerType)
+])

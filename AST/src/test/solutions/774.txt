@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(M, VoidType, [InheritParam(y2a, AutoType), Param(h, FloatType)], None, BlockStmt([]))
+])

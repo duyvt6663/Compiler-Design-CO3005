@@ -1,0 +1,4 @@
+Program([
+	VarDecl(JS1ZK, ArrayType([0], StringType), BinExpr(::, BinExpr(<, BinExpr(-, BinExpr(+, UnExpr(-, Id(gug)), Id(OB1o)), FuncCall(Rr, [])), BinExpr(+, BinExpr(-, UnExpr(!, Id(Mq)), Id(y)), Id(c2))), BinExpr(!=, UnExpr(!, UnExpr(-, UnExpr(!, Id(R)))), BinExpr(&&, BinExpr(-, BinExpr(%, UnExpr(-, Id(h)), Id(h)), UnExpr(-, Id(HcMYm))), Id(FG3)))))
+	VarDecl(_, ArrayType([0], IntegerType))
+])

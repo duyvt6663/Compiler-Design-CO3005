@@ -1,0 +1,8 @@
+Program([
+	VarDecl(kc, IntegerType)
+	VarDecl(b02, IntegerType)
+	VarDecl(D, IntegerType)
+	VarDecl(AfYnt, IntegerType)
+	VarDecl(mH4, IntegerType)
+	VarDecl(r0, IntegerType)
+])

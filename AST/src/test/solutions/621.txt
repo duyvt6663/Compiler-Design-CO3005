@@ -1,0 +1,11 @@
+Program([
+	FuncDecl(Am, VoidType, [Param(p, BooleanType)], x, BlockStmt([AssignStmt(Id(IK), FuncCall(LJ, []))]))
+	FuncDecl(pW, BooleanType, [], g, BlockStmt([]))
+	FuncDecl(fM2, ArrayType([61, 36672409953677167], FloatType), [], None, BlockStmt([]))
+	FuncDecl(CpkmMsnRv, VoidType, [], None, BlockStmt([CallStmt(A2, ), VarDecl(mRT, ArrayType([0], FloatType)), ContinueStmt(), ForStmt(AssignStmt(Id(w), BinExpr(==, BinExpr(%, Id(Bb), Id(f2l)), BinExpr(||, Id(i7), Id(P)))), BinExpr(!=, BinExpr(||, Id(icE), Id(rn9D)), BinExpr(-, Id(e), Id(rr))), BinExpr(::, BinExpr(!=, BinExpr(+, Id(SV6aN), Id(b2K2)), BinExpr(+, Id(Q), Id(N4wlM))), UnExpr(-, Id(V))), BlockStmt([])), VarDecl(z, ArrayType([0], IntegerType)), VarDecl(VFEPub, ArrayType([0], IntegerType)), VarDecl(pQ, ArrayType([0], IntegerType))]))
+	VarDecl(ot, FloatType)
+	FuncDecl(R, VoidType, [InheritOutParam(D, AutoType), OutParam(Z, FloatType), InheritOutParam(TQec, FloatType)], None, BlockStmt([ForStmt(AssignStmt(Id(g), BinExpr(::, BinExpr(/, Id(u), Id(j)), BinExpr(==, UnExpr(!, Id(R)), BinExpr(||, Id(eA), Id(q))))), UnExpr(!, Id(Ffu)), BinExpr(<, UnExpr(!, Id(dX)), UnExpr(-, Id(z))), CallStmt(g, ))]))
+	VarDecl(oIg, ArrayType([0, 0], StringType), BinExpr(::, BinExpr(<, UnExpr(!, UnExpr(!, UnExpr(-, Id(dtL)))), BinExpr(||, UnExpr(!, Id(D_E)), BinExpr(*, UnExpr(-, Id(n)), UnExpr(!, Id(XVQar))))), BinExpr(>=, BinExpr(-, UnExpr(-, UnExpr(!, Id(i))), Id(R)), FloatLit(2e+80))))
+	VarDecl(E1Tj, AutoType, BinExpr(::, BinExpr(*, UnExpr(-, UnExpr(!, Id(rJ))), Id(e3)), BinExpr(>, Id(M), BinExpr(||, UnExpr(!, Id(kA)), BinExpr(-, Id(o0l), BooleanLit(True))))))
+	FuncDecl(s, VoidType, [Param(Q, ArrayType([13], StringType)), InheritParam(f7U, BooleanType)], r5sf, BlockStmt([]))
+])

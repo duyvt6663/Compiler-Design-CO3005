@@ -1,0 +1,6 @@
+Program([
+	VarDecl(Be, FloatType)
+	VarDecl(j, FloatType)
+	VarDecl(gu, FloatType)
+	FuncDecl(x, VoidType, [InheritParam(E, IntegerType)], None, BlockStmt([]))
+])

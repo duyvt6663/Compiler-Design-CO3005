@@ -1,0 +1,4 @@
+Program([
+	VarDecl(XSZp, ArrayType([0, 848], FloatType))
+	VarDecl(v, ArrayType([0, 848], FloatType))
+])

@@ -1,0 +1,7 @@
+
+            man: function void(out k: string)inherit foo{
+                super(12);
+            }
+            foo: function integer(inherit c: integer){}
+            main: function void(){}
+        

@@ -1,0 +1,1 @@
+W  : array [ 3000_324 , 0 ] of string    = ! P   && V     / - - W      >= - hl    * - z    * A   * k         ;   

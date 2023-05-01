@@ -1,0 +1,4 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  u , readFloat  : boolean   = 0.    >= u    :: "\r"      , u   - 6        ;
+  T2G  : integer   = foo ( ""     :: "\f"      , u    :: T2G     )       ;
+   readFloat : function boolean   ( ) { U  : boolean   = T2G [ readFloat      ]     :: printBoolean ( )    <= .1E-4       ;
+  }    

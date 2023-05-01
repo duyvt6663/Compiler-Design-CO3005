@@ -1,0 +1,8 @@
+Program([
+	FuncDecl(iy4, VoidType, [], Wev, BlockStmt([]))
+	VarDecl(_1y, AutoType, BinExpr(::, BinExpr(<, BinExpr(||, BinExpr(||, BinExpr(+, UnExpr(!, Id(I)), Id(s)), BinExpr(/, Id(LoU), Id(Ss))), UnExpr(!, Id(DX))), UnExpr(-, UnExpr(!, UnExpr(!, Id(E))))), BinExpr(*, BinExpr(*, BinExpr(%, BinExpr(%, UnExpr(!, Id(NPGp)), Id(t)), Id(B2N)), UnExpr(!, Id(L))), Id(Uf))))
+	VarDecl(N, AutoType, BinExpr(!=, BinExpr(+, UnExpr(!, FuncCall(D, [])), FuncCall(i, [])), BinExpr(+, UnExpr(!, Id(u)), BinExpr(/, BinExpr(/, Id(px), Id(M)), Id(H)))))
+	VarDecl(VmOo, AutoType, BinExpr(<, BinExpr(&&, UnExpr(-, UnExpr(-, Id(K))), Id(Z)), BinExpr(/, UnExpr(-, UnExpr(-, Id(TJqh))), Id(d))))
+	VarDecl(a, AutoType, BinExpr(::, BinExpr(>=, BinExpr(||, BinExpr(||, BinExpr(||, BinExpr(&&, Id(tE), Id(FQ)), BinExpr(+, Id(t), Id(x))), BinExpr(-, Id(KjH), BinExpr(%, Id(K), Id(o)))), Id(cFNx2)), UnExpr(-, UnExpr(-, UnExpr(!, Id(Zl8d))))), BinExpr(>, ArrayLit([]), Id(r))))
+	FuncDecl(rv, AutoType, [OutParam(p, AutoType), InheritOutParam(n, ArrayType([9483, 9, 1], FloatType)), InheritOutParam(oWi, BooleanType)], None, BlockStmt([]))
+])

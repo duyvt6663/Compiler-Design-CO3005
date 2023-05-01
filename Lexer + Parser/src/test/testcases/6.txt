@@ -1,0 +1,1 @@
+wW , G8O , M1qh , GN1 , hP , NId , L  : array [ 5 , 0 , 0 , 0 ] of string    ;   GpK : function array [ 0 ] of integer      ( out p : auto   , out tC : boolean     , o : auto    ) inherit s { if ( ! h      ) { }     u  : array [ 29_574 ] of boolean    ;  }    

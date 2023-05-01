@@ -1,0 +1,4 @@
+Program([
+	VarDecl(i, AutoType)
+	VarDecl(S, AutoType)
+])

@@ -1,0 +1,5 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  Kgv_ , wf  : auto  ;
+  wf  : array [ 2 ] of float    = ( foo ( )    && { Kgv_   < bar ( wf [ Kgv_   - bar ( )        ]      , wf [ Kgv_   == wf      ]     :: Kgv_   < Kgv_     )      }        )      ;
+   b : function void ( ) { e , wf , n  : array [ 0 , 0 ] of boolean    ;
+  p68VJ  : integer   ;
+  }    

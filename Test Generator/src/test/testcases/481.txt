@@ -1,0 +1,4 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  N , zuE , f  : auto  = N [ foo ( ( f     )     , bar ( )     :: "\\\'"      )    <= ( 0E9      )     , ( 9    > 0e8      )   == bar ( ( 4_5_919      )     , zuE    :: f     )      , printString ( foo ( foo ( )      , N    :: zuE [ 3266    / bar ( )       , N   > f     , ! f       ]      )     :: "\b\r"      )     :: zuE      ]     :: "\r"      , bar ( )    <= foo ( ""     :: .1E-59    < bar ( ( ( f     )     )     , { zuE   / 0       , ( 0      )     , foo ( )      }       )      )       ;
+  KW : function auto  ( out a : integer     ) inherit foo { super ( 881_9_853 ) ;
+  }    ykC  : array [ 1 ] of boolean    ;
+   

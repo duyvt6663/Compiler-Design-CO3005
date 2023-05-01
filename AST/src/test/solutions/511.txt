@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(i_, AutoType, [InheritParam(A, FloatType)], a, BlockStmt([IfStmt(BinExpr(==, Id(Ral_x), Id(H)), CallStmt(R8, )), VarDecl(P, StringType)]))
+])

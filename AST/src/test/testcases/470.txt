@@ -1,0 +1,1 @@
+t : function array [ 0 , 0 , 9_2_32_45107 , 0 ] of integer    ( inherit out N : auto    ) { { }   }    

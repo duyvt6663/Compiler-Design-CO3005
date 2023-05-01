@@ -1,0 +1,1 @@
+XRa : function void ( ) inherit D { }    

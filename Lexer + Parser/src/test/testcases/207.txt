@@ -1,0 +1,7 @@
+ func: function integer(b: float){
+                        while(x>3) func(23);
+                        while(x||"hello"-32 && hello){
+                            while(dd) break;
+                            while(-12-2::"kuku"*{1,2,475}) return; 
+                        }
+                    }

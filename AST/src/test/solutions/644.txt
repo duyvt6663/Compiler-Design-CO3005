@@ -1,0 +1,4 @@
+Program([
+	FuncDecl(oqH, BooleanType, [], k, BlockStmt([VarDecl(L0y, FloatType)]))
+	FuncDecl(g, VoidType, [], None, BlockStmt([]))
+])

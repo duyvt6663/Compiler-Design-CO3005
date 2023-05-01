@@ -1,0 +1,5 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  IA , i  : string   ;
+  j : function void ( ) { j ( ( IA     )   > i     )  ;
+   C , Y  : array [ 3_9053 , 0 ] of string    = bar ( )     :: foo ( j ( C [ ( 0    > 5_9910_0467      )   && ( C     )      , 0e+21    - ( i     )       ]    == preventDefault ( true      , ""     :: IA     )      )    <= Y     , ! { 0.e3    >= .9e+16      , foo ( foo ( )    == IA     )    >= Y     }       :: ""      )      , i   || printFloat ( printInteger ( Y [ ( ""     :: j ( - IA      )    || j ( )       )    :: i     , { }     && { }         ]     :: .E7      )      )        ;
+  }    w88bls , rbHpK  : array [ 0 , 1_5951 , 0 , 4 , 0 , 24_23_39669_85 , 4143 ] of string    ;
+   

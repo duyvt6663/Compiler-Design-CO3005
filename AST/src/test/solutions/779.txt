@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(R, VoidType, [], H, BlockStmt([VarDecl(Z, StringType), VarDecl(W, StringType), VarDecl(H, StringType), VarDecl(GS, StringType), VarDecl(r, StringType), VarDecl(QGf6p, StringType), VarDecl(yOiaAM, StringType), VarDecl(pKdtLvHmD3xV, StringType), ReturnStmt(BinExpr(::, UnExpr(-, Id(g)), BinExpr(||, Id(q), Id(E))))]))
+])

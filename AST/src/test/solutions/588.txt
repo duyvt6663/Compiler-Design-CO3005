@@ -1,0 +1,7 @@
+Program([
+	FuncDecl(R, AutoType, [InheritParam(A, AutoType), InheritOutParam(d, AutoType)], None, BlockStmt([]))
+	VarDecl(N, BooleanType, IntegerLit(521))
+	VarDecl(Ky8, ArrayType([0], IntegerType), BinExpr(==, IntegerLit(1419), BinExpr(||, BinExpr(&&, BinExpr(+, BinExpr(*, FuncCall(o, []), UnExpr(-, Id(tFA))), Id(Jo)), BinExpr(-, Id(Y), Id(ixQ))), Id(Z))))
+	FuncDecl(KxyaS, ArrayType([0], BooleanType), [], T, BlockStmt([ContinueStmt()]))
+	VarDecl(gb, IntegerType)
+])

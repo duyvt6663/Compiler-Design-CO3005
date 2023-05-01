@@ -1,0 +1,9 @@
+Program([
+	VarDecl(k, AutoType)
+	VarDecl(O, AutoType)
+	FuncDecl(X, AutoType, [Param(teng, FloatType), Param(J, AutoType), InheritParam(EP, BooleanType)], Dv, BlockStmt([]))
+	VarDecl(j, AutoType)
+	VarDecl(c, ArrayType([0], BooleanType))
+	VarDecl(z0Ey, ArrayType([0], BooleanType))
+	VarDecl(_, ArrayType([0], BooleanType))
+])

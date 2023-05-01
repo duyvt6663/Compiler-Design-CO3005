@@ -1,0 +1,1 @@
+nEwd  : array [ 47 , 0 ] of boolean    ;   

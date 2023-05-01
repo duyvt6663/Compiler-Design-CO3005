@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(KgCgK, FloatType, [], D, BlockStmt([VarDecl(qeG, AutoType), VarDecl(P4, AutoType), DoWhileStmt(BinExpr(::, StringLit(), BinExpr(>=, UnExpr(-, Id(X)), BinExpr(-, Id(N8j), Id(H)))), BlockStmt([]))]))
+])

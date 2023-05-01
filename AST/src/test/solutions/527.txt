@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(JMW, StringType, [OutParam(Qo, AutoType), OutParam(lSyBww, AutoType)], O, BlockStmt([VarDecl(Ow8, AutoType)]))
+])

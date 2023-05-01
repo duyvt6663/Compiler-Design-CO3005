@@ -1,0 +1,6 @@
+Program([
+	VarDecl(Xshe, IntegerType)
+	VarDecl(nRpv, IntegerType)
+	VarDecl(h, IntegerType)
+	VarDecl(goNHIHf, IntegerType)
+])

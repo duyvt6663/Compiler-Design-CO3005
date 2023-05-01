@@ -1,0 +1,4 @@
+Program([
+	FuncDecl(S, VoidType, [], None, BlockStmt([DoWhileStmt(BinExpr(::, BinExpr(&&, Id(gKi), Id(Rt)), BinExpr(+, Id(GC2), Id(b))), BlockStmt([]))]))
+	FuncDecl(vT, ArrayType([0, 8078, 0], StringType), [OutParam(ig, AutoType), Param(v, BooleanType), Param(t_T, AutoType)], o0e5qpJ, BlockStmt([]))
+])

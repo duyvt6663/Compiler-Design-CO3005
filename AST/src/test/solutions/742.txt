@@ -1,0 +1,5 @@
+Program([
+	FuncDecl(T, VoidType, [], None, BlockStmt([]))
+	VarDecl(MtsP, AutoType)
+	VarDecl(I, AutoType)
+])

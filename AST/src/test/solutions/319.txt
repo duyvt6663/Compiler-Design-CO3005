@@ -1,0 +1,3 @@
+Program([
+	VarDecl(uC, ArrayType([2425], FloatType))
+])

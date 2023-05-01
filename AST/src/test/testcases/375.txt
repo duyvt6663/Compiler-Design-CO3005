@@ -1,0 +1,1 @@
+m8Ah : function void ( out S : auto    ) inherit Am { }    Mc : function array [ 0 ] of float    ( ) inherit A { }    

@@ -1,0 +1,1 @@
+xd : function auto  ( ) inherit Bbu { return O   && l    == e   && B      ;   }    D  : array [ 0 ] of integer    ;   

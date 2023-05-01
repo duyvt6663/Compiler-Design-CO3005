@@ -1,0 +1,1 @@
+cH : function auto  ( ) inherit cLo6 { }    llP  : integer   ;   

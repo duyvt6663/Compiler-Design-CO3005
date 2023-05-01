@@ -1,0 +1,5 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  bar , X , t , T , AtK , qefZ  : array [ 7 ] of string    ;
+  H : function array [ 3_33_6_045 ] of string    ( ) inherit foo { super ( ) ;
+  WSn , d  : array [ 395050 ] of string    = H ( 3    > t     )    == false     :: t     , 97    >= ( 0e-0      )      ;
+  Mu , b , O , CY  : array [ 79_1_5 , 0 ] of string    ;
+  }    

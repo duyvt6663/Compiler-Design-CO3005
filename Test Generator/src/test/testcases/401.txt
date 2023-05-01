@@ -1,0 +1,4 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  R  : float   = R [ ( 0      )   + readInteger ( R    :: bar ( )      )        ]    > ( R [ ! pLrV       ]      )     , ! R [ - 201_4        ]      :: 0    != R [ R   > R     , R   == R      ]       ;
+  o  : auto  ;
+   ZXH7E  : array [ 0 , 980_3_6_6_8_8_95185 ] of float    = printInteger ( )    <= ZXH7E    :: ZXH7E [ 0     :: ZXH7E      ]    / ( o     )      , ZXH7E   != bar ( ( R     )     , bar ( ZXH7E     , ZXH7E [ 5E-2    >= bar ( )      , QAh6 ( )    + R       ]      )    <= ZXH7E     )      , ZXH7E   || R       ;
+   

@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(SXZib, VoidType, [OutParam(zbt, StringType), InheritOutParam(Qsy, ArrayType([0, 70496610070], FloatType))], None, BlockStmt([]))
+])

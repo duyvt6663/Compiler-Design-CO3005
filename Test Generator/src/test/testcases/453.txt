@@ -1,0 +1,3 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  q , l , hcg , sL , EZ  : integer   = { EZ   != ( 52_9      )     , readString ( )    >= 0      }     && q      , l    :: printInteger ( EZ     )      , ! q      , l    :: ""      , "\n"     :: l   < EZ      ;
+  preventDefault , O0  : string   ;
+   

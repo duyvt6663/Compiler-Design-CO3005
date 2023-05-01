@@ -1,0 +1,3 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  _M  : array [ 0 , 4 ] of string    ;
+  w : function void ( ) { for ( _M [ _M   + .E-93        ]   = printInteger ( )      , { }     - 34495_5_8_8.       , _M   / _M      ) return ( 0      )   / 627e+87       ;
+     }    

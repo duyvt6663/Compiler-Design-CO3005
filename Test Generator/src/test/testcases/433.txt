@@ -1,0 +1,4 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  w  : auto  ;
+  C9 , Fi  : array [ 264_7 , 1 , 9_044604_38523 ] of string    ;
+   p9 : function string   ( ) inherit foo { super ( ) ;
+  }    

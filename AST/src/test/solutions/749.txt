@@ -1,0 +1,11 @@
+Program([
+	FuncDecl(W, ArrayType([36, 37, 0], BooleanType), [OutParam(Qcz7D4Rsb, ArrayType([7630, 0], BooleanType)), InheritParam(m, FloatType)], _, BlockStmt([ContinueStmt(), VarDecl(WP, AutoType, BinExpr(>, BinExpr(||, Id(G), Id(z)), UnExpr(-, Id(OE))))]))
+	VarDecl(m, ArrayType([1387, 0], FloatType), BinExpr(::, BinExpr(||, BinExpr(-, Id(MjQI), Id(r1)), BinExpr(-, BinExpr(/, BinExpr(%, UnExpr(-, Id(lznHOA)), Id(BUY)), Id(HRvVJ)), UnExpr(-, Id(so)))), BinExpr(||, BinExpr(/, BinExpr(/, UnExpr(!, FuncCall(P, [])), Id(Qza)), Id(V)), UnExpr(-, Id(Ckr0M)))))
+	VarDecl(Y, ArrayType([1387, 0], FloatType), BinExpr(>=, IntegerLit(0), Id(U3H)))
+	VarDecl(W, ArrayType([1387, 0], FloatType), BinExpr(::, BinExpr(+, BinExpr(+, BinExpr(%, UnExpr(-, Id(K)), Id(V)), Id(vR)), Id(x)), Id(ox14)))
+	VarDecl(wV, FloatType, BinExpr(>, BinExpr(*, UnExpr(!, UnExpr(!, Id(k))), Id(O3Q)), BinExpr(+, BinExpr(/, BinExpr(/, Id(EP), Id(UaIm2Mi)), UnExpr(!, Id(TJ))), FuncCall(G, []))))
+	VarDecl(D2, FloatType, BinExpr(::, BinExpr(%, BinExpr(%, UnExpr(-, UnExpr(!, Id(jR))), Id(q)), Id(ac6)), BinExpr(-, UnExpr(!, UnExpr(-, Id(kH))), Id(vE3))))
+	VarDecl(ey, ArrayType([83, 11], FloatType), BinExpr(::, BinExpr(>, BinExpr(&&, BinExpr(||, BinExpr(%, UnExpr(-, Id(S1)), Id(f)), UnExpr(-, Id(mEM))), BinExpr(-, Id(Cj0nM), Id(bJ3))), BinExpr(||, BinExpr(/, UnExpr(-, Id(DW)), Id(z)), BinExpr(-, Id(P8), Id(n)))), BinExpr(||, UnExpr(-, UnExpr(!, Id(W))), StringLit())))
+	VarDecl(us, ArrayType([83, 11], FloatType), BinExpr(::, BinExpr(-, UnExpr(-, UnExpr(!, Id(L))), IntegerLit(36)), BinExpr(*, BinExpr(*, UnExpr(-, UnExpr(!, Id(Ko))), Id(v)), Id(f))))
+	FuncDecl(J, VoidType, [InheritParam(Wo, AutoType)], None, BlockStmt([VarDecl(Hf, BooleanType), VarDecl(VdC5, BooleanType)]))
+])

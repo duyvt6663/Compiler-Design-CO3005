@@ -1,0 +1,8 @@
+Program([
+	VarDecl(O, FloatType)
+	VarDecl(WB, FloatType)
+	VarDecl(k, FloatType)
+	VarDecl(b, FloatType)
+	VarDecl(khTdd, FloatType)
+	VarDecl(t0, FloatType)
+])

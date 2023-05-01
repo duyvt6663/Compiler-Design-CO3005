@@ -1,0 +1,4 @@
+Program([
+	VarDecl(UJ, IntegerType)
+	FuncDecl(F, VoidType, [OutParam(jokq, StringType)], s3lh, BlockStmt([]))
+])

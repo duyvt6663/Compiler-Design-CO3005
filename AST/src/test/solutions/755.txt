@@ -1,0 +1,6 @@
+Program([
+	FuncDecl(O, FloatType, [OutParam(k1, AutoType)], o, BlockStmt([]))
+	FuncDecl(s, ArrayType([43903560], StringType), [OutParam(w, ArrayType([827], StringType))], None, BlockStmt([BlockStmt([]), ContinueStmt()]))
+	VarDecl(N, FloatType, BinExpr(::, BinExpr(&&, BinExpr(||, BinExpr(+, UnExpr(-, Id(d)), Id(S)), Id(Qmn9IAV)), UnExpr(-, UnExpr(!, Id(QF2)))), FuncCall(z, [])))
+	VarDecl(wn, FloatType, BinExpr(&&, BinExpr(&&, Id(MwA), UnExpr(!, Id(h))), UnExpr(!, Id(JwTln))))
+])

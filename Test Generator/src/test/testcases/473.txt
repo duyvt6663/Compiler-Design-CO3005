@@ -1,0 +1,5 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  i , Z  : auto  ;
+  M : function void ( inherit out y : float     ) inherit bar { preventDefault ( ) ;
+  { Zyal  : array [ 5_9 ] of integer    ;
+  }   for ( Zyal [ 2E+7       ]   = y    :: "\t"      , ( readFloat ( )      )    :: ( "\b"     :: Zyal [ Z   <= Zyal [ Zyal [ foo ( Zyal     , 0    < readFloat ( - Z      )     :: Zyal   > 0      )    > Z     , ( Z    :: ""      )    :: ( readInteger ( y   && 0.9e1       )     :: foo ( )      )     , Zyal [ i   % y       ]    >= Z      ]     :: "\""      , y   == vul ( )       ]       ]    - bar ( 0      , i     )       )     , M ( )    == 5_014      ) return y   + 0       ;
+     }    

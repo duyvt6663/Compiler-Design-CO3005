@@ -1,0 +1,8 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  _  : array [ 7_3_152 ] of boolean    = "\\"     :: { _   - foo ( )       }        ;
+  _5  : auto  ;
+   _  : array [ 0 ] of boolean    ;
+   E : function void ( ) { }    Fp : function void ( ) inherit foo { preventDefault ( ) ;
+  { zl , N  : array [ 0 , 0 , 1 , 3 ] of string    ;
+  z , ps , D2XF , MwnLj8 , g , ZDek  : array [ 0 ] of integer    = Fp ( ( Fp ( D2XF   / b      )    > .E+475      )   && { }        )     :: printString ( )      , 0    > 933_15      , bar ( )    || { }       :: "\n\""      , ps   * b      , ! zl      , MwnLj8   || { 89    / ZDek      }         ;
+  }   b  = MwnLj8   >= 9674_17_589708      ;
+   }    

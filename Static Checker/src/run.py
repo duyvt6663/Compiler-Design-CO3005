@@ -1,0 +1,106 @@
+import sys
+import os
+import subprocess
+import unittest
+from antlr4 import *
+import shutil
+
+for path in ['./test/', './main/mt22/parser/', './main/mt22/utils/', './main/mt22/astgen/', './main/mt22/checker/', './main/mt22/codegen/']:
+    sys.path.append(path)
+ANTLR_JAR = os.environ.get('ANTLR_JAR')
+TARGET_DIR = '../target'
+GENERATE_DIR = 'main/mt22/parser'
+TEST_DIR = './test/testcases'
+SOL_DIR = './test/solutions'
+
+
+def main(argv):
+    if len(argv) < 1:
+        printUsage()
+    elif argv[0] == 'gen':
+        subprocess.run(["java", "-jar", ANTLR_JAR, "-o", "../target",
+                       "-no-listener", "-visitor", "main/mt22/parser/MT22.g4"])
+    elif argv[0] == 'clean':
+        subprocess.run(["rm", "-rf", TARGET_DIR + "/*"])
+
+    elif argv[0] == 'test':
+        shutil.rmtree(TEST_DIR)
+        os.makedirs(TEST_DIR)
+        shutil.rmtree(SOL_DIR)
+        os.makedirs(SOL_DIR)
+        if not os.path.isdir(TARGET_DIR + "/" + GENERATE_DIR):
+            subprocess.run(["java", "-jar", ANTLR_JAR, "-o", GENERATE_DIR,
+                           "-no-listener", "-visitor", "main/mt22/parser/MT22.g4"])
+        if not (TARGET_DIR + "/" + GENERATE_DIR) in sys.path:
+            sys.path.append(TARGET_DIR + "/" + GENERATE_DIR)
+        if len(argv) < 2:
+            printUsage()
+        elif argv[1] == 'LexerSuite':
+            from LexerSuite import LexerSuite
+            getAndTest(LexerSuite)
+        elif argv[1] == 'ParserSuite':
+            from ParserSuite import ParserSuite
+            getAndTest(ParserSuite)
+        elif argv[1] == 'ASTGenSuite':
+            from ASTGenSuite import ASTGenSuite
+            getAndTest(ASTGenSuite)
+        elif argv[1] == 'CheckerSuite':
+            from CheckerSuite import CheckerSuite
+            renumberTests()
+            getAndTest(CheckerSuite)
+        # elif argv[1] == 'CodeGenSuite':
+        #     from CodeGenSuite import CheckCodeGenSuite
+        #     getAndTest(CheckCodeGenSuite)
+        else:
+            printUsage()
+    else:
+        printUsage()
+
+
+def getAndTest(cls):
+    suite = unittest.makeSuite(cls)
+    test(suite)
+
+def renumberTests():
+    file = open("./test/CheckerSuite.py", 'r+',encoding='utf-8')
+    lines = file.readlines()
+    i, ind = 0, 0
+    while i < len(lines):
+        if 'def test_' not in lines[i] or '#' in lines[i]:
+            i += 1
+            continue
+        lines[i] = lines[i][:13]+str(401+ind)+lines[i][16:]
+        while 'self.assertTrue' not in lines[i]: i+=1
+        lines[i] = f"        self.assertTrue(TestChecker.test(input, expect, {ind+401}))\n"
+        i += 1
+        ind += 1
+    # print(lines)
+    file.seek(0)
+    file.truncate()
+    file.write("".join(lines))
+    file.close()
+
+def test(suite):
+    from pprint import pprint
+    from io import StringIO
+    stream = StringIO()
+    runner = unittest.TextTestRunner(stream=stream)
+    result = runner.run(suite)
+    print('Tests run ', result.testsRun)
+    print('Errors ', result.errors)
+    pprint(result.failures)
+    stream.seek(0)
+    print('Test output\n', stream.read())
+
+
+def printUsage():
+    print("python3 run.py gen")
+    print("python3 run.py test LexerSuite")
+    print("python3 run.py test ParserSuite")
+    print("python3 run.py test ASTGenSuite")
+    print("python3 run.py test CheckerSuite")
+    # print("python3 run.py test CodeGenSuite")
+
+
+if __name__ == "__main__":
+    main(sys.argv[1:])

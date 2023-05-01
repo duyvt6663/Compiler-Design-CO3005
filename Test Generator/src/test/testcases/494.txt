@@ -1,0 +1,3 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  p  : auto  = ! { ! { p    :: p [ { }     != p      ]      , p    :: readInteger ( bar ( )    <= p     )    >= "\r"      , printInteger ( )     :: p [ foo ( p [ p   && foo ( )       , ( foo ( )      )      ]      , p [ readBoolean ( )    % p       ]    && { 6_0_80417_3_95_8    < p     , p     , { }       }       :: 5_6.      )     :: ( p [ p   >= 8_2825_86_7_6_1_46       ]    <= p    :: p     )     , p [ ! p [ p   >= p    :: p      ]        ]    || bar ( 288_3_234      , bar ( )      )        ]      }        , 5    == p     }        , ! { }         ;
+  e  : array [ 0 ] of string    = e   <= p      ;
+   

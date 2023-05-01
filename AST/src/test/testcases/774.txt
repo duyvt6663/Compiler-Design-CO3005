@@ -1,0 +1,1 @@
+M : function void ( inherit y2a : auto   , h : float     ) { }    

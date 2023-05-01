@@ -1,0 +1,1 @@
+uC  : array [ 242_5 ] of float    ;   

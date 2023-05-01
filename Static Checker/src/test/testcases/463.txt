@@ -1,0 +1,6 @@
+
+            main: function void(){
+                v: auto = {1,2}
+                v = 492;
+            }
+        

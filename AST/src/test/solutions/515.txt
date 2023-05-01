@@ -1,0 +1,7 @@
+Program([
+	VarDecl(LHU, BooleanType)
+	VarDecl(y, BooleanType)
+	VarDecl(t, BooleanType)
+	VarDecl(A, StringType)
+	VarDecl(y, StringType)
+])

@@ -1,0 +1,14 @@
+
+            mai: string = "boo";
+            main: function void(){}
+            man: function integer(inherit dun: float){
+                keke: integer = 239;
+                if(keke < 565){
+                    surigame: string = mai::"dumdum";
+                }
+                {
+                    tes: auto = 34;
+                    main();
+                }
+            }
+        

@@ -1,0 +1,6 @@
+Program([
+	VarDecl(W, AutoType)
+	VarDecl(WKFaGe_, AutoType)
+	FuncDecl(k, VoidType, [OutParam(U, AutoType)], None, BlockStmt([]))
+	FuncDecl(o8g, AutoType, [], None, BlockStmt([BlockStmt([ContinueStmt(), CallStmt(inz, )])]))
+])

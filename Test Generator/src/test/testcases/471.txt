@@ -1,0 +1,4 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  NN , IYkD , UJ , y_g , Ye8 , ws , s , oxH , U , B , bar , _  : string   ;
+  R : function string   ( ) { }    N : function array [ 902 ] of integer    ( inherit out Ciipt : float    , h : array [ 0 ] of string      ) inherit R { super ( 0E90 , { 32E60    - bar ( bar ( bar     , { }       )      , R ( )      )       , true    != { }       }  ) ;
+  }    z : function void ( inherit W : array [ 140_51 , 0 , 5 , 9_37_11_6367 , 0 ] of float     , inherit a : auto    ) inherit foo { preventDefault ( ) ;
+  }    

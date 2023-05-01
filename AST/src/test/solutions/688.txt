@@ -1,0 +1,5 @@
+Program([
+	FuncDecl(Q, VoidType, [], None, BlockStmt([VarDecl(l, IntegerType), VarDecl(Qq5, IntegerType), ContinueStmt(), IfStmt(BinExpr(::, BinExpr(>, BinExpr(-, Id(wt23), Id(x)), BinExpr(&&, Id(fjY), Id(X))), BinExpr(>, BinExpr(&&, Id(RHV), Id(LYN)), UnExpr(-, Id(PA)))), ContinueStmt()), WhileStmt(BinExpr(::, UnExpr(!, Id(_gZ)), BinExpr(==, UnExpr(!, Id(aZ)), UnExpr(-, Id(g)))), BlockStmt([]))]))
+	FuncDecl(Kut, ArrayType([7], IntegerType), [], s, BlockStmt([]))
+	VarDecl(m, BooleanType)
+])

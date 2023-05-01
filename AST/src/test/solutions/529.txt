@@ -1,0 +1,4 @@
+Program([
+	FuncDecl(MqX, VoidType, [], v, BlockStmt([VarDecl(F, FloatType, BinExpr(::, BinExpr(/, Id(H), Id(UZ)), UnExpr(-, Id(R6))))]))
+	FuncDecl(X, VoidType, [InheritParam(K9xOY1rsm, BooleanType)], l, BlockStmt([]))
+])

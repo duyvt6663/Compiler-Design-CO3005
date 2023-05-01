@@ -1,0 +1,5 @@
+Program([
+	FuncDecl(E, ArrayType([0, 990], FloatType), [], None, BlockStmt([]))
+	FuncDecl(y, AutoType, [InheritParam(k, AutoType)], BeU, BlockStmt([]))
+	VarDecl(Bgo, ArrayType([0], FloatType))
+])

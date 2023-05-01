@@ -1,0 +1,4 @@
+Program([
+	FuncDecl(mYto, VoidType, [InheritParam(skAk, AutoType)], None, BlockStmt([]))
+	FuncDecl(YIP, VoidType, [], mpwa7, BlockStmt([]))
+])

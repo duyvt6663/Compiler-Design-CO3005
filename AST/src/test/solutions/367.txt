@@ -1,0 +1,6 @@
+Program([
+	FuncDecl(col, VoidType, [InheritOutParam(Teub_, ArrayType([4], StringType))], B7C, BlockStmt([VarDecl(N, ArrayType([0, 8955340442159345, 6986, 474525], StringType), BinExpr(::, BinExpr(+, Id(i), Id(DH)), BinExpr(<, UnExpr(!, Id(d)), BinExpr(/, Id(B), Id(Fo))))), VarDecl(q, ArrayType([0, 8955340442159345, 6986, 474525], StringType), BinExpr(::, BinExpr(*, Id(lY), Id(iEOXlx)), FuncCall(zq, []))), VarDecl(xcO, ArrayType([0, 30017, 0], IntegerType)), VarDecl(qz, ArrayType([0, 30017, 0], IntegerType)), VarDecl(hA, ArrayType([0, 30017, 0], IntegerType)), VarDecl(t, ArrayType([0, 30017, 0], IntegerType)), VarDecl(K, IntegerType, BinExpr(*, Id(bO), Id(kDq))), VarDecl(G, IntegerType, BinExpr(<=, UnExpr(-, Id(zV)), UnExpr(!, Id(i)))), VarDecl(v, IntegerType, UnExpr(-, Id(u))), VarDecl(k, IntegerType, BinExpr(::, BinExpr(*, Id(JI), Id(yA)), BinExpr(>, UnExpr(-, Id(P6)), BinExpr(&&, Id(Gn3I), Id(GcDyUH))))), VarDecl(B, IntegerType, BinExpr(>, UnExpr(-, Id(x)), Id(er))), VarDecl(s, IntegerType), VarDecl(sqZ3qCS, IntegerType, BinExpr(::, UnExpr(!, Id(brMa4)), BinExpr(<, FuncCall(J, []), BinExpr(-, Id(Km), Id(j)))))]))
+	VarDecl(A, BooleanType)
+	VarDecl(h, BooleanType)
+	VarDecl(w, BooleanType)
+])

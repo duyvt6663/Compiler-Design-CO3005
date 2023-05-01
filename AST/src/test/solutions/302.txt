@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(A, AutoType, [InheritOutParam(LW, ArrayType([0], StringType)), OutParam(Ob, FloatType), Param(OTr, AutoType), OutParam(X, AutoType)], None, BlockStmt([VarDecl(WX, AutoType, BinExpr(::, StringLit(), BinExpr(||, Id(T), Id(i))))]))
+])

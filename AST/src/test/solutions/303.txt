@@ -1,0 +1,10 @@
+Program([
+	VarDecl(z, AutoType, BinExpr(!=, UnExpr(-, UnExpr(!, UnExpr(!, Id(F)))), ArrayLit([])))
+	VarDecl(S, AutoType, BinExpr(<, BinExpr(&&, BinExpr(||, UnExpr(!, Id(O04kp)), BinExpr(+, Id(f), Id(N))), BinExpr(*, Id(WzJ0), UnExpr(!, Id(Sma)))), BinExpr(-, BinExpr(+, BinExpr(*, Id(pAJi), Id(ZS)), UnExpr(-, Id(c))), BinExpr(%, UnExpr(-, Id(K)), UnExpr(!, Id(scX))))))
+	VarDecl(D, AutoType, BinExpr(>, UnExpr(!, UnExpr(-, IntegerLit(0))), IntegerLit(0)))
+	VarDecl(HG, AutoType, BinExpr(::, Id(Clp), BinExpr(==, BinExpr(&&, BinExpr(&&, UnExpr(!, UnExpr(-, Id(zg))), UnExpr(-, Id(TY))), Id(MC)), BinExpr(+, IntegerLit(0), BinExpr(*, BinExpr(%, Id(L), Id(ux)), UnExpr(-, FuncCall(lZ, [])))))))
+	VarDecl(VN, AutoType, BinExpr(>, BinExpr(+, BinExpr(-, BinExpr(*, UnExpr(-, Id(H)), Id(wIz)), Id(R)), Id(iE)), UnExpr(!, Id(SE4))))
+	FuncDecl(U, AutoType, [], None, BlockStmt([DoWhileStmt(BinExpr(>=, StringLit(), Id(My)), BlockStmt([VarDecl(t, ArrayType([0, 0, 4, 0], FloatType)), VarDecl(ZM, ArrayType([0, 0, 4, 0], FloatType)), VarDecl(s, ArrayType([0, 0, 4, 0], FloatType)), BlockStmt([])])), WhileStmt(BinExpr(::, BinExpr(%, Id(k), Id(MPK)), BinExpr(<=, BinExpr(-, Id(CG), Id(qQ)), BinExpr(+, Id(ay), Id(v)))), ContinueStmt())]))
+	VarDecl(fkHsG, FloatType, BinExpr(<, IntegerLit(0), BinExpr(&&, UnExpr(!, UnExpr(!, Id(y))), Id(j))))
+	VarDecl(E, IntegerType)
+])

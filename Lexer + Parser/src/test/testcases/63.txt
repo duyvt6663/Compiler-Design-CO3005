@@ -1,0 +1,1 @@
+O : function auto   ( inherit out kAm : array [ 17610_5 , 0 , 64_2_9_2_3_9 ] of float       ) { }    

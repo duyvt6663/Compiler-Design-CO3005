@@ -1,0 +1,7 @@
+Program([
+	VarDecl(n, AutoType)
+	VarDecl(g, AutoType)
+	VarDecl(C_TC, AutoType)
+	VarDecl(l, AutoType)
+	FuncDecl(N, VoidType, [], None, BlockStmt([VarDecl(AcX, BooleanType, BinExpr(-, Id(iti5), Id(Q))), VarDecl(L, BooleanType, BinExpr(==, BinExpr(%, Id(e), Id(j)), BinExpr(+, Id(NK), Id(Q)))), VarDecl(k, BooleanType, BinExpr(<=, BinExpr(||, Id(Pe), Id(le)), BinExpr(+, Id(e), Id(tw)))), VarDecl(pGA, BooleanType, BinExpr(::, BinExpr(/, Id(s), Id(Ecp6)), BinExpr(<, BinExpr(%, Id(d), Id(S)), BinExpr(||, Id(vY), Id(H7))))), VarDecl(F1, BooleanType, BinExpr(||, Id(p), Id(d))), VarDecl(e, BooleanType, BinExpr(/, Id(A), Id(OH))), VarDecl(I_8xL, BooleanType, BinExpr(/, Id(S), Id(w))), VarDecl(VJ, StringType, BinExpr(::, BinExpr(<, BinExpr(&&, Id(RK), Id(r)), UnExpr(!, Id(b))), BinExpr(>=, BinExpr(-, Id(BE), Id(S)), Id(q)))), VarDecl(N, StringType, BinExpr(::, BinExpr(==, BinExpr(-, Id(rP9), Id(jDBx)), UnExpr(!, Id(He))), StringLit())), AssignStmt(Id(lk), UnExpr(!, Id(P)))]))
+])

@@ -1,0 +1,6 @@
+Program([
+	VarDecl(z, AutoType)
+	VarDecl(_T, AutoType)
+	VarDecl(b, AutoType)
+	VarDecl(M, FloatType, FuncCall(dI, []))
+])

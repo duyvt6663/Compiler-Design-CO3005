@@ -1,0 +1,4 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  K , F , zE , Ua  : array [ 9_37_225_5 ] of integer    ;
+  U , K  : array [ 0 ] of string    = readString ( )     :: Ua     , ! { }         ;
+   s : function string   ( ) { return 1.e9    + 29_7_77_707722.13       ;
+   }    

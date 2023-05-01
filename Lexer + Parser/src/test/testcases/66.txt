@@ -1,0 +1,1 @@
+RI  : integer   ;   vw : function void  ( out i : auto    ) inherit sKW { p  : boolean    = V   && my       ;  }    

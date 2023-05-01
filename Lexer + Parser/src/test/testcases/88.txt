@@ -1,0 +1,1 @@
+qt : function array [ 0 ] of string      ( ) { }    

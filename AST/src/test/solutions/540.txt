@@ -1,0 +1,7 @@
+Program([
+	FuncDecl(gET, VoidType, [], None, BlockStmt([]))
+	VarDecl(TMMfysn, StringType, BinExpr(-, ArrayLit([]), ArrayLit([])))
+	VarDecl(y, StringType, BinExpr(::, BinExpr(>=, BinExpr(&&, BinExpr(&&, BinExpr(||, Id(bfCWnL), BinExpr(-, BinExpr(-, Id(Y), BinExpr(/, Id(wMb), Id(_F))), Id(m))), Id(yZ)), UnExpr(-, Id(tg))), BinExpr(||, BinExpr(-, UnExpr(!, UnExpr(-, Id(l))), BinExpr(/, Id(nI1), Id(f))), UnExpr(-, Id(v)))), BinExpr(<, BinExpr(&&, FuncCall(a, []), ArrayLit([])), BinExpr(||, UnExpr(!, Id(F6m)), BinExpr(+, FuncCall(xMKVH, []), BinExpr(/, BinExpr(*, Id(R), Id(nqI6)), UnExpr(!, Id(Q))))))))
+	VarDecl(GZj, StringType, BinExpr(::, BinExpr(+, BinExpr(+, UnExpr(-, UnExpr(!, Id(i))), Id(Hj)), Id(fE)), BinExpr(-, UnExpr(-, Id(xo)), BinExpr(/, Id(HQy3), Id(kvT)))))
+	VarDecl(iN, StringType, BinExpr(::, BinExpr(>=, BinExpr(||, BinExpr(%, UnExpr(-, Id(gt)), Id(H)), StringLit()), UnExpr(-, FuncCall(t, []))), BinExpr(>, BinExpr(/, UnExpr(!, UnExpr(!, Id(xI))), UnExpr(-, Id(C))), UnExpr(!, UnExpr(!, FuncCall(S, []))))))
+])

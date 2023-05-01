@@ -1,0 +1,6 @@
+Program([
+	VarDecl(F, ArrayType([0], StringType))
+	VarDecl(Wdgi, ArrayType([0], StringType))
+	VarDecl(xs, ArrayType([0], StringType))
+	VarDecl(T, AutoType, BinExpr(::, BinExpr(||, BinExpr(+, UnExpr(-, Id(m)), Id(onl)), BinExpr(+, Id(Cm), Id(y))), BinExpr(<=, BinExpr(&&, BinExpr(*, UnExpr(!, Id(W4T)), Id(qU)), UnExpr(-, UnExpr(!, Id(M)))), BinExpr(+, UnExpr(!, Id(eK)), BinExpr(%, Id(R), UnExpr(-, UnExpr(-, Id(a))))))))
+])

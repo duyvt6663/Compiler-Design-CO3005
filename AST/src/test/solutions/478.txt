@@ -1,0 +1,9 @@
+Program([
+	FuncDecl(IZU, ArrayType([6364, 5, 0, 3804, 0], IntegerType), [Param(p, AutoType), Param(rz1, ArrayType([0, 0, 64956, 12], StringType)), OutParam(B, ArrayType([0, 0], IntegerType))], None, BlockStmt([]))
+	VarDecl(Y, AutoType, BinExpr(>=, ArrayLit([]), UnExpr(!, Id(l))))
+	VarDecl(u4qh, AutoType, BinExpr(&&, BinExpr(||, BinExpr(-, BinExpr(+, Id(Qn8), Id(TDf)), BinExpr(%, Id(JX), Id(O))), UnExpr(!, Id(BnHF))), Id(H)))
+	VarDecl(oHvX, AutoType, UnExpr(-, FuncCall(pQ, [])))
+	VarDecl(H, AutoType, BinExpr(>, FuncCall(RZ, []), BinExpr(&&, UnExpr(-, FuncCall(d, [])), BinExpr(%, Id(b), Id(Y)))))
+	VarDecl(H, ArrayType([67, 0, 6], StringType), BinExpr(<=, BinExpr(||, BinExpr(+, BinExpr(%, FuncCall(ikAKsI, []), Id(K)), Id(w)), UnExpr(!, UnExpr(-, Id(f)))), BinExpr(||, UnExpr(-, UnExpr(!, Id(m))), Id(rC))))
+	VarDecl(N, ArrayType([67, 0, 6], StringType), BinExpr(::, BinExpr(||, UnExpr(-, UnExpr(-, Id(W))), UnExpr(-, Id(I))), UnExpr(!, UnExpr(-, UnExpr(!, Id(IXjlAe))))))
+])

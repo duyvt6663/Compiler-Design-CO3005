@@ -1,0 +1,7 @@
+
+            mam: function void(b: auto){
+                mam(100);
+                b = "string";
+            }
+            main: function void(){}
+        

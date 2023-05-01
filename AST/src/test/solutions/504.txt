@@ -1,0 +1,7 @@
+Program([
+	FuncDecl(X, VoidType, [InheritParam(Jb, AutoType)], None, BlockStmt([]))
+	FuncDecl(_nW, VoidType, [OutParam(a, ArrayType([0, 0], FloatType))], bd, BlockStmt([VarDecl(mO, AutoType, BinExpr(::, UnExpr(!, Id(Z2_8)), BinExpr(||, Id(t), Id(F))))]))
+	FuncDecl(v, AutoType, [], gFBL, BlockStmt([]))
+	FuncDecl(zoy, ArrayType([90564, 0, 0], IntegerType), [], v, BlockStmt([IfStmt(BinExpr(::, BinExpr(<=, UnExpr(!, Id(z)), IntegerLit(5)), UnExpr(-, Id(YW))), CallStmt(M, ), BlockStmt([])), DoWhileStmt(BinExpr(::, BinExpr(>=, Id(AuPfl), UnExpr(-, Id(yW))), BinExpr(||, Id(XO), Id(k))), BlockStmt([BreakStmt(), VarDecl(TP, IntegerType), VarDecl(I, IntegerType), VarDecl(bg9jMp, AutoType), VarDecl(me, AutoType), VarDecl(wKq, AutoType), VarDecl(cj, AutoType), VarDecl(P6i, BooleanType), BlockStmt([]), VarDecl(K, FloatType), VarDecl(Z, FloatType), VarDecl(Pda, ArrayType([0, 0], BooleanType)), VarDecl(R, ArrayType([0, 0], BooleanType)), VarDecl(TG, ArrayType([0, 0], BooleanType))])), VarDecl(s, AutoType, BinExpr(>, FuncCall(SZ, []), FuncCall(B, [])))]))
+	FuncDecl(Js3, VoidType, [OutParam(O, BooleanType)], r, BlockStmt([]))
+])

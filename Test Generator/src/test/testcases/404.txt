@@ -1,0 +1,8 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  w1W , GE  : array [ 0 ] of float    = foo ( )    - w1W      , 0E+0    <= 7_0_4E+87       ;
+  T : function boolean   ( ) inherit foo { super ( ) ;
+  }    XV , Ak3 , b , rW , W  : string   ;
+   U  : auto  ;
+   foo  : auto  ;
+   A , f  : boolean   = ! { }        , A      ;
+   M3 : function auto  ( a : auto    ) inherit foo { super ( ! GE [ ( ""     :: f   || f      )    :: ""       ]       ) ;
+  }    

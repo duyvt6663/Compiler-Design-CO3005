@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(t, ArrayType([0, 0, 923245107, 0], IntegerType), [InheritOutParam(N, AutoType)], None, BlockStmt([BlockStmt([])]))
+])

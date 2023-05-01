@@ -1,0 +1,5 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  Ch , R , i  : auto  = ! { }        , - Ch [ i   || Ch [ bar ( 0    > R    :: "\r"      , R     , - 6_8.99E-76       )    / 2047       , bar ( )    + i      , foo ( )    >= R    :: ""       ]        ]       , i    :: Ch      ;
+  nb : function float   ( inherit rjJAN : array [ 6_5_8693_3_9 , 9529_6129070 ] of integer     , out V : auto    ) inherit a { super ( { Ch   && i      , i    :: ( 27    >= R    :: readString ( ""     :: Ch     )      )     , Ch     }  , { 0.e-7    % Ch      , .E37      , foo ( )      }       ) ;
+  qpc , bE  : auto  ;
+  }    q  : array [ 3_1 , 0 , 96 , 7_36381 , 25 ] of float    = ! { Ch   % .2616e+0192       , q     , ( .E+7425      )     , ( ( bar ( i    :: foo ( ( j [ Zy   && q       ]     :: ""      )     , q   <= readFloat ( )      )      , foo ( )    < bar ( Ch     , foo ( )      )      )     :: ( Ch     )     )     )     }        , 0.45E970    < R      ;
+   

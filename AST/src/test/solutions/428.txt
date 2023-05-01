@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(or, ArrayType([0], FloatType), [InheritOutParam(Nh, AutoType)], SGvW, BlockStmt([]))
+])

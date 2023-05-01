@@ -1,0 +1,5 @@
+Program([
+	VarDecl(I, ArrayType([345370044984, 0], StringType))
+	VarDecl(UQ, ArrayType([345370044984, 0], StringType))
+	VarDecl(Y, ArrayType([79, 0], StringType), BinExpr(::, BinExpr(||, UnExpr(!, Id(Z)), BinExpr(%, Id(WN), UnExpr(-, Id(VkL)))), Id(wa)))
+])

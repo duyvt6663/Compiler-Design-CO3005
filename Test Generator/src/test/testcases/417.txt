@@ -1,0 +1,6 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  Lql  : float   ;
+  Y : function void ( ) { bar ( ( ""     :: Lql     )    :: Lql     , Lql   != { }       )  ;
+   }    UW : function array [ 0 , 67_7212_51_86_17_5_10 ] of float    ( ) { q  : float   ;
+  VW8R , bar , zp  : integer   = ( readBoolean ( ( 9673_1    * VW8R      )     )      )   + bar ( )       , - 0       , super ( )    <= 0       ;
+  }    sl  : float   = ! UW ( 2    > .63E-7      )        ;
+   

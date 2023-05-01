@@ -1,0 +1,10 @@
+ func: function integer(b: float){
+                        if(i>4)
+                            if(i<5)
+                                j=4;
+                            else{
+                                k=23;
+                                m=10;
+                            }
+                        else return 54;
+                    }

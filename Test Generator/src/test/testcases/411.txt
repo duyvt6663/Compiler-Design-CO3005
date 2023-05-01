@@ -1,0 +1,7 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  m  : array [ 23587 , 490 ] of integer    ;
+  O : function void ( ) inherit super { super ( ) ;
+  m [ ( m [ m    :: m      ]      )   <= m [ O ( )    - printString ( )       , super ( ! { }        )    >= m      ]      , - m [ ( m     )   <= m [ - 0E07        ]      , 0.3e9    + m [ m   + m       ]        ]        ]   = ! m      ;
+   gn  : auto  = gn    :: m [ gn   == ( 4_558_67_6359914_109_2394      )      ]       ;
+  }    sZ  : auto  = { }        ;
+   m : function void ( ) inherit foo { super ( ) ;
+  }    

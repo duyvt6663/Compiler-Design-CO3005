@@ -1,0 +1,1 @@
+q , M , T  : array [ 84 ] of integer    ;   

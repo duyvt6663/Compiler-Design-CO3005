@@ -1,0 +1,1 @@
+_  : array [ 0 , 0 , 5 ] of float    ;   JYD : function void  ( ) inherit m { }    

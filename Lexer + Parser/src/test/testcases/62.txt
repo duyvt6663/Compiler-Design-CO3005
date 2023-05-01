@@ -1,0 +1,1 @@
+GS : function void  ( inherit out F : auto    ) inherit FT { }    V  : string    = W ( )     :: - ! v    + N   / n      < ! ""        ;   

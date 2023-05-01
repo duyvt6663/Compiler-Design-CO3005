@@ -1,0 +1,6 @@
+
+            mam: function void(b: integer){
+                x: boolean = 2 != true;
+            }
+            main: function void(){}
+        

@@ -1,0 +1,1 @@
+g : function array [ 6_3_4 , 4 ] of string    ( ) inherit wt { Rs , OhJi , P  : array [ 0 , 0 ] of string    ;  }    VA  : float   ;   p2x : function void ( inherit EFV : auto    ) inherit v { }    

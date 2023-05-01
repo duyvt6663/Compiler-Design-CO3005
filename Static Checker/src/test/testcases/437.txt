@@ -1,0 +1,4 @@
+
+            V: function integer(x: integer, y: string){}
+            main: function void(){ V();  }
+        

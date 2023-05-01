@@ -1,0 +1,1 @@
+E : function array [ 0 , 990 ] of float    ( ) { }    y : function auto  ( inherit k : auto    ) inherit BeU { }    Bgo  : array [ 0 ] of float    ;   

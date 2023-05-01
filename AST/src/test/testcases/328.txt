@@ -1,0 +1,1 @@
+jOpteT : function auto  ( inherit x : array [ 0 , 89 , 7_98 ] of float      ) inherit T { }    

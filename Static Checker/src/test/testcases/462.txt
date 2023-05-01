@@ -1,0 +1,9 @@
+
+            main: function void(){
+                x: auto = x+1; 
+                y: auto = y-2; 
+                v: auto = {x, y}; 
+                x = 24.3; 
+                y = 1;
+            }
+        

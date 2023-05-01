@@ -1,0 +1,5 @@
+
+            main: function void(){
+                v: array[2,2] of integer = {{1,2}, {2,3,3}};
+            }
+        

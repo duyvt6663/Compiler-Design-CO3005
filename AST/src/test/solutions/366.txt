@@ -1,0 +1,7 @@
+Program([
+	FuncDecl(D, StringType, [OutParam(Stpc, BooleanType), Param(ZR, StringType), Param(YdG, AutoType), InheritOutParam(_wP, AutoType)], M, BlockStmt([]))
+	VarDecl(hQ, ArrayType([8, 750], StringType), BinExpr(==, FuncCall(vGt, []), BinExpr(&&, BinExpr(-, BinExpr(-, BinExpr(+, Id(c), BinExpr(%, Id(TY), FuncCall(Mt, []))), UnExpr(!, Id(V5a))), Id(K)), Id(mt))))
+	FuncDecl(BE, ArrayType([0, 125639180, 96], BooleanType), [], None, BlockStmt([]))
+	FuncDecl(nmoZ, AutoType, [InheritParam(Bg, StringType)], CZJ5M, BlockStmt([ReturnStmt(BinExpr(::, BinExpr(!=, BinExpr(&&, Id(o1), Id(MT)), BinExpr(+, Id(sCOYdD), Id(MHBY))), BinExpr(<, BinExpr(-, Id(Sqw9), Id(n)), BinExpr(%, Id(l7), Id(x)))))]))
+	FuncDecl(f, AutoType, [], None, BlockStmt([WhileStmt(BinExpr(::, BinExpr(+, Id(W), Id(H)), BinExpr(!=, UnExpr(-, Id(KV)), BinExpr(/, Id(v), Id(T)))), BreakStmt()), VarDecl(C, FloatType)]))
+])

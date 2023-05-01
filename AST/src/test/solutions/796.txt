@@ -1,0 +1,3 @@
+Program([
+	VarDecl(tb, AutoType, BinExpr(||, UnExpr(!, UnExpr(-, Id(xi))), UnExpr(-, Id(n))))
+])

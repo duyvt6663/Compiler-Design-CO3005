@@ -1,0 +1,4 @@
+Program([
+	FuncDecl(aLj6s5, AutoType, [Param(__, AutoType), OutParam(N, ArrayType([83, 524266, 2220], StringType))], None, BlockStmt([VarDecl(Bbiw, FloatType, BinExpr(::, Id(K0), BinExpr(>, Id(s), UnExpr(!, Id(b1M))))), AssignStmt(Id(V), BinExpr(-, Id(hL), Id(K)))]))
+	FuncDecl(JJ, AutoType, [OutParam(WV, AutoType), InheritOutParam(Zj, IntegerType)], None, BlockStmt([CallStmt(diFj, )]))
+])

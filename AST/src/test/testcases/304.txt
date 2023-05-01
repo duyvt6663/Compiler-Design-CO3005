@@ -1,0 +1,1 @@
+T6  : array [ 3 ] of boolean    = z   >= - ! Bj   || R         ;   

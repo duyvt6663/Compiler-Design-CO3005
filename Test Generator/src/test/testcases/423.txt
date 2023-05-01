@@ -1,0 +1,4 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  V , c , mFl , f , eyc , UB3 , J  : string   ;
+  w , GJFRj  : array [ 270 ] of boolean    = eyc    :: V     , 818    >= bar ( )     :: ( ( eyc     )     )   <= ( bar ( )     :: f     )      ;
+   B : function auto  ( inherit NeQ : string     ) { s3weglxA  : array [ 738_729 , 422 , 2_6 ] of integer    = c    :: 995e-669    < s3weglxA [ ( ( ( GJFRj   != false      )     )     )   % foo ( UB3     , ! bar ( )       )        ]      , ! c      , w [ eyc   * GJFRj       ]     :: ""      , w [ c   || ( w [ - f       ]      )     :: w [ 0    != UB3      ]    >= B ( V    :: readInteger ( )    / s3weglxA      )       ]      , - 0.e+4        ;
+  }    

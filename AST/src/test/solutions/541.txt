@@ -1,0 +1,5 @@
+Program([
+	FuncDecl(i, VoidType, [InheritOutParam(Ar, StringType)], m7, BlockStmt([]))
+	VarDecl(PF, BooleanType)
+	FuncDecl(Jo, IntegerType, [], L, BlockStmt([ForStmt(AssignStmt(Id(xN), BinExpr(::, BinExpr(<, BinExpr(+, Id(Y2), Id(tcV)), BinExpr(&&, Id(sd), Id(T))), BinExpr(!=, BinExpr(-, Id(C), Id(_aR)), UnExpr(!, Id(MqnRB))))), BinExpr(::, BinExpr(>=, BinExpr(&&, Id(Z7), Id(N)), UnExpr(-, Id(Y))), BinExpr(==, BinExpr(-, Id(a), Id(NCK)), BinExpr(+, Id(C6), Id(aU)))), BinExpr(>=, UnExpr(!, Id(S)), StringLit()), ContinueStmt())]))
+])

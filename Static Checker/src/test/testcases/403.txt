@@ -1,0 +1,5 @@
+
+            main: function void(){
+                x, y: integer = 100.3, 20;
+            }
+        

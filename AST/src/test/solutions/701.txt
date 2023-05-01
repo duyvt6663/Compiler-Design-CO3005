@@ -1,0 +1,6 @@
+Program([
+	VarDecl(A, IntegerType)
+	VarDecl(LC, StringType)
+	VarDecl(Cz, StringType)
+	FuncDecl(h, ArrayType([73422], IntegerType), [], m, BlockStmt([ContinueStmt()]))
+])

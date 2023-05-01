@@ -1,0 +1,1 @@
+f : function void ( TEv : auto   , inherit out K : auto    ) { T  : string   = n   % S05     :: c   % rz    <= Y   - rjXX       ;  }    

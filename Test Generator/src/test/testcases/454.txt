@@ -1,0 +1,4 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  p , BZ  : string   = p [ ! foo ( )       , ! p       ]    % foo ( )       , BZ      ;
+  Ze  : auto  ;
+   B8 : function void ( inherit out a : array [ 6_2037_28_0 ] of integer     , inherit out b : array [ 0 ] of boolean     , inherit b : boolean     ) inherit foo { super ( { }  , { }  , false ) ;
+  }    

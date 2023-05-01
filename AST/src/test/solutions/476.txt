@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(N0, IntegerType, [], None, BlockStmt([ContinueStmt()]))
+])

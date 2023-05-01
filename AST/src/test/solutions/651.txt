@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(F9, ArrayType([0, 0], StringType), [InheritOutParam(kAYNa, AutoType)], yW02, BlockStmt([]))
+])

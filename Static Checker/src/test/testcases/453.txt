@@ -1,0 +1,6 @@
+
+            main: function void(){
+                V: auto = 22;
+                a: float = V+48;
+            }
+        

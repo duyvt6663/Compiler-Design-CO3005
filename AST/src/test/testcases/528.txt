@@ -1,0 +1,1 @@
+e , qU  : float   ;   O : function float   ( out X : integer     ) inherit GW { return ;   }    

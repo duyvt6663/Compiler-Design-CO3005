@@ -1,0 +1,6 @@
+
+            main: function void(){
+                mam();
+            }
+            mam: function void(){}
+        

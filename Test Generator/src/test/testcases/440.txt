@@ -1,0 +1,4 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  KKx  : array [ 2_4_5 ] of string    ;
+  heZtj : function void ( out r : auto   , out F : auto   , inherit KKx : auto   , inherit out Ca : auto    ) { break ;
+   An  : boolean   ;
+  }    

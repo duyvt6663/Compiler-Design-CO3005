@@ -1,0 +1,7 @@
+Program([
+	VarDecl(es, FloatType)
+	VarDecl(oa, FloatType)
+	VarDecl(h, FloatType)
+	VarDecl(jO, FloatType)
+	FuncDecl(Macb, VoidType, [InheritParam(K, BooleanType), Param(X4K, ArrayType([0], BooleanType))], None, BlockStmt([]))
+])

@@ -1,0 +1,5 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  wG , oWC  : array [ 0 , 0 , 6_8043 ] of float    = printString ( )    > printInteger ( wG [ ( ( foo ( )      )   > oWC     )     , 0E6    < 0       ]      )      , ! d ( )       , oWC   && wG [ 0    >= wG     , wG   || oWC      , 0E+732    > ( "\\"      )    :: foo ( ( 3_0e346871    >= ( 648_77      )     )     , "\'"     :: oWC     )       ]       , "\n\f"     :: wG   <= 3_099e+4       ;
+  Z : function array [ 0 ] of boolean    ( ) inherit foo { foo ( )  ;
+  }    P : function void ( ) inherit bar { super ( ) ;
+  }    wG : function auto  ( ) inherit foo { super ( ) ;
+  }    

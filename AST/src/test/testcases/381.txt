@@ -1,0 +1,1 @@
+iq : function void ( ) { }    w : function void ( ) inherit l { }    

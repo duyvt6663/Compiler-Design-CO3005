@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(rMLFK, AutoType, [InheritOutParam(y, BooleanType), InheritOutParam(M, ArrayType([0, 582681], StringType))], None, BlockStmt([ContinueStmt(), ReturnStmt(), BreakStmt()]))
+])

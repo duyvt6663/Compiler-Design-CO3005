@@ -1,0 +1,1 @@
+H : function boolean   ( ) inherit tg { P , G , b  : auto  ;  }    j , GB , SG1h  : integer   ;   gbgVWUQ : function array [ 0 , 65_28_22_88290_3_07 , 3_23_9 ] of boolean    ( ) inherit DxV2 { WKXVN  : array [ 6_4_000_0 , 56 , 8_9_9_33_8_1_3_0 , 4 ] of string    ;  }    

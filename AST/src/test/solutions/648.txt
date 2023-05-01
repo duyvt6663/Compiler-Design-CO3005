@@ -1,0 +1,3 @@
+Program([
+	VarDecl(c_, BooleanType, BinExpr(::, BinExpr(<=, BinExpr(%, BinExpr(/, BinExpr(/, UnExpr(-, UnExpr(!, Id(t))), Id(Xv3)), Id(P)), UnExpr(!, Id(g))), BinExpr(||, BinExpr(-, FuncCall(nJZC, []), BinExpr(%, Id(vFDX), Id(ws))), BinExpr(-, UnExpr(-, Id(N)), UnExpr(-, Id(Vx))))), BinExpr(>, BinExpr(||, BinExpr(%, Id(F), Id(np)), BinExpr(-, BinExpr(+, Id(lEE), Id(W)), BinExpr(/, BinExpr(*, Id(G), Id(Go)), Id(z)))), BinExpr(-, BinExpr(-, UnExpr(-, Id(nyD)), Id(K)), BinExpr(/, Id(k), Id(X))))))
+])

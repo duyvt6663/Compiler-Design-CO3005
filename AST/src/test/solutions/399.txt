@@ -1,0 +1,7 @@
+Program([
+	FuncDecl(A, IntegerType, [InheritOutParam(A, AutoType)], None, BlockStmt([]))
+	VarDecl(HPyLP, AutoType, BinExpr(::, BinExpr(>=, BinExpr(-, UnExpr(-, UnExpr(-, Id(RvAqj))), UnExpr(-, Id(j5))), UnExpr(-, UnExpr(!, Id(GA8)))), BinExpr(&&, BinExpr(*, UnExpr(!, Id(Rf)), Id(do1)), BinExpr(-, BinExpr(+, UnExpr(!, Id(A)), Id(Dl)), Id(ba)))))
+	VarDecl(wLLVxM, AutoType, BinExpr(::, BinExpr(&&, BinExpr(&&, BinExpr(&&, UnExpr(-, Id(UU)), Id(p)), Id(N)), BinExpr(%, FuncCall(C, []), UnExpr(!, Id(Nss)))), BinExpr(||, BinExpr(&&, UnExpr(-, Id(R)), BinExpr(/, UnExpr(-, Id(yuJ)), UnExpr(!, Id(e)))), Id(c))))
+	VarDecl(b, AutoType, BinExpr(==, BinExpr(||, BinExpr(&&, BinExpr(+, FuncCall(B9w, []), Id(K)), BinExpr(%, Id(o), Id(j))), Id(y)), BinExpr(%, BinExpr(/, BinExpr(%, UnExpr(!, Id(Yz)), Id(Sn)), UnExpr(!, Id(aK))), Id(x))))
+	FuncDecl(IXR, VoidType, [], None, BlockStmt([ReturnStmt(BinExpr(::, BinExpr(<, BinExpr(+, Id(R), Id(hwtD)), UnExpr(!, Id(rKF))), BinExpr(&&, Id(cC), Id(B))))]))
+])

@@ -1,0 +1,1 @@
+yi : function array [ 0 , 0 ] of boolean    ( ) inherit Jb { while ( - iBP    != Wv   && Gj     :: e ( )    > 8      ) C ( )  ;     }    

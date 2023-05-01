@@ -1,0 +1,6 @@
+Program([
+	VarDecl(Om, AutoType)
+	VarDecl(T, AutoType)
+	VarDecl(g, ArrayType([0, 0, 0], BooleanType), BinExpr(-, BinExpr(/, UnExpr(!, UnExpr(!, Id(ow))), Id(Cg)), Id(H)))
+	VarDecl(A, ArrayType([0, 0, 0], BooleanType), UnExpr(!, ArrayLit([])))
+])

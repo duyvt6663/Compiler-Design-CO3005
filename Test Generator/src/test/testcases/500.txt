@@ -1,0 +1,4 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  r , foo , nF , J  : array [ 5_9 , 9 ] of float    ;
+  N : function void ( inherit foo : auto   , inherit a : array [ 13_4_7_0_4 , 9 ] of boolean     , inherit out Ldg8 : auto   , inherit out m : array [ 0 ] of boolean      ) inherit foo { y , Z  : integer   ;
+  }    R  : integer   ;
+   

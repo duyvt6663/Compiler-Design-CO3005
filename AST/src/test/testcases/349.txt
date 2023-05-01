@@ -1,0 +1,1 @@
+Oqt : function array [ 0 , 0 ] of float    ( out F : boolean    , inherit q : auto   , inherit G : array [ 1 , 0 , 0 ] of float      ) inherit q { dx  : float   = - i    <= - oF_       ;  Wz , g  : array [ 0 ] of boolean    = I ( )    == 8     :: ! i      , - D     :: s   * E       ;  }    X , lzB , T , Nb , E , jW , Updo  : array [ 1 ] of float    ;   

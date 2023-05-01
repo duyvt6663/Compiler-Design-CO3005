@@ -1,0 +1,1 @@
+A : function auto  ( inherit out LW : array [ 0 ] of string     , out Ob : float    , OTr : auto   , out X : auto    ) { WX  : auto  = ""     :: T   || i       ;  }    

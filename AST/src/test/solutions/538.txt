@@ -1,0 +1,6 @@
+Program([
+	FuncDecl(e, AutoType, [InheritParam(baKLO, ArrayType([5], StringType))], C, BlockStmt([WhileStmt(BinExpr(==, StringLit(), UnExpr(!, Id(w))), BlockStmt([ContinueStmt()])), BreakStmt()]))
+	VarDecl(yxHa, AutoType)
+	VarDecl(X, AutoType)
+	VarDecl(o, AutoType)
+])

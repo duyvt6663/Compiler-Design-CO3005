@@ -1,0 +1,4 @@
+Program([
+	VarDecl(v, StringType, BinExpr(<=, BinExpr(&&, BinExpr(&&, BinExpr(||, FuncCall(Fu9K, []), Id(b)), Id(t)), BinExpr(%, UnExpr(-, Id(w)), UnExpr(!, Id(Zkaa)))), BinExpr(||, BinExpr(-, UnExpr(!, Id(u_ZF)), Id(o)), UnExpr(-, Id(Z)))))
+	VarDecl(Wy, IntegerType)
+])

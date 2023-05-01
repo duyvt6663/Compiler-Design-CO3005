@@ -1,0 +1,4 @@
+Program([
+	VarDecl(kj, ArrayType([1], IntegerType), Id(qb))
+	VarDecl(WIL, ArrayType([1], IntegerType), UnExpr(!, Id(b)))
+])

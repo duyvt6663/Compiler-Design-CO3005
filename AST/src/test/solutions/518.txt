@@ -1,0 +1,6 @@
+Program([
+	VarDecl(xB, ArrayType([0, 60, 37, 98, 0, 3, 3786582], BooleanType))
+	VarDecl(WJ, ArrayType([0, 60, 37, 98, 0, 3, 3786582], BooleanType))
+	VarDecl(Nd, ArrayType([0, 60, 37, 98, 0, 3, 3786582], BooleanType))
+	FuncDecl(u, ArrayType([84], FloatType), [], Bp, BlockStmt([VarDecl(TUi, FloatType), VarDecl(g, FloatType), VarDecl(pZ, FloatType)]))
+])

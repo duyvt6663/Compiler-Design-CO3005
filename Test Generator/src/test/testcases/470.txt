@@ -1,0 +1,5 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  i , fi , b  : array [ 0 , 4 ] of float    ;
+  OFMv : function integer   ( ) inherit bar { super ( ) ;
+  _ , Z  : auto  = super ( )    - 279_8_412_925196       , readString ( ""     :: 4120_89_4_2_2_2_6_85    > foo ( 90      , ""     :: ! fi      )      )    * x       ;
+  Z , bm , S , A , kVVSM , S  : auto  ;
+  }    

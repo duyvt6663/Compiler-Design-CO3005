@@ -1,0 +1,12 @@
+Program([
+	VarDecl(Tp, AutoType)
+	VarDecl(FC, AutoType)
+	VarDecl(z, AutoType)
+	VarDecl(O1, AutoType)
+	VarDecl(Co_, AutoType)
+	VarDecl(F, AutoType)
+	VarDecl(HeB, AutoType)
+	VarDecl(I, AutoType)
+	VarDecl(x, AutoType)
+	VarDecl(f, AutoType, BinExpr(>, Id(On), BinExpr(&&, UnExpr(!, UnExpr(!, Id(k))), UnExpr(-, Id(VK)))))
+])

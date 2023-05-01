@@ -1,0 +1,4 @@
+Program([
+	VarDecl(TIz, ArrayType([0], IntegerType))
+	VarDecl(RfFKGo, ArrayType([0], IntegerType))
+])

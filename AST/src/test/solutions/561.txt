@@ -1,0 +1,10 @@
+Program([
+	VarDecl(k, IntegerType)
+	FuncDecl(oo, VoidType, [], None, BlockStmt([IfStmt(BinExpr(::, Id(UNIP7fe), BinExpr(>=, BinExpr(&&, Id(m), Id(N6EPEuI)), BinExpr(+, Id(Ws), Id(mu)))), BreakStmt()), IfStmt(BinExpr(>, BinExpr(&&, Id(m), Id(EiXfD)), UnExpr(!, Id(P))), ContinueStmt(), ReturnStmt()), VarDecl(k_8Pa, AutoType), VarDecl(A, IntegerType, BinExpr(||, Id(k), Id(n9V))), VarDecl(k, IntegerType, BinExpr(::, BinExpr(>=, BinExpr(/, Id(UMfE), Id(s)), BinExpr(||, Id(_r), Id(B))), BinExpr(!=, BinExpr(+, Id(p), Id(EJa)), Id(hbWk)))), AssignStmt(Id(DJ), BinExpr(::, BinExpr(==, BinExpr(+, Id(zs), Id(i2AK)), BinExpr(-, Id(R3), Id(yg))), BinExpr(>=, UnExpr(!, Id(K)), BinExpr(*, Id(v), Id(KC)))))]))
+	FuncDecl(mM, AutoType, [], None, BlockStmt([]))
+	VarDecl(I, AutoType)
+	VarDecl(W5p, AutoType)
+	VarDecl(X, AutoType)
+	VarDecl(p, AutoType)
+	VarDecl(o, AutoType, BinExpr(||, BinExpr(-, UnExpr(-, Id(w)), Id(x)), UnExpr(!, Id(Kjnr5))))
+])

@@ -1,0 +1,1 @@
+n : function auto  ( ) { }    f3  : float   ;   

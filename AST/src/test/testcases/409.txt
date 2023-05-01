@@ -1,0 +1,1 @@
+SK8 , JPN  : auto  ;   X : function integer   ( ) inherit j { }    

@@ -1,0 +1,1 @@
+mkw : function void ( inherit out i : auto    ) { return ;   }    

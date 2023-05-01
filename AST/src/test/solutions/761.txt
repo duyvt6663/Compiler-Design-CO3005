@@ -1,0 +1,7 @@
+Program([
+	VarDecl(U, StringType)
+	VarDecl(gb, StringType)
+	VarDecl(t, ArrayType([2833], StringType), BinExpr(||, BinExpr(||, UnExpr(!, Id(q8)), Id(s)), BinExpr(*, Id(g), Id(M))))
+	FuncDecl(C, VoidType, [Param(N, ArrayType([32419, 70002526, 0, 0, 8], BooleanType)), OutParam(v, AutoType)], Po, BlockStmt([VarDecl(Gh, ArrayType([3, 0], FloatType)), VarDecl(Ty, ArrayType([3, 0], FloatType)), VarDecl(A9, ArrayType([3, 0], FloatType)), VarDecl(o, StringType), BreakStmt()]))
+	FuncDecl(i, StringType, [Param(rDJ, StringType)], w, BlockStmt([]))
+])

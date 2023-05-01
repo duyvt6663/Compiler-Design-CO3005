@@ -1,0 +1,4 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  printString  : auto  = - printString [ printString   >= readInteger ( )       ]       , ""     :: printString      ;
+  printString , U , PzBemOo  : array [ 7_0 , 0 , 5 ] of integer    = ! { }        , printInteger ( )    - PzBemOo      , PzBemOo    :: ( printString   <= 86      )   != readInteger ( )       ;
+   a : function auto  ( ) inherit bar { super ( ) ;
+  }    

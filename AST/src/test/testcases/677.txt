@@ -1,0 +1,1 @@
+V6O : function void ( out q : integer    , out w : string    , inherit V : auto   , V : string    , out _3 : float    , out L : auto    ) inherit S_ { R  : auto  ;  }    

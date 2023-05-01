@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(q, VoidType, [InheritParam(WS, IntegerType), InheritParam(YZ, AutoType)], None, BlockStmt([VarDecl(Z, ArrayType([314, 0, 19787019, 0], IntegerType), BinExpr(::, BinExpr(||, Id(H6t), Id(ib)), UnExpr(-, Id(v68))))]))
+])

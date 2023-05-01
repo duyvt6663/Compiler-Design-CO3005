@@ -1,0 +1,4 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  e  : auto  ;
+  aT : function void ( ) inherit foo { super ( ) ;
+  }    x  : auto  ;
+   

@@ -1,0 +1,1 @@
+rMLFK : function auto  ( inherit out y : boolean    , inherit out M : array [ 0 , 582_6_81 ] of string      ) { continue ;   return ;   break ;   }    

@@ -1,0 +1,4 @@
+Program([
+	FuncDecl(m8Ah, VoidType, [OutParam(S, AutoType)], Am, BlockStmt([]))
+	FuncDecl(Mc, ArrayType([0], FloatType), [], A, BlockStmt([]))
+])

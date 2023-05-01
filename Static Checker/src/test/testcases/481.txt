@@ -1,0 +1,6 @@
+
+            foo: function string(){return "zam";}
+            main: function void(){
+                v: string = foo();
+            }
+        

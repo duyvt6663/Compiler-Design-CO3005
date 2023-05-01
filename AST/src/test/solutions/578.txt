@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(f0, ArrayType([0], FloatType), [Param(r, AutoType)], I5d, BlockStmt([]))
+])

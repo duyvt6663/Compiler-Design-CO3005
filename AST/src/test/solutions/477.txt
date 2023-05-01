@@ -1,0 +1,8 @@
+Program([
+	FuncDecl(Q9S, ArrayType([7287, 5], BooleanType), [], None, BlockStmt([]))
+	FuncDecl(Q, ArrayType([6, 919, 0, 1], StringType), [], None, BlockStmt([]))
+	FuncDecl(j, ArrayType([4], FloatType), [], None, BlockStmt([IfStmt(BinExpr(>, BinExpr(&&, Id(te), Id(p7AL6)), BinExpr(*, Id(yZ_XAyL), Id(V))), ContinueStmt())]))
+	VarDecl(n, ArrayType([0], StringType))
+	VarDecl(g, ArrayType([0], StringType))
+	VarDecl(d, ArrayType([0], StringType))
+])

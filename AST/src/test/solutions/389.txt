@@ -1,0 +1,3 @@
+Program([
+	VarDecl(nEwd, ArrayType([47, 0], BooleanType))
+])

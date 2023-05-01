@@ -1,0 +1,1 @@
+kj , WIL  : array [ 1 ] of integer    = qb     , ! b       ;   

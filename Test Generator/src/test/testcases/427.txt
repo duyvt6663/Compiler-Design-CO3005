@@ -1,0 +1,2 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  D7FL  : array [ 0 ] of string    = - D7FL       ;
+  iE : function array [ 0 , 1 ] of integer    ( ) { }    

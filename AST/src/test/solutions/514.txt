@@ -1,0 +1,7 @@
+Program([
+	VarDecl(Yzb13, ArrayType([36584301, 0, 0], StringType), BinExpr(||, BinExpr(&&, BinExpr(&&, Id(u), BinExpr(%, Id(S), StringLit())), UnExpr(!, Id(Rm))), UnExpr(!, Id(b))))
+	VarDecl(Zvc, ArrayType([36584301, 0, 0], StringType), BinExpr(::, BinExpr(||, BinExpr(&&, BinExpr(||, BinExpr(&&, BinExpr(||, IntegerLit(7), Id(t)), BinExpr(-, Id(v), Id(pjk))), Id(Bd3)), Id(zaEtEk)), Id(UoE)), Id(E)))
+	VarDecl(X8Z, ArrayType([36584301, 0, 0], StringType), BinExpr(::, BinExpr(<=, StringLit(\b\b), BinExpr(+, UnExpr(-, UnExpr(!, Id(e))), Id(uBl))), BinExpr(&&, UnExpr(!, UnExpr(!, Id(u))), BinExpr(*, Id(p), Id(L)))))
+	FuncDecl(IT, AutoType, [InheritOutParam(qsy94, BooleanType), InheritOutParam(KSJp, AutoType)], U, BlockStmt([IfStmt(BinExpr(::, BinExpr(<=, Id(S), BinExpr(-, Id(a), Id(E))), BinExpr(!=, BinExpr(/, Id(l), Id(S)), BinExpr(+, Id(U), Id(XCLDaV)))), BreakStmt(), ReturnStmt())]))
+	FuncDecl(F5kwBx, ArrayType([0], FloatType), [], None, BlockStmt([AssignStmt(Id(R), BinExpr(::, BinExpr(==, FuncCall(I, []), BinExpr(||, Id(g), Id(v0))), BinExpr(*, Id(RAbu), Id(mQJ))))]))
+])

@@ -1,0 +1,5 @@
+Program([
+	FuncDecl(H, BooleanType, [], None, BlockStmt([BreakStmt()]))
+	VarDecl(j3Gu, AutoType)
+	VarDecl(t, ArrayType([775, 7266441166047050, 2250863, 171], StringType), BinExpr(!=, UnExpr(!, Id(D)), ArrayLit([])))
+])

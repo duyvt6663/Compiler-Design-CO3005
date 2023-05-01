@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(VH, ArrayType([0], IntegerType), [], None, BlockStmt([BreakStmt()]))
+])

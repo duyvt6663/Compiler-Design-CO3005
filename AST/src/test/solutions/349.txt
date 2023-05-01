@@ -1,0 +1,10 @@
+Program([
+	FuncDecl(Oqt, ArrayType([0, 0], FloatType), [OutParam(F, BooleanType), InheritParam(q, AutoType), InheritParam(G, ArrayType([1, 0, 0], FloatType))], q, BlockStmt([VarDecl(dx, FloatType, BinExpr(<=, UnExpr(-, Id(i)), UnExpr(-, Id(oF_)))), VarDecl(Wz, ArrayType([0], BooleanType), BinExpr(::, BinExpr(==, FuncCall(I, []), IntegerLit(8)), UnExpr(!, Id(i)))), VarDecl(g, ArrayType([0], BooleanType), BinExpr(::, UnExpr(-, Id(D)), BinExpr(*, Id(s), Id(E))))]))
+	VarDecl(X, ArrayType([1], FloatType))
+	VarDecl(lzB, ArrayType([1], FloatType))
+	VarDecl(T, ArrayType([1], FloatType))
+	VarDecl(Nb, ArrayType([1], FloatType))
+	VarDecl(E, ArrayType([1], FloatType))
+	VarDecl(jW, ArrayType([1], FloatType))
+	VarDecl(Updo, ArrayType([1], FloatType))
+])

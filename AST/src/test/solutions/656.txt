@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(HL, VoidType, [], Fp, BlockStmt([VarDecl(O, ArrayType([6936052], BooleanType)), DoWhileStmt(BinExpr(::, BinExpr(<=, BinExpr(%, Id(m6Fa), Id(S)), UnExpr(-, Id(Vt0))), BinExpr(>=, BinExpr(*, Id(w), Id(BS)), BinExpr(&&, Id(ObB), Id(E)))), BlockStmt([])), BreakStmt()]))
+])

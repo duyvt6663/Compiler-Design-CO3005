@@ -1,0 +1,1 @@
+o : function float   ( ) inherit Hm { x  : array [ 9_5_51 ] of string    ;  DP , Q_l  : array [ 0 ] of integer    ;  do { }  while ( Y   || qL      ) ;   }    

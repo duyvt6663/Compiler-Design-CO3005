@@ -1,0 +1,1 @@
+e , u , j  : array [ 0 ] of float    ;   

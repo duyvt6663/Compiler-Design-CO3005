@@ -1,0 +1,11 @@
+Program([
+	VarDecl(y, BooleanType)
+	VarDecl(p, BooleanType)
+	VarDecl(R, BooleanType)
+	VarDecl(iiJ, BooleanType)
+	VarDecl(u8myb5Yhd3, BooleanType)
+	VarDecl(M, BooleanType)
+	VarDecl(a, BooleanType)
+	VarDecl(L, ArrayType([5, 6, 0], BooleanType), BinExpr(::, BinExpr(&&, UnExpr(!, Id(C)), BinExpr(+, BinExpr(-, Id(G), Id(QPY)), UnExpr(!, UnExpr(!, Id(Y))))), BinExpr(<=, UnExpr(-, Id(Yk)), BinExpr(+, UnExpr(!, Id(YPmKKu5qJ)), BinExpr(/, Id(G), BooleanLit(True))))))
+	FuncDecl(e, ArrayType([675], IntegerType), [], None, BlockStmt([VarDecl(P2, StringType), BreakStmt()]))
+])

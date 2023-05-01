@@ -1,0 +1,4 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  foo  : auto  = foo    :: foo   < ( .e1      )      ;
+  foo , p  : auto  ;
+   j0 : function void ( ) { F6X  : string   ;
+  }    QaBi : function array [ 5574 , 0 ] of boolean    ( ) { }    

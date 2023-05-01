@@ -1,0 +1,6 @@
+Program([
+	FuncDecl(Wwm, VoidType, [OutParam(W2K, ArrayType([0], BooleanType)), Param(qk, AutoType)], bw, BlockStmt([]))
+	VarDecl(q0IH, BooleanType)
+	VarDecl(C, BooleanType)
+	FuncDecl(m, VoidType, [InheritOutParam(z, ArrayType([0], FloatType))], Z, BlockStmt([]))
+])

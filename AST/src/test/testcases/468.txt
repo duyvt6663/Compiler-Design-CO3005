@@ -1,0 +1,1 @@
+zm : function void ( i : array [ 0 , 0 , 0 ] of string      ) inherit l { }    X , u , GEn  : auto  ;   

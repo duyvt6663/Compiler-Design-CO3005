@@ -1,0 +1,5 @@
+Program([
+	VarDecl(y, AutoType, BinExpr(>=, BinExpr(||, BinExpr(&&, BinExpr(*, UnExpr(-, IntegerLit(3)), Id(w)), Id(f3)), UnExpr(!, Id(AH))), ArrayLit([])))
+	VarDecl(g3, AutoType, BinExpr(>=, BinExpr(+, UnExpr(!, IntegerLit(0)), BinExpr(%, Id(rQ), Id(v))), UnExpr(!, UnExpr(-, UnExpr(!, Id(klB))))))
+	FuncDecl(Bb, VoidType, [], x, BlockStmt([]))
+])

@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(bh, AutoType, [InheritOutParam(d30, AutoType)], BV, BlockStmt([VarDecl(P, StringType, BinExpr(::, BinExpr(!=, BinExpr(+, Id(h), Id(T)), UnExpr(!, Id(RtQ))), BinExpr(>, UnExpr(-, Id(Z)), BinExpr(&&, Id(gU1), Id(GirK))))), VarDecl(v, StringType, BinExpr(::, UnExpr(!, Id(G)), BinExpr(&&, Id(Ya), Id(g))))]))
+])

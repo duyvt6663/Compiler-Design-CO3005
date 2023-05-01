@@ -1,0 +1,5 @@
+Program([
+	FuncDecl(g, ArrayType([634, 4], StringType), [], wt, BlockStmt([VarDecl(Rs, ArrayType([0, 0], StringType)), VarDecl(OhJi, ArrayType([0, 0], StringType)), VarDecl(P, ArrayType([0, 0], StringType))]))
+	VarDecl(VA, FloatType)
+	FuncDecl(p2x, VoidType, [InheritParam(EFV, AutoType)], v, BlockStmt([]))
+])

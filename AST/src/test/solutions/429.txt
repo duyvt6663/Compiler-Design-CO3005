@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(m, VoidType, [Param(e, ArrayType([5], FloatType))], None, BlockStmt([AssignStmt(Id(tA), BinExpr(::, BinExpr(%, Id(h), Id(B)), BinExpr(*, Id(U), Id(aTT4u)))), AssignStmt(Id(B), UnExpr(!, Id(WD))), DoWhileStmt(BinExpr(::, BinExpr(||, Id(o), Id(b)), BinExpr(/, Id(v), Id(U))), BlockStmt([])), VarDecl(CC, StringType)]))
+])

@@ -1,0 +1,7 @@
+Program([
+	VarDecl(XDL, BooleanType)
+	VarDecl(f, BooleanType)
+	VarDecl(X, ArrayType([0, 0, 7248615, 850, 0], IntegerType))
+	VarDecl(Ez, ArrayType([0, 0, 7248615, 850, 0], IntegerType))
+	FuncDecl(W, VoidType, [InheritParam(L3, ArrayType([4, 0, 4004, 7295674], StringType)), Param(Q, FloatType)], None, BlockStmt([VarDecl(Qq, StringType, BinExpr(::, UnExpr(!, Id(t)), BinExpr(==, Id(h), BinExpr(*, Id(tzMP), Id(qKXA)))))]))
+])

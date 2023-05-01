@@ -1,0 +1,4 @@
+Program([
+	FuncDecl(i, VoidType, [InheritParam(VD, FloatType)], K, BlockStmt([]))
+	FuncDecl(U, VoidType, [InheritOutParam(p, ArrayType([67], FloatType)), InheritOutParam(T, ArrayType([982, 4], BooleanType)), InheritOutParam(V, ArrayType([0], IntegerType)), InheritParam(s4, ArrayType([80, 4, 944673415, 2, 0, 135], StringType)), InheritOutParam(SB, ArrayType([0, 0], BooleanType)), Param(M, BooleanType)], F, BlockStmt([]))
+])

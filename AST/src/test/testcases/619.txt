@@ -1,0 +1,1 @@
+U  : integer   ;   CzC6 : function void ( out fU : string    , h : array [ 0 ] of integer      ) inherit dy { }    

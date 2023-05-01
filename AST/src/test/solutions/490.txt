@@ -1,0 +1,8 @@
+Program([
+	FuncDecl(m, IntegerType, [], Go, BlockStmt([VarDecl(z, FloatType), CallStmt(B, )]))
+	VarDecl(In, ArrayType([9], FloatType))
+	FuncDecl(WRSUzGG, VoidType, [Param(B, AutoType), Param(j_i, StringType)], None, BlockStmt([]))
+	FuncDecl(y, AutoType, [], None, BlockStmt([VarDecl(C, ArrayType([34610, 0, 81439248, 0, 0, 0, 0, 0, 0], IntegerType))]))
+	FuncDecl(m, VoidType, [OutParam(v3, AutoType)], RLHTr4Fe, BlockStmt([]))
+	FuncDecl(G, BooleanType, [], J, BlockStmt([]))
+])

@@ -1,0 +1,6 @@
+
+            main: function void(){
+                x: integer = a;
+            }
+            a: integer = 1000;
+        

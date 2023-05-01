@@ -1,0 +1,4 @@
+Program([
+	FuncDecl(F, VoidType, [InheritParam(GwE, AutoType), OutParam(z6, ArrayType([0], FloatType))], D, BlockStmt([]))
+	FuncDecl(t6J, AutoType, [], a, BlockStmt([]))
+])

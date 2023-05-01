@@ -1,0 +1,11 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  u  : float   = { }     && u [ .e+39       ]        ;
+  u , readInteger  : auto  = { }     <= 581137_1_13.e-17      , ""     :: 0    == 6789342       ;
+   Hw : function auto  ( ) inherit readFloat { super ( ) ;
+  L  : string   ;
+  }    B  : array [ 0 , 0 , 161_593_3_84_20651_7 , 0 , 41 ] of boolean    = ( foo ( B [ - 0        ]      , readInteger    :: Hw ( )      )      )   + u      , ! ( 0    <= printFloat ( u   < .62E-0      )      )       ;
+   KC  : array [ 0 ] of boolean    ;
+   j : function void ( ) inherit preventDefault { preventDefault ( ) ;
+  }    ja : function void ( inherit siu : array [ 0 , 5 ] of string      ) inherit j { super ( { readInteger   + B      }  ) ;
+  }    TJ : function void ( ykJ3z : auto   , out C : array [ 0 ] of string      ) { r , RXIk , B , D_IZ7  : boolean   ;
+  break ;
+   }    

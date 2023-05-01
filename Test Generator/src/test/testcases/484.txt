@@ -1,0 +1,6 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  yUl , a3  : string   ;
+  r , FE  : array [ 10 , 0 , 0 ] of float    = - foo ( bar ( )      , ""     :: foo ( yUl    :: ""      , 0E8     :: bar ( )      )      )       , ( FE     )   > yUl      ;
+   Q , sq  : array [ 2 ] of integer    ;
+   t  : array [ 0 , 4 ] of boolean    = foo ( )    < 0       ;
+   Q  : boolean   ;
+   

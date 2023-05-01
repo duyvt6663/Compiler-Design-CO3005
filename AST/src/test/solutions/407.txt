@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(CA15, ArrayType([0, 0], IntegerType), [], y, BlockStmt([VarDecl(Fh, AutoType), VarDecl(e, ArrayType([77], IntegerType)), VarDecl(Z, ArrayType([77], IntegerType))]))
+])

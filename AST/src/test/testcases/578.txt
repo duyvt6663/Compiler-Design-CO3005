@@ -1,0 +1,1 @@
+f0 : function array [ 0 ] of float    ( r : auto    ) inherit I5d { }    

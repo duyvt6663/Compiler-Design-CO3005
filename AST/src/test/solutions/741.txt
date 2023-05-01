@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(m, ArrayType([0], IntegerType), [OutParam(u, AutoType), Param(v, ArrayType([9], StringType))], a, BlockStmt([]))
+])

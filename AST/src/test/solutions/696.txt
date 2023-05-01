@@ -1,0 +1,6 @@
+Program([
+	VarDecl(BT, StringType, BinExpr(::, BinExpr(&&, BinExpr(&&, BinExpr(+, UnExpr(!, Id(r)), Id(RSPVPx)), BinExpr(-, Id(A), UnExpr(!, Id(EV)))), Id(Ns)), BinExpr(+, FuncCall(Sx, []), Id(BG))))
+	VarDecl(X, StringType, BinExpr(::, UnExpr(-, Id(k5)), BinExpr(<=, UnExpr(-, UnExpr(!, Id(ct))), BinExpr(||, FuncCall(b, []), BinExpr(+, BinExpr(/, UnExpr(-, Id(r)), UnExpr(-, Id(v))), BinExpr(%, Id(Dr_p), Id(p)))))))
+	VarDecl(E, StringType, BinExpr(::, BinExpr(<=, Id(W), BinExpr(&&, BinExpr(&&, UnExpr(-, Id(y)), BinExpr(-, UnExpr(-, Id(LBH)), UnExpr(!, Id(VDA)))), UnExpr(-, Id(B)))), UnExpr(-, UnExpr(!, UnExpr(!, Id(L4))))))
+	FuncDecl(JW, BooleanType, [Param(X, IntegerType), InheritParam(n9, ArrayType([0], StringType)), InheritOutParam(T0mR, AutoType), InheritParam(GI, ArrayType([85], StringType)), Param(jRk, FloatType)], Gp, BlockStmt([VarDecl(Vx, ArrayType([40144], BooleanType)), VarDecl(Bq, AutoType, Id(l)), VarDecl(Z, AutoType, BinExpr(::, BinExpr(||, Id(r), Id(j)), UnExpr(-, Id(dgCjr))))]))
+])

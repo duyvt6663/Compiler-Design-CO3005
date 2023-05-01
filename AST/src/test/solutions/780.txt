@@ -1,0 +1,8 @@
+Program([
+	VarDecl(fU, AutoType)
+	VarDecl(Ex6aL, AutoType)
+	VarDecl(U, AutoType)
+	VarDecl(_, AutoType)
+	VarDecl(Uj7, AutoType)
+	VarDecl(Fzf, AutoType)
+])

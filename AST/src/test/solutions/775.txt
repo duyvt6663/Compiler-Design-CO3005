@@ -1,0 +1,3 @@
+Program([
+	VarDecl(LQuj, ArrayType([0], IntegerType))
+])

@@ -1,0 +1,6 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  q , a  : integer   ;
+  bar , a  : float   ;
+   printString , aay_ , q  : string   = a [ foo ( a   % printString [ aay_ [ ( { }       )   || aay_      , q   != printBoolean ( )      , 0    * 0        ]     :: ( printString [ ( a   >= ( 3_3      )     )   != { }        ]     :: ""      )      ]      :: q     , printString     )     :: bar ( )    * a      , a   <= ( 0      )      ]    * 0        ;
+   n2awp  : array [ 0 ] of string    = ! foo ( 0      , foo ( )     :: printString ( )      )        ;
+   ji5 , J  : array [ 0 ] of boolean    = .19E+5    > bar     , - bar       ;
+   

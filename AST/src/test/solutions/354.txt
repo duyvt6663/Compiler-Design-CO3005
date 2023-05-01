@@ -1,0 +1,6 @@
+Program([
+	FuncDecl(Uh, ArrayType([34, 973910], IntegerType), [], None, BlockStmt([]))
+	FuncDecl(nU, VoidType, [], Gcp, BlockStmt([]))
+	FuncDecl(m5, ArrayType([0, 10], BooleanType), [], None, BlockStmt([CallStmt(Pi, ), WhileStmt(BinExpr(::, UnExpr(-, Id(b6l9a)), BinExpr(>, FuncCall(UW, []), BinExpr(-, Id(X), Id(yvYV)))), ReturnStmt())]))
+	FuncDecl(o, StringType, [], None, BlockStmt([]))
+])

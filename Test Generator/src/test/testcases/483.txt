@@ -1,0 +1,4 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  printInteger , o , u , XfpJ , ul , h , X  : array [ 5 ] of string    ;
+  N  : array [ 1 , 0 , 85_7_78484 ] of string    ;
+   f : function auto  ( out n8 : array [ 1_90_68 , 705_66 ] of string     , b : array [ 0 ] of string      ) { k , Z  : integer   = XfpJ    :: ""      , .0870E+77    - u       ;
+  }    

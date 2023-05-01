@@ -1,0 +1,3 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  h , P6 , HmA , E  : array [ 0 , 0 ] of float    ;
+  _fm0Tl : function void ( LxM : float     ) { }    A_j , _fm0Tl , K  : array [ 4_084_8_87 ] of string    = ! _fm0Tl      , E [ ! E [ 7_94    < ( ( 9_7_1_27_68_25072E-754091      )     )     , printBoolean ( { ! _fm0Tl      , { }       }       )    - .e7       , 0       ]       , h   == 6       ]    < 0      , foo ( 0      , h     )    < 930     :: HmA      ;
+   

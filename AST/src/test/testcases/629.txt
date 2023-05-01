@@ -1,0 +1,1 @@
+Z : function array [ 0 ] of float    ( ) inherit M { }    h : function array [ 0 , 0 ] of float    ( inherit out HaM : float    , D : boolean     ) inherit Xyo { D  : boolean   ;  }    

@@ -1,0 +1,1 @@
+Be , j , gu  : float   ;   x : function void ( inherit E : integer     ) { }    

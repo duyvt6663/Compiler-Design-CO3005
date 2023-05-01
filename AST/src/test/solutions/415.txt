@@ -1,0 +1,4 @@
+Program([
+	VarDecl(b, AutoType)
+	VarDecl(zt, ArrayType([63, 0], StringType))
+])

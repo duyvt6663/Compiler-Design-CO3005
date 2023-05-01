@@ -1,0 +1,4 @@
+Program([
+	FuncDecl(xd, AutoType, [], Bbu, BlockStmt([ReturnStmt(BinExpr(==, BinExpr(&&, Id(O), Id(l)), BinExpr(&&, Id(e), Id(B))))]))
+	VarDecl(D, ArrayType([0], IntegerType))
+])

@@ -1,0 +1,7 @@
+Program([
+	VarDecl(P, AutoType)
+	VarDecl(dZ, AutoType)
+	FuncDecl(jJC, IntegerType, [Param(Y, ArrayType([375314], BooleanType)), OutParam(X, ArrayType([95], BooleanType))], None, BlockStmt([VarDecl(W, ArrayType([6, 24094, 437830], BooleanType))]))
+	VarDecl(ZxH, AutoType)
+	FuncDecl(NGhY, VoidType, [], None, BlockStmt([VarDecl(BM3O, IntegerType, BinExpr(>=, UnExpr(-, Id(L)), BinExpr(+, Id(L_), Id(_Mz)))), VarDecl(T, IntegerType, BinExpr(>, UnExpr(!, Id(h)), BinExpr(||, Id(OB), Id(MjK)))), VarDecl(cw, IntegerType, BinExpr(::, BinExpr(-, Id(i), Id(oQR)), UnExpr(!, Id(L31))))]))
+])

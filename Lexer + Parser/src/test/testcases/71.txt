@@ -1,0 +1,1 @@
+A : function void  ( inherit out B : array [ 0 ] of boolean      , inherit out cx : auto   , t : array [ 90_06_4_520_17 , 5361_296 ] of integer      , FJ : string     , out Am : auto    ) inherit r { }    h : function array [ 5 ] of float      ( ) { }    z : function boolean     ( inherit k : auto    ) { }    j  : boolean   ;   

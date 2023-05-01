@@ -1,0 +1,1 @@
+m : function array [ 0 ] of integer    ( out u : auto   , v : array [ 9 ] of string      ) inherit a { }    

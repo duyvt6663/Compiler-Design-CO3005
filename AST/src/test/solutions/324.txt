@@ -1,0 +1,12 @@
+Program([
+	FuncDecl(fmH, VoidType, [], ypx, BlockStmt([]))
+	VarDecl(_4EQFx, StringType)
+	VarDecl(y, StringType)
+	VarDecl(K9, StringType)
+	VarDecl(ICRWgDth, StringType)
+	VarDecl(f, StringType)
+	VarDecl(F, ArrayType([24, 4], StringType))
+	VarDecl(C, ArrayType([24, 4], StringType))
+	VarDecl(ebgIC, ArrayType([24, 4], StringType))
+	VarDecl(P, ArrayType([24, 4], StringType))
+])

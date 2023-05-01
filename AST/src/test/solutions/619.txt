@@ -1,0 +1,4 @@
+Program([
+	VarDecl(U, IntegerType)
+	FuncDecl(CzC6, VoidType, [OutParam(fU, StringType), Param(h, ArrayType([0], IntegerType))], dy, BlockStmt([]))
+])

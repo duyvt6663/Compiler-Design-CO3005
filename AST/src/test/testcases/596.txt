@@ -1,0 +1,1 @@
+z : function void ( inherit X : string    , inherit out xI : integer    , lN : string    , inherit nk : array [ 67200 ] of boolean      ) { }    

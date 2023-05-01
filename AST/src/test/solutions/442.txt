@@ -1,0 +1,4 @@
+Program([
+	VarDecl(U, ArrayType([0, 622], FloatType))
+	VarDecl(tPM, ArrayType([0, 622], FloatType))
+])

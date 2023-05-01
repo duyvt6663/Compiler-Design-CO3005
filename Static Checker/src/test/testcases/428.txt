@@ -1,0 +1,15 @@
+
+            main: function void(){
+                V, v, R, Htd, OW, Lq, M: integer;
+                for ( V = - v, R + Htd < 2, Lq* M) {
+                    main ();  
+                    while(v < 4439) 
+                        do{
+                            break;
+                            dem: string = "yo passed";
+                        } 
+                        while(R + Htd > 3);
+                    break;
+                }
+            }
+        

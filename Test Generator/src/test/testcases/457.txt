@@ -1,0 +1,11 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  SV  : array [ 0 , 0 , 0 , 0 , 0 , 6_613539 , 0 ] of integer    = ! foo ( bar ( )      , SV [ ! ""        ]     :: SV [ - ( bar ( )      )       ]      )       , 4231_771_4_8    % 0        ;
+  I : function void ( ) { return SV   % upO ( )       ;
+   v  : float   = 91_7e-8    < v      ;
+  gk  : array [ 0 ] of integer    ;
+  for ( gk  = SV [ bar ( )       ]    / 0.       , SV [ { 0    / I ( )       , v     }     || { I ( )     :: gk     , v    :: ( I ( )     :: gk [ v   <= v      ]      )     }        , ""     :: { SV [ gk    :: SV      ]    - SV      , SV     , SV [ printInteger ( gk     )    % 0       , v   || { }         ]      }     || { }         ]      , foo ( I ( )      , SV [ - ieAdVbA      , ( printFloat ( ( 239e-4      )     , v   <= v     )      )   > 6_0_9E6      , gk   + v       ]     :: ""      )    == ( SV [ "\t\r\r"     :: gk [ 836_869      , readInteger ( false    * 0       )    >= .E6       ]      , printString ( bar ( foo ( gk     , ! v     :: foo ( )    != { }       )      , printInteger ( 71_4_74_7      )    > ( 0E+8      )     )     :: v     )    && { ( 83E+62964      )   % v      , foo ( )      , v     }        , gk   * 0        ]      )     ) SV  = - printString ( )       ;
+     t  : array [ 5_29925 ] of string    ;
+  }    Fx , ZYpX , T  : array [ 99_86004 ] of boolean    = bar ( )      , 0    != T [ foo ( )    * 2_25       , ! { }        , Fx   != printString ( )       ]      , T   > 4_8       ;
+   c  : auto  = printBoolean ( )     :: ""       ;
+   T : function array [ 0 ] of string    ( ) inherit I { super ( ) ;
+  SV  = Fx   > ( printString ( )      )     ;
+   }    

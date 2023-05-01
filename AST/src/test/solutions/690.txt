@@ -1,0 +1,5 @@
+Program([
+	VarDecl(R, FloatType)
+	VarDecl(ccBb, FloatType)
+	VarDecl(A, FloatType)
+])

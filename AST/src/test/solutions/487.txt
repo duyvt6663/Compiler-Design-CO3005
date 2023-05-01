@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(_, AutoType, [InheritOutParam(e, AutoType), OutParam(ND, ArrayType([8725], StringType))], PidS, BlockStmt([]))
+])

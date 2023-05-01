@@ -1,0 +1,3 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  _eP5h6EHFU , Lnx  : boolean   ;
+  F : function void ( inherit w : float    , out foo : auto    ) { }    w  : array [ 0 ] of string    = printInteger ( )     :: "\t"       ;
+   

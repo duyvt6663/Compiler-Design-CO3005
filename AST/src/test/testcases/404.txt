@@ -1,0 +1,1 @@
+f : function integer   ( s : array [ 7 ] of boolean      ) inherit z { }    S , RJ  : array [ 0 ] of integer    ;   

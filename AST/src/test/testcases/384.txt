@@ -1,0 +1,1 @@
+q : function void ( inherit WS : integer    , inherit YZ : auto    ) { Z  : array [ 314 , 0 , 1_9787019 , 0 ] of integer    = H6t   || ib     :: - v68       ;  }    

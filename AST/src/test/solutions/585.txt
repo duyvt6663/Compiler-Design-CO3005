@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(QG, VoidType, [InheritParam(i, BooleanType)], kR, BlockStmt([]))
+])

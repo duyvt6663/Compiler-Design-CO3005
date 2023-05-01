@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(yi, ArrayType([0, 0], BooleanType), [], Jb, BlockStmt([WhileStmt(BinExpr(::, BinExpr(!=, UnExpr(-, Id(iBP)), BinExpr(&&, Id(Wv), Id(Gj))), BinExpr(>, FuncCall(e, []), IntegerLit(8))), CallStmt(C, ))]))
+])

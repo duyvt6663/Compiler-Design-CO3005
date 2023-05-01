@@ -1,0 +1,7 @@
+Program([
+	VarDecl(ETLZsS, ArrayType([6], BooleanType))
+	VarDecl(O, ArrayType([6], BooleanType))
+	VarDecl(v, ArrayType([6], BooleanType))
+	VarDecl(WTXBSO, ArrayType([6], BooleanType))
+	VarDecl(xT, ArrayType([6], BooleanType))
+])

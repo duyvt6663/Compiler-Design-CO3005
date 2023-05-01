@@ -1,0 +1,3 @@
+Program([
+	VarDecl(e815acMmzA1w, ArrayType([0], BooleanType))
+])

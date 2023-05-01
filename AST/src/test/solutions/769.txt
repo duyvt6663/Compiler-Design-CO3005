@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(JN, VoidType, [OutParam(W, ArrayType([0, 6], IntegerType)), InheritParam(z, AutoType)], None, BlockStmt([VarDecl(A, ArrayType([25], StringType))]))
+])

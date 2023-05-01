@@ -1,0 +1,1 @@
+jR : function void  ( ) { }    wV : function array [ 0 ] of boolean      ( ) inherit J92 { }    

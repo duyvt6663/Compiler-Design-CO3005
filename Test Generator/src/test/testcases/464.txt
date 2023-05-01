@@ -1,0 +1,3 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  z , tJ  : auto  ;
+  Jd5S : function void ( ) { }    Ep_ : function array [ 0 , 586_2720_0858144_8 , 0 , 59_6_73 , 0 ] of float    ( out j : auto    ) { }    s : function auto  ( out vWLLj : array [ 0 , 0 , 0 ] of float      ) inherit Jd5S { preventDefault ( ) ;
+  }    

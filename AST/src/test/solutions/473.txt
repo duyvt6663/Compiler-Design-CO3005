@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(W, BooleanType, [], None, BlockStmt([WhileStmt(BinExpr(::, BinExpr(+, Id(eE), Id(p)), BinExpr(>, UnExpr(!, Id(qLE)), BinExpr(-, Id(E), Id(gM)))), ReturnStmt())]))
+])

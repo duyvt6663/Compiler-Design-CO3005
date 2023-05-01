@@ -1,0 +1,5 @@
+Program([
+	VarDecl(e, FloatType)
+	VarDecl(qU, FloatType)
+	FuncDecl(O, FloatType, [OutParam(X, IntegerType)], GW, BlockStmt([ReturnStmt()]))
+])

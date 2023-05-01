@@ -1,0 +1,6 @@
+Program([
+	VarDecl(Z, ArrayType([939, 8, 0], FloatType), BinExpr(::, BinExpr(>=, BinExpr(+, UnExpr(!, UnExpr(-, Id(mSW))), Id(O)), BinExpr(||, BinExpr(&&, BinExpr(&&, UnExpr(-, Id(WIIj)), Id(e)), Id(d)), Id(kt))), BinExpr(<, UnExpr(-, UnExpr(!, UnExpr(!, Id(SAT1)))), BinExpr(-, BinExpr(+, BinExpr(/, ArrayLit([]), Id(Rc)), Id(eFnv)), StringLit()))))
+	VarDecl(j, IntegerType)
+	VarDecl(f, AutoType, BinExpr(>, FuncCall(Lj, []), BinExpr(%, Id(P), UnExpr(-, UnExpr(!, Id(v0j))))))
+	FuncDecl(h, VoidType, [], None, BlockStmt([]))
+])

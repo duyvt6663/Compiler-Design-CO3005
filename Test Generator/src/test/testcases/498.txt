@@ -1,0 +1,3 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  N  : float   = N      ;
+  J  : integer   = foo ( )    * bar ( )        ;
+   

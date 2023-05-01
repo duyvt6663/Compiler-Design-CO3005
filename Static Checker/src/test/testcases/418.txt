@@ -1,0 +1,7 @@
+
+        x: auto = 1000.0;
+        bar: function void (inherit a: integer) {}
+        foo: function void (r: integer) inherit bar{
+            super(x);
+        }
+        

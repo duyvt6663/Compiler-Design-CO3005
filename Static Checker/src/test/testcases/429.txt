@@ -1,0 +1,4 @@
+
+            man: function void(out sk: string)inherit foo{ }
+            main: function void(){}
+        

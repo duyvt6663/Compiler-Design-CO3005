@@ -1,0 +1,7 @@
+Program([
+	VarDecl(j, BooleanType)
+	VarDecl(De, BooleanType)
+	VarDecl(GZ, BooleanType)
+	VarDecl(muQu3XT, BooleanType)
+	FuncDecl(aSAF1, ArrayType([1, 0], StringType), [InheritParam(R, BooleanType), Param(t, BooleanType), Param(_t, ArrayType([0, 2], BooleanType)), InheritParam(BFK6TK, StringType), OutParam(HEh, AutoType)], None, BlockStmt([]))
+])

@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(S, ArrayType([101, 8122137, 0, 58, 0, 4, 29722, 380782233056457], StringType), [], None, BlockStmt([]))
+])

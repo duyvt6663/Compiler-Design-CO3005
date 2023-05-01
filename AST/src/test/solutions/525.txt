@@ -1,0 +1,4 @@
+Program([
+	FuncDecl(WG, VoidType, [OutParam(lP, FloatType)], None, BlockStmt([CallStmt(G, )]))
+	FuncDecl(C, VoidType, [InheritParam(O, IntegerType)], bM, BlockStmt([WhileStmt(BinExpr(==, UnExpr(!, Id(I)), UnExpr(-, Id(BM))), CallStmt(T, )), VarDecl(e, IntegerType, BinExpr(::, BinExpr(>, BinExpr(/, Id(Wt), Id(L)), UnExpr(!, Id(w))), UnExpr(-, Id(E))))]))
+])

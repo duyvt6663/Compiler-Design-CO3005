@@ -1,0 +1,4 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  WoW  : auto  = foo ( )    > 0.e63       ;
+  h , f , pW  : array [ 689 ] of float    ;
+   ygy  : array [ 0 , 0 ] of string    ;
+   

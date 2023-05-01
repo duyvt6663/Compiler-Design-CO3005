@@ -1,0 +1,4 @@
+Program([
+	VarDecl(c, ArrayType([5332, 264], IntegerType))
+	VarDecl(YqGD, ArrayType([5332, 264], IntegerType))
+])

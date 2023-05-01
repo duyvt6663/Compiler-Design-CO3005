@@ -1,0 +1,5 @@
+Program([
+	VarDecl(AnbD, BooleanType)
+	VarDecl(RO, BooleanType)
+	VarDecl(A4D, BooleanType)
+])

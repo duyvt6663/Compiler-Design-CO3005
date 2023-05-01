@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(jnu, VoidType, [OutParam(nMA, BooleanType), OutParam(U5R, AutoType), InheritOutParam(Y, StringType)], oM0BUcz, BlockStmt([VarDecl(m, BooleanType, BinExpr(>=, UnExpr(-, Id(oku)), UnExpr(-, Id(a)))), VarDecl(_oz, BooleanType, BinExpr(+, Id(t), Id(KF0))), VarDecl(A, BooleanType, UnExpr(!, Id(lW))), VarDecl(kC, BooleanType, BinExpr(>, IntegerLit(0), UnExpr(-, Id(Y))))]))
+])

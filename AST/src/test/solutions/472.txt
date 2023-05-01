@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(baX, VoidType, [OutParam(N, AutoType), Param(c4S, FloatType)], K, BlockStmt([CallStmt(c, )]))
+])

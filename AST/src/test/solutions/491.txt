@@ -1,0 +1,4 @@
+Program([
+	VarDecl(MLkR2, IntegerType, BinExpr(::, BinExpr(||, BinExpr(*, UnExpr(!, Id(R)), Id(YU)), UnExpr(!, UnExpr(-, Id(e)))), BinExpr(>=, BinExpr(&&, UnExpr(-, UnExpr(!, Id(T))), Id(P)), BinExpr(/, UnExpr(!, UnExpr(!, Id(l))), UnExpr(-, Id(ev))))))
+	VarDecl(R, IntegerType, BinExpr(>, BinExpr(+, UnExpr(!, UnExpr(-, Id(gl))), ArrayLit([])), BinExpr(||, BinExpr(+, UnExpr(-, Id(m)), BinExpr(%, Id(In), UnExpr(-, Id(o)))), Id(dbM))))
+])

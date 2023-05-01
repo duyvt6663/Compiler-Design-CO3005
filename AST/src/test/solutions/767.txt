@@ -1,0 +1,5 @@
+Program([
+	FuncDecl(B, VoidType, [Param(I, ArrayType([0], BooleanType)), Param(O, AutoType), Param(AuQr, ArrayType([0, 3845, 251, 0], BooleanType)), Param(f, BooleanType), InheritParam(yx, FloatType), InheritParam(E, AutoType)], None, BlockStmt([]))
+	FuncDecl(EB, VoidType, [], None, BlockStmt([]))
+	FuncDecl(n, StringType, [], None, BlockStmt([]))
+])

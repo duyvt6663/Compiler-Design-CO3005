@@ -1,0 +1,5 @@
+Program([
+	VarDecl(VJguc, IntegerType)
+	VarDecl(lT, IntegerType)
+	VarDecl(p, IntegerType)
+])

@@ -1,0 +1,3 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  I  : array [ 7_25 ] of string    = - foo ( ( I   == I     )     , printInteger ( 13_1      )    <= I [ I    :: bar ( )       ]     :: "\t"      )        ;
+  e , tU , foo  : float   = foo     , bar ( 0      , { }       )    + e      , 3_8    > foo      ;
+   preventDefault : function array [ 0 ] of float    ( ) { }    

@@ -1,0 +1,6 @@
+
+            mamn: function void(out man: string){ 
+                man: integer;
+            }
+            main: function void(){}
+        

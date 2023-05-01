@@ -1,0 +1,6 @@
+Program([
+	VarDecl(e, ArrayType([0], StringType))
+	VarDecl(fW, ArrayType([0], StringType))
+	VarDecl(nuwLQ, ArrayType([0], StringType))
+	FuncDecl(eNa7, ArrayType([88, 9, 59], FloatType), [OutParam(xn, StringType), Param(HO, AutoType), Param(_, AutoType)], x, BlockStmt([]))
+])

@@ -1,0 +1,1 @@
+QG : function void ( inherit i : boolean     ) inherit kR { }    

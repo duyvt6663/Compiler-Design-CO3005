@@ -1,0 +1,6 @@
+Program([
+	VarDecl(Z, ArrayType([0, 0, 0], StringType), BinExpr(!=, BooleanLit(False), BinExpr(&&, UnExpr(-, UnExpr(-, Id(N1))), Id(s2))))
+	VarDecl(QT, ArrayType([0, 0, 0], StringType), BinExpr(::, BinExpr(+, BinExpr(*, UnExpr(!, Id(SBj)), Id(NPfY)), Id(tG1)), BinExpr(==, UnExpr(!, ArrayLit([])), StringLit())))
+	VarDecl(o, ArrayType([0, 0, 0], StringType), BinExpr(>=, BinExpr(-, BinExpr(%, UnExpr(!, UnExpr(!, Id(s))), Id(F)), Id(m)), BinExpr(+, BinExpr(-, Id(g), BinExpr(/, BinExpr(*, Id(Ehdc), UnExpr(-, Id(A))), IntegerLit(1))), UnExpr(-, Id(FPs)))))
+	FuncDecl(kOK, AutoType, [InheritOutParam(KWOH, ArrayType([0], BooleanType)), Param(X, IntegerType), Param(B, ArrayType([867, 807540], IntegerType))], None, BlockStmt([WhileStmt(UnExpr(-, Id(T)), CallStmt(a4, ))]))
+])

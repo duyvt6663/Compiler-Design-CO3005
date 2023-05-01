@@ -1,0 +1,6 @@
+
+            mam: function void(b: string){
+                b = 100;
+            }
+            main: function void(){}
+        

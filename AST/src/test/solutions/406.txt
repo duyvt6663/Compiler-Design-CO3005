@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(EK5P, VoidType, [], None, BlockStmt([]))
+])

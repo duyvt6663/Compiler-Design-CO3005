@@ -1,0 +1,4 @@
+Program([
+	VarDecl(i, ArrayType([1703368228], FloatType))
+	FuncDecl(K, AutoType, [], GrSZ4UK, BlockStmt([]))
+])

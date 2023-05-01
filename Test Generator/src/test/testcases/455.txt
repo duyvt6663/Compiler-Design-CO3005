@@ -1,0 +1,3 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  io , B  : array [ 735 ] of float    = io    :: io     , B [ ( V   > io     )     , ! printBoolean ( io    :: B     )        ]       ;
+  eid : function array [ 0 , 0 ] of boolean    ( ) inherit foo { super ( ) ;
+  }    

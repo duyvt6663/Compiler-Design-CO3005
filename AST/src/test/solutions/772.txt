@@ -1,0 +1,12 @@
+Program([
+	FuncDecl(T, ArrayType([0], FloatType), [], None, BlockStmt([]))
+	FuncDecl(LJ, VoidType, [], None, BlockStmt([VarDecl(gKCP, ArrayType([0], StringType)), VarDecl(k, ArrayType([0], StringType)), VarDecl(jZCLqR, AutoType)]))
+	FuncDecl(e, BooleanType, [InheritParam(uR2, ArrayType([690, 704], StringType))], None, BlockStmt([AssignStmt(Id(e), BinExpr(::, BinExpr(<, UnExpr(!, Id(d)), BinExpr(||, Id(M_voaS), Id(f))), BinExpr(||, Id(de), Id(G))))]))
+	VarDecl(O, IntegerType)
+	FuncDecl(W, ArrayType([123155867364466941749, 0], BooleanType), [OutParam(q, ArrayType([682, 0, 197, 5, 0], IntegerType))], None, BlockStmt([]))
+	VarDecl(Rd, ArrayType([0, 0, 0], StringType))
+	VarDecl(K, ArrayType([0, 0, 0], StringType))
+	VarDecl(Ff, ArrayType([0, 0, 0], StringType))
+	FuncDecl(O, FloatType, [Param(Fjm, AutoType), Param(px, AutoType)], None, BlockStmt([]))
+	FuncDecl(ltF, VoidType, [InheritOutParam(G, AutoType)], T, BlockStmt([VarDecl(o, AutoType, BinExpr(!=, BinExpr(&&, Id(R), Id(F)), UnExpr(-, Id(h))))]))
+])

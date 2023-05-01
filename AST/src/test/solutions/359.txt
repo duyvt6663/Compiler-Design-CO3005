@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(l, VoidType, [], b_, BlockStmt([VarDecl(iRPJYJ, ArrayType([0], FloatType)), VarDecl(Ug, ArrayType([0], FloatType)), VarDecl(ZX, ArrayType([0], FloatType)), VarDecl(FtmZ, ArrayType([0], FloatType)), VarDecl(reFbqv, AutoType)]))
+])

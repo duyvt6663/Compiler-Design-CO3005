@@ -1,0 +1,4 @@
+Program([
+	VarDecl(j, FloatType, BinExpr(||, BinExpr(/, UnExpr(-, FuncCall(YA, [])), Id(WX)), Id(JQ)))
+	VarDecl(z, FloatType, BinExpr(::, FuncCall(vtUf, []), BinExpr(!=, ArrayLit([]), BinExpr(||, UnExpr(-, Id(as)), BinExpr(/, UnExpr(!, Id(j)), UnExpr(!, StringLit()))))))
+])

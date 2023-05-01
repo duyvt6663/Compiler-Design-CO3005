@@ -1,0 +1,1 @@
+xB , WJ , Nd  : array [ 0 , 60 , 3_7 , 98 , 0 , 3 , 3786_582 ] of boolean    ;   u : function array [ 8_4 ] of float    ( ) inherit Bp { TUi , g , pZ  : float   ;  }    

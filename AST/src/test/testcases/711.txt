@@ -1,0 +1,1 @@
+q : function void ( ) inherit B { }    ws  : array [ 0 , 45_54_0 ] of boolean    ;   F  : auto  ;   

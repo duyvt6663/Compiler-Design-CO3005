@@ -1,0 +1,5 @@
+Program([
+	VarDecl(SK8, AutoType)
+	VarDecl(JPN, AutoType)
+	FuncDecl(X, IntegerType, [], j, BlockStmt([]))
+])

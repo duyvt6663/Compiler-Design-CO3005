@@ -1,0 +1,1 @@
+VADU : function array [ 76_1 , 8_27_1 , 0 , 0 , 0 , 35206_672818 , 0 ] of string    ( ) { }    D3l , _tqT  : array [ 0 , 4 ] of float    ;   

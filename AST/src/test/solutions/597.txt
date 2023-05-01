@@ -1,0 +1,4 @@
+Program([
+	FuncDecl(h, VoidType, [], None, BlockStmt([]))
+	VarDecl(Lp, AutoType, BinExpr(&&, UnExpr(-, UnExpr(!, Id(Y))), Id(G)))
+])

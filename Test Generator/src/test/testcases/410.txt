@@ -1,0 +1,4 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  F  : integer   = foo ( )    || 0.6        ;
+  foo : function void ( ) { PtR  : array [ 0 ] of integer    = F   * printFloat ( bar ( PtR [ F   % bar ( 0      , PtR [ F   || F       ]    > PtR [ bar ( )    || bar ( ( F     )   < printBoolean ( )      , { }       )        ]      )       , "\f"     :: bar ( ( PtR    :: bar ( )      )    :: "\b"      , false    >= F     )      , ( F     )      ]      , PtR [ printInteger ( )    / 0e93       , - PtR      , ( F    :: ""      )   == 0       ]      )      , F   >= ( F     )     )        ;
+  { { }   break ;
+   }   }    

@@ -1,0 +1,1 @@
+R : function auto   ( ) inherit r { }    P  : array [ 0 , 0 , 4 ] of float    ;   

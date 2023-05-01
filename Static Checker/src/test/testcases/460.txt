@@ -1,0 +1,5 @@
+
+        a: auto = -2.3;
+        c: integer;
+        foo: function auto() {c = a;}
+        

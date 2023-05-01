@@ -1,0 +1,8 @@
+Program([
+	VarDecl(h, ArrayType([91126], BooleanType))
+	VarDecl(G, ArrayType([91126], BooleanType))
+	VarDecl(SZ7, ArrayType([91126], BooleanType))
+	VarDecl(zZ, ArrayType([91126], BooleanType))
+	VarDecl(_, ArrayType([91126], BooleanType))
+	VarDecl(X, ArrayType([91126], BooleanType))
+])

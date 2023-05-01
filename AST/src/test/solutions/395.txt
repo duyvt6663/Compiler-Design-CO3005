@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(rvKsvh, VoidType, [InheritParam(sk, FloatType)], None, BlockStmt([VarDecl(Ip, StringType, BinExpr(::, BinExpr(&&, Id(D), Id(t)), BinExpr(==, StringLit(), BinExpr(||, Id(pKY), Id(U)))))]))
+])

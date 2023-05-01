@@ -1,0 +1,7 @@
+
+            main: function void(){
+                x, y: auto = {1,2,3}, y;
+                a: integer = x[y];
+                y = "hehe";
+            }
+        

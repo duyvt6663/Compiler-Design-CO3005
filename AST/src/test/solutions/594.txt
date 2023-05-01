@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(YB, VoidType, [Param(fac5, AutoType)], None, BlockStmt([]))
+])

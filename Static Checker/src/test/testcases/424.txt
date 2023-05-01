@@ -1,0 +1,3 @@
+
+            printFloat: function integer (b: integer) { return 1000; }
+        

@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(V5l, VoidType, [OutParam(JF, BooleanType)], None, BlockStmt([VarDecl(We9, ArrayType([71], FloatType))]))
+])

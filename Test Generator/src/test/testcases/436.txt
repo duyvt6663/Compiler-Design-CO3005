@@ -1,0 +1,7 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  XO  : auto  ;
+  C7C : function void ( fP : string     ) { do { continue ;
+   }  while ( XO   && .96E+9       ) ;
+   if ( ""     :: XO [ XO [ readBoolean ( ! ( { }       )      )    - XO       ]     :: C7C ( )       ]      ) { super ( )  ;
+   }   else continue ;
+     }    Lf , XO  : float   = XO [ foo ( bar ( )      , Lf    :: ( ""     :: bar ( )    > Lf     )     )    == ( XO     )     , Lf    :: bar ( )       ]    || { ( ( Lf     )     )   * Lf      }         ;
+   

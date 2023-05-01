@@ -1,0 +1,5 @@
+Program([
+	VarDecl(O, ArrayType([0, 3, 83], StringType))
+	VarDecl(t, ArrayType([0, 3, 83], StringType))
+	FuncDecl(H8j2k, VoidType, [], None, BlockStmt([CallStmt(p3, ), AssignStmt(Id(a), BinExpr(!=, FuncCall(n, []), FuncCall(em, []))), BreakStmt(), ReturnStmt(BinExpr(::, BinExpr(<=, BinExpr(*, Id(X), Id(H)), UnExpr(-, Id(C))), StringLit()))]))
+])

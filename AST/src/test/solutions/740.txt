@@ -1,0 +1,9 @@
+Program([
+	VarDecl(gc4, FloatType)
+	VarDecl(vf, FloatType)
+	VarDecl(s, FloatType)
+	VarDecl(b, FloatType)
+	VarDecl(Aj_, FloatType)
+	VarDecl(VV, FloatType)
+	VarDecl(T, FloatType)
+])

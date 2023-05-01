@@ -1,0 +1,1 @@
+es , oa , h , jO  : float   ;   Macb : function void ( inherit K : boolean    , X4K : array [ 0 ] of boolean      ) { }    

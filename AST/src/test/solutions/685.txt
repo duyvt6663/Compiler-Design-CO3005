@@ -1,0 +1,5 @@
+Program([
+	VarDecl(JXTM, StringType)
+	VarDecl(tQGz, StringType)
+	VarDecl(E2N, StringType)
+])

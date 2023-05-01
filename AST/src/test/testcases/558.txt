@@ -1,0 +1,1 @@
+Yv6 : function void ( inherit f : auto    ) inherit cU { }    m  : array [ 0 ] of string    ;   

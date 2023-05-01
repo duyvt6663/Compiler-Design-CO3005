@@ -1,0 +1,1 @@
+M , s  : array [ 9_79 ] of boolean    ;   

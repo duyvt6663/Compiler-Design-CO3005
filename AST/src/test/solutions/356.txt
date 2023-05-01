@@ -1,0 +1,3 @@
+Program([
+	VarDecl(k, AutoType, BinExpr(::, BinExpr(==, BinExpr(||, UnExpr(!, UnExpr(-, Id(C))), Id(TH)), Id(v)), BinExpr(==, Id(s), Id(K9))))
+])

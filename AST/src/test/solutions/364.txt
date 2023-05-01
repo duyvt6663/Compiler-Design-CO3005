@@ -1,0 +1,6 @@
+Program([
+	VarDecl(rn, AutoType)
+	VarDecl(E, AutoType)
+	FuncDecl(s, IntegerType, [], None, BlockStmt([VarDecl(ZJ, BooleanType, BinExpr(>, BinExpr(||, Id(LNe), Id(U)), UnExpr(-, Id(E)))), VarDecl(Da, BooleanType, BinExpr(::, FuncCall(H, []), UnExpr(-, Id(iTPG2))))]))
+	FuncDecl(c, AutoType, [InheritOutParam(HH, AutoType)], None, BlockStmt([CallStmt(G3G, )]))
+])

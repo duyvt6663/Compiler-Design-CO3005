@@ -1,0 +1,8 @@
+Program([
+	FuncDecl(T, VoidType, [], None, BlockStmt([]))
+	FuncDecl(mX, VoidType, [InheritParam(v, AutoType)], Nh, BlockStmt([VarDecl(v, AutoType, BinExpr(!=, BinExpr(+, Id(oI), Id(iw)), BinExpr(||, Id(y), Id(C))))]))
+	VarDecl(L7x2, AutoType)
+	VarDecl(e, AutoType)
+	VarDecl(e, AutoType)
+	VarDecl(FVW8TP3, ArrayType([0, 0], StringType))
+])

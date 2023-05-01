@@ -1,0 +1,6 @@
+Program([
+	FuncDecl(zm, VoidType, [Param(i, ArrayType([0, 0, 0], StringType))], l, BlockStmt([]))
+	VarDecl(X, AutoType)
+	VarDecl(u, AutoType)
+	VarDecl(GEn, AutoType)
+])

@@ -1,0 +1,7 @@
+
+            foo: function void(a: auto, b: float){
+                a = b;
+                a = 1000.6;
+            }
+            main: function void(){}
+        

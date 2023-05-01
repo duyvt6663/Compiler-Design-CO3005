@@ -1,0 +1,10 @@
+Program([
+	VarDecl(Ro2e, ArrayType([0, 6042997661, 1, 0, 3466633586, 52, 0, 593431], IntegerType), BinExpr(::, BooleanLit(True), BinExpr(&&, BinExpr(&&, BinExpr(-, BinExpr(/, UnExpr(-, Id(Hn)), FuncCall(b, [])), Id(G)), BinExpr(+, Id(G), Id(Y))), Id(VOX))))
+	VarDecl(kT7, ArrayType([0, 6042997661, 1, 0, 3466633586, 52, 0, 593431], IntegerType), BinExpr(<=, BinExpr(+, ArrayLit([]), IntegerLit(53)), BinExpr(+, UnExpr(-, UnExpr(!, Id(M8))), StringLit())))
+	VarDecl(L, ArrayType([0, 6042997661, 1, 0, 3466633586, 52, 0, 593431], IntegerType), BinExpr(==, BinExpr(&&, BinExpr(+, UnExpr(!, StringLit()), Id(OS)), Id(t)), BinExpr(||, BinExpr(&&, UnExpr(!, Id(hN7)), Id(K)), FuncCall(lK, []))))
+	VarDecl(b, AutoType)
+	VarDecl(xXD, AutoType)
+	VarDecl(Q, ArrayType([0], FloatType), BinExpr(::, BinExpr(&&, BinExpr(%, UnExpr(!, UnExpr(-, Id(V))), Id(IsB)), Id(eo)), BinExpr(/, BinExpr(/, BinExpr(/, UnExpr(-, Id(x)), UnExpr(-, Id(rj))), Id(HZ)), UnExpr(-, Id(f)))))
+	VarDecl(cIt, ArrayType([0], FloatType), BinExpr(>=, BinExpr(||, BinExpr(%, Id(f0jj_j), UnExpr(!, Id(SZBz))), UnExpr(!, Id(Y))), StringLit()))
+	VarDecl(Auu, ArrayType([0], FloatType), BinExpr(::, BinExpr(>=, BinExpr(&&, UnExpr(!, Id(A)), BinExpr(-, FuncCall(F, []), UnExpr(!, Id(_3U)))), BinExpr(||, BinExpr(||, BinExpr(%, UnExpr(!, Id(Rf)), Id(mG)), Id(OP7G)), BinExpr(%, Id(K), Id(hStRVMbcML)))), BinExpr(<=, BinExpr(+, BinExpr(+, BinExpr(+, BinExpr(%, IntegerLit(1), Id(_)), Id(G)), Id(G8)), BinExpr(*, BinExpr(*, Id(o), Id(wgHt)), Id(n))), BinExpr(||, BinExpr(||, Id(S), BinExpr(*, Id(O), Id(B3qUL47A))), BinExpr(-, Id(G), UnExpr(!, UnExpr(-, Id(qJ))))))))
+])

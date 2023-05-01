@@ -1,0 +1,5 @@
+Program([
+	VarDecl(T, AutoType)
+	FuncDecl(x, AutoType, [], None, BlockStmt([IfStmt(BinExpr(>, BinExpr(+, Id(f), Id(p_)), FuncCall(z, [])), BreakStmt(), BreakStmt())]))
+	FuncDecl(B, AutoType, [InheritParam(PfrUT, ArrayType([1], FloatType)), InheritParam(Ydw, AutoType)], None, BlockStmt([]))
+])

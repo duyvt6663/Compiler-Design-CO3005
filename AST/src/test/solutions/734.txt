@@ -1,0 +1,3 @@
+Program([
+	VarDecl(E, AutoType, FuncCall(j9In8Th, []))
+])

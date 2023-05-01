@@ -1,0 +1,1 @@
+rGY : function void ( ) inherit oG { }    

@@ -1,0 +1,4 @@
+Program([
+	VarDecl(Q8L, AutoType, BinExpr(::, IntegerLit(54906), Id(j)))
+	FuncDecl(ab, VoidType, [OutParam(a, BooleanType)], zpTW, BlockStmt([WhileStmt(BinExpr(<=, BinExpr(&&, Id(k), Id(Fcw)), UnExpr(-, Id(TgW4Z))), BreakStmt())]))
+])

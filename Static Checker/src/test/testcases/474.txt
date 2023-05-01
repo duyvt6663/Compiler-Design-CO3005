@@ -1,0 +1,6 @@
+
+            main: function void(){
+                x, y: auto = 1000, 22.4;
+                v: array[2] of float = {x,y};
+            }
+        

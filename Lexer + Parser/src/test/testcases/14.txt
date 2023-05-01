@@ -1,0 +1,1 @@
+RE : function void  ( inherit fN : auto    ) { d  : auto  = B   / C    >= - J     :: - X       ;  }    

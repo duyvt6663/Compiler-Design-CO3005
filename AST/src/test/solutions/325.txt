@@ -1,0 +1,4 @@
+Program([
+	FuncDecl(KAC, FloatType, [], None, BlockStmt([]))
+	FuncDecl(I, AutoType, [OutParam(sIgc, FloatType), Param(ap4, AutoType), InheritParam(s, ArrayType([7681047377725856027], FloatType)), InheritOutParam(L, AutoType)], Ju, BlockStmt([CallStmt(bD, ), BlockStmt([])]))
+])

@@ -1,0 +1,7 @@
+
+            main: function void(){
+                V, v, R, Htd, OW, Lq, M: integer;
+                for ( V = - v, false, 1000 + i) 
+                    main();     
+            }
+        

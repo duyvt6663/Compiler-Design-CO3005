@@ -1,0 +1,7 @@
+
+            V: function integer(){}
+            main: function void(){
+                V: integer;
+                V ();     
+            }
+        

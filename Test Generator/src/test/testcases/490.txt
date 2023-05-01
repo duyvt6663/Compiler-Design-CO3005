@@ -1,0 +1,3 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  VT  : auto  ;
+  preventDefault : function void ( out vI : integer    , inherit out ev : string     ) { }    D , J , Zfy , Ab , N9 , eeT  : auto  ;
+   

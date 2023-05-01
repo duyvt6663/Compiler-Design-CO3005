@@ -1,0 +1,6 @@
+Program([
+	VarDecl(D5, IntegerType, BinExpr(>=, BinExpr(&&, UnExpr(-, UnExpr(-, Id(w))), BinExpr(%, BinExpr(*, BinExpr(*, Id(M), Id(L)), Id(f)), Id(m))), BinExpr(/, BinExpr(%, UnExpr(-, UnExpr(-, Id(yj))), Id(Uh)), Id(YJP))))
+	VarDecl(zdp, IntegerType)
+	VarDecl(AC_m, IntegerType)
+	VarDecl(Pz, IntegerType)
+])

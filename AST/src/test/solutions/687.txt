@@ -1,0 +1,7 @@
+Program([
+	VarDecl(N, FloatType, BinExpr(::, BinExpr(<=, BinExpr(||, UnExpr(-, UnExpr(-, Id(o))), Id(X)), UnExpr(-, IntegerLit(0))), BinExpr(-, BinExpr(*, FuncCall(p, []), UnExpr(-, Id(N))), UnExpr(-, Id(L)))))
+	VarDecl(H, FloatType, BinExpr(::, BinExpr(||, BinExpr(&&, BinExpr(&&, Id(u8), Id(K)), BinExpr(%, Id(dX), Id(W8))), BinExpr(-, BinExpr(%, Id(O), Id(OW)), IntegerLit(0))), BinExpr(<, BinExpr(||, UnExpr(!, UnExpr(!, Id(R))), BinExpr(+, BinExpr(+, Id(K), Id(XU_)), BinExpr(%, Id(eUD), Id(Q)))), UnExpr(!, UnExpr(-, UnExpr(!, Id(c)))))))
+	VarDecl(uA, FloatType, BinExpr(::, BinExpr(>, BinExpr(&&, BinExpr(+, BinExpr(*, Id(QU), Id(CD)), Id(q)), BinExpr(%, Id(wUkH), IntegerLit(0))), BinExpr(+, UnExpr(-, UnExpr(!, Id(M))), BinExpr(*, Id(a), Id(eCov)))), ArrayLit([])))
+	VarDecl(By, FloatType, BinExpr(==, UnExpr(-, IntegerLit(0)), BinExpr(&&, BinExpr(&&, BinExpr(*, IntegerLit(8), Id(F)), Id(LKCj)), BinExpr(*, UnExpr(!, Id(B)), UnExpr(-, Id(YzxJ))))))
+	FuncDecl(wG, VoidType, [OutParam(W, ArrayType([0], IntegerType)), OutParam(a, FloatType), InheritParam(J, IntegerType)], None, BlockStmt([]))
+])

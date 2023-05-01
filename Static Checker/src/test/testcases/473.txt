@@ -1,0 +1,5 @@
+
+            main: function void(){
+                v: array[2, 2] of float = {{1.2, 3}, {1.0, 3.543}};
+            }
+        

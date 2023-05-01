@@ -1,0 +1,6 @@
+
+        foo: function integer(a: string){}
+        main: function void(){
+            a: integer = foo;
+        }
+        

@@ -1,0 +1,4 @@
+Program([
+	VarDecl(e, AutoType)
+	FuncDecl(Rpx5, ArrayType([0, 0, 2713620071], IntegerType), [], None, BlockStmt([]))
+])

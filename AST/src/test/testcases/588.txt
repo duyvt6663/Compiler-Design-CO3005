@@ -1,0 +1,1 @@
+R : function auto  ( inherit A : auto   , inherit out d : auto    ) { }    N  : boolean   = 52_1       ;   Ky8  : array [ 0 ] of integer    = 14_19    == o ( )    * - tFA     + Jo   && Y    - ixQ   || Z         ;   KxyaS : function array [ 0 ] of boolean    ( ) inherit T { continue ;   }    gb  : integer   ;   

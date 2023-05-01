@@ -1,0 +1,4 @@
+Program([
+	FuncDecl(I, VoidType, [], None, BlockStmt([ContinueStmt()]))
+	FuncDecl(vXH, ArrayType([0], BooleanType), [], None, BlockStmt([]))
+])

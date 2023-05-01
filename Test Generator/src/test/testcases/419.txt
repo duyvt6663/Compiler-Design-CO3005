@@ -1,0 +1,8 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  G  : float   = 0    * G       ;
+  G  : integer   ;
+   NqP , bar , I  : integer   ;
+   o : function float   ( ) { break ;
+   G  = printString ( foo ( readBoolean ( readBoolean ( foo ( )    - G      )    <= 0e681      )      , G [ NqP   % I      , NqP    :: bar     , o [ bar   >= zRJBb     , bar ( NqP     , NqP     )    - .01E-4       , 0.858    <= B      ]       ]     :: ""      )      )    + ( bar   >= 96550_22187_4_87554_141638_9670_29_50.e411      )      ;
+   CR , T , NqP  : auto  ;
+  XijsX , an  : float   ;
+  }    

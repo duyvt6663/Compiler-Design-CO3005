@@ -1,0 +1,7 @@
+Program([
+	VarDecl(Hv, ArrayType([8381], FloatType), BinExpr(::, BinExpr(>, FuncCall(_, []), FuncCall(z, [])), UnExpr(-, FuncCall(k, []))))
+	VarDecl(D, BooleanType)
+	VarDecl(IvlY, ArrayType([0], FloatType))
+	VarDecl(A, ArrayType([0], FloatType))
+	FuncDecl(bPyO, FloatType, [Param(sc, ArrayType([0, 88369301144, 8, 66], BooleanType))], wU6, BlockStmt([VarDecl(f6, FloatType)]))
+])

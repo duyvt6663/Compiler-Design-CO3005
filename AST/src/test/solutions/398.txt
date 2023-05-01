@@ -1,0 +1,8 @@
+Program([
+	VarDecl(M, AutoType)
+	VarDecl(_L, AutoType)
+	VarDecl(v, AutoType)
+	VarDecl(eR, FloatType)
+	VarDecl(U, FloatType)
+	VarDecl(Z9I, FloatType)
+])

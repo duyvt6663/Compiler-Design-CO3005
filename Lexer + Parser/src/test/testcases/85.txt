@@ -1,0 +1,1 @@
+q : function array [ 0 , 0 , 69_21 ] of float      ( inherit CD : array [ 0 ] of integer      , out lc : boolean      ) inherit G { h  : array [ 0 , 11_5_6 ] of integer    ;  w  : float    = ! M    >= 0     :: - fw       ;  }    Q58 : function integer     ( ) { cLH  : integer   ;  }    f  : array [ 0 ] of integer    ;   C  : array [ 0 ] of integer    ;   

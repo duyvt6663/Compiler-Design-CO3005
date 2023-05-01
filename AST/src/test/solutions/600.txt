@@ -1,0 +1,4 @@
+Program([
+	FuncDecl(AAr, ArrayType([9087, 0, 0, 0, 0], IntegerType), [Param(p, AutoType), Param(j, AutoType)], L, BlockStmt([BreakStmt(), ReturnStmt(BinExpr(::, BinExpr(<, UnExpr(!, Id(g)), BinExpr(&&, Id(c), Id(U))), FuncCall(f, [])))]))
+	FuncDecl(K, VoidType, [], pjc, BlockStmt([]))
+])

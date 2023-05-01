@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(CH, VoidType, [InheritParam(MB, AutoType), OutParam(f5, StringType), InheritOutParam(Fs, AutoType), Param(uha, ArrayType([66, 0], FloatType)), Param(Fn, AutoType)], None, BlockStmt([]))
+])

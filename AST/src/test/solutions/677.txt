@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(V6O, VoidType, [OutParam(q, IntegerType), OutParam(w, StringType), InheritParam(V, AutoType), Param(V, StringType), OutParam(_3, FloatType), OutParam(L, AutoType)], S_, BlockStmt([VarDecl(R, AutoType)]))
+])

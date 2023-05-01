@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(knc, VoidType, [], N, BlockStmt([VarDecl(qy, FloatType, BinExpr(<=, UnExpr(!, Id(a)), UnExpr(-, Id(U)))), WhileStmt(UnExpr(!, Id(Jb)), BreakStmt())]))
+])

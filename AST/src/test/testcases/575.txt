@@ -1,0 +1,1 @@
+s : function void ( out bU : array [ 0 ] of integer      ) { }    U : function array [ 0 ] of string    ( inherit qVA : array [ 0 , 0 ] of float     , inherit out G : float     ) inherit q { }    

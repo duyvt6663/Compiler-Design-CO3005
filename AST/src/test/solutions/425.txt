@@ -1,0 +1,5 @@
+Program([
+	VarDecl(I, ArrayType([1, 0, 0, 0, 0], StringType))
+	VarDecl(Bx0m, ArrayType([1, 0, 0, 0, 0], StringType))
+	VarDecl(I, AutoType)
+])

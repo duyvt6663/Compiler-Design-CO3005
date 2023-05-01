@@ -1,0 +1,5 @@
+Program([
+	FuncDecl(p, VoidType, [InheritParam(q, FloatType), Param(Qm, ArrayType([108], FloatType))], Y, BlockStmt([]))
+	VarDecl(T, BooleanType, BinExpr(::, BinExpr(&&, UnExpr(!, UnExpr(-, Id(E))), UnExpr(-, Id(j))), BinExpr(-, BinExpr(+, UnExpr(!, UnExpr(-, Id(k))), UnExpr(!, Id(k))), IntegerLit(2))))
+	FuncDecl(gg, VoidType, [InheritParam(K, ArrayType([1677], FloatType)), OutParam(x, FloatType)], GU, BlockStmt([BlockStmt([ContinueStmt(), CallStmt(x, ), BreakStmt(), ReturnStmt()])]))
+])

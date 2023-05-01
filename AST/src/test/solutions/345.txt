@@ -1,0 +1,5 @@
+Program([
+	VarDecl(a, AutoType)
+	VarDecl(Pi3, AutoType)
+	VarDecl(N, AutoType)
+])

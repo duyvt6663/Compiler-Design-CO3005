@@ -1,0 +1,5 @@
+Program([
+	VarDecl(JU, AutoType, BinExpr(!=, BinExpr(&&, BinExpr(&&, BinExpr(-, UnExpr(!, Id(bDjT_)), Id(bjmK)), Id(n)), Id(K)), BinExpr(%, UnExpr(!, Id(c)), UnExpr(!, Id(bQFkwt)))))
+	VarDecl(L, AutoType, BinExpr(::, BinExpr(>=, BinExpr(||, FuncCall(je, []), BinExpr(+, BinExpr(-, Id(v), Id(B)), BinExpr(*, UnExpr(-, Id(ow)), Id(AAV)))), BinExpr(||, FuncCall(r, []), FuncCall(ldvOM, []))), BinExpr(>=, BinExpr(||, BinExpr(||, BinExpr(%, Id(vDi), Id(SaRhOz)), BinExpr(%, Id(xBIp), Id(zlR))), BinExpr(-, BinExpr(-, BinExpr(/, Id(p), Id(a8_)), Id(O4Y6X1)), Id(g_q))), UnExpr(!, UnExpr(!, UnExpr(-, Id(ZW)))))))
+	VarDecl(dBZo, AutoType, BinExpr(::, BinExpr(>, BinExpr(||, BinExpr(&&, BinExpr(+, Id(H), Id(L)), UnExpr(!, Id(C))), BinExpr(+, BinExpr(*, Id(X), Id(q)), UnExpr(-, Id(YO3dy)))), UnExpr(!, Id(R))), BinExpr(==, BinExpr(||, BinExpr(+, BinExpr(+, FuncCall(_HO9, []), Id(_s)), Id(WerWp)), FuncCall(MD, [])), FuncCall(J, []))))
+])

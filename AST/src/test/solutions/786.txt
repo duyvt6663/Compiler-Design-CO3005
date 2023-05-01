@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(h, VoidType, [InheritParam(g, FloatType)], Tbf, BlockStmt([VarDecl(lp, AutoType, BinExpr(::, BinExpr(>=, BinExpr(%, Id(j), Id(D)), UnExpr(!, Id(ZrM))), BinExpr(<, BinExpr(+, Id(N6), Id(n)), BinExpr(/, Id(S4), Id(g6FYbb3))))), BlockStmt([])]))
+])

@@ -1,0 +1,6 @@
+
+            C : function integer   ( ) inherit readFloat { 
+                super ( ) ;  
+                I  : integer   = jruU9 ( )    == ! lU     :: ZO   - LN    == x   * J       ;  
+            }
+        

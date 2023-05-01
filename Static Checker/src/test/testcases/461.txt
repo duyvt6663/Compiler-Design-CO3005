@@ -1,0 +1,4 @@
+
+        c: auto = 1000.0;
+        foo: function auto(a: integer) {foo(c);}
+        

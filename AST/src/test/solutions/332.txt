@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(Dykmx, VoidType, [], _E, BlockStmt([VarDecl(G, AutoType, BinExpr(!=, BinExpr(+, Id(Ju), Id(eQ)), BinExpr(-, Id(i), Id(s)))), VarDecl(lu, AutoType, BinExpr(::, BinExpr(+, Id(bR), Id(t)), IntegerLit(3))), VarDecl(QK, AutoType, UnExpr(!, Id(l))), VarDecl(r, AutoType, BinExpr(::, BinExpr(!=, BinExpr(||, Id(t), Id(q)), UnExpr(!, Id(h))), UnExpr(-, Id(FZy)))), WhileStmt(BinExpr(==, UnExpr(!, Id(T)), UnExpr(!, Id(ZR))), ContinueStmt())]))
+])

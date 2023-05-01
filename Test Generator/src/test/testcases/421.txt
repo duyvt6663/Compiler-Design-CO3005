@@ -1,0 +1,3 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  P  : auto  ;
+  P  : array [ 2_9 , 17_8_111_8_0 , 0 ] of boolean    = P   / readBoolean ( foo ( printInteger ( bar ( )      )      , foo ( 3      , - P     :: ""      )     :: ( foo ( )     :: ""      )     )    > P [ 0E+481964    < P [ ""     :: ( P    :: ""      )      ]       ]      )        ;
+   

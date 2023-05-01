@@ -1,0 +1,5 @@
+Program([
+	FuncDecl(VADU, ArrayType([761, 8271, 0, 0, 0, 35206672818, 0], StringType), [], None, BlockStmt([]))
+	VarDecl(D3l, ArrayType([0, 4], FloatType))
+	VarDecl(_tqT, ArrayType([0, 4], FloatType))
+])

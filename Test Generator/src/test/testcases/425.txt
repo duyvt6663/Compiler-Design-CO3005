@@ -1,0 +1,4 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  qN , u , nc , EAIR7 , k9UDB  : auto  ;
+  m : function array [ 6 , 0 , 0 , 0 , 0 ] of float    ( out y : auto   , out y : integer    , inherit x : array [ 3_02 , 0 , 0 ] of float      ) inherit bar { preventDefault ( ) ;
+  H , OT , AZ , wzD  : array [ 0 , 0 ] of float    ;
+  }    

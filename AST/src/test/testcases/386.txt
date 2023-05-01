@@ -1,0 +1,1 @@
+h , O , v  : array [ 0 , 6 , 0 ] of boolean    ;   i , O  : array [ 3_74_85_81 , 742 ] of string    ;   

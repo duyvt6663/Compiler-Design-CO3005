@@ -1,0 +1,1 @@
+N , f  : float   ;   v , u , ngh , bMR  : array [ 0 ] of float    ;   G2 , _ynm  : array [ 689_574 ] of string    ;   

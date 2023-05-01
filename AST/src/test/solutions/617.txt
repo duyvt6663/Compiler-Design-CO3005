@@ -1,0 +1,5 @@
+Program([
+	FuncDecl(v, VoidType, [], None, BlockStmt([ContinueStmt(), VarDecl(LWj, BooleanType), VarDecl(C, BooleanType), DoWhileStmt(BinExpr(::, BinExpr(==, StringLit(), UnExpr(!, Id(D))), BinExpr(<, UnExpr(-, Id(ifW)), UnExpr(-, Id(lz)))), BlockStmt([CallStmt(iI, ), ReturnStmt()]))]))
+	VarDecl(o4, FloatType)
+	VarDecl(PN3, FloatType)
+])

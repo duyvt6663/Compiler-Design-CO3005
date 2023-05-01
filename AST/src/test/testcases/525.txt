@@ -1,0 +1,1 @@
+WG : function void ( out lP : float     ) { G ( )  ;   }    C : function void ( inherit O : integer     ) inherit bM { while ( ! I    == - BM      ) T ( )  ;     e  : integer   = Wt   / L    > ! w     :: - E       ;  }    

@@ -1,0 +1,6 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  zA , Q , g  : array [ 78724_7_3 , 0 ] of string    ;
+  o , R  : integer   ;
+   Jx : function void ( ) inherit printBoolean { super ( ) ;
+  if ( ! { }        ) return ;
+   else { }     Y  : string   = Q [ Jx ( )    % 1        ]    != R      ;
+  }    

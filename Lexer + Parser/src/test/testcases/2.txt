@@ -1,0 +1,1 @@
+BVoPi : function void  ( inherit out S5 : string      ) inherit c_ { }    q : function void  ( ) { F  : array [ 0 ] of integer    ;  }    

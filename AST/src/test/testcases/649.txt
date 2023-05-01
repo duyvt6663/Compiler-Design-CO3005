@@ -1,0 +1,1 @@
+rp : function array [ 8 ] of string    ( m : auto    ) inherit sp { p , y , n  : boolean   ;  wW , XV7C , f  : integer   ;  }    MR : function array [ 0 , 0 ] of integer    ( ) { }    z : function void ( out Om : auto    ) { }    

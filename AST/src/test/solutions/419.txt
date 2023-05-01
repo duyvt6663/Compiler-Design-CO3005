@@ -1,0 +1,4 @@
+Program([
+	VarDecl(M, ArrayType([0, 0, 0, 0, 343, 4267, 1, 7015], StringType))
+	VarDecl(u, ArrayType([0, 0, 0, 0, 343, 4267, 1, 7015], StringType))
+])

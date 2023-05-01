@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(Zq, VoidType, [InheritOutParam(a, AutoType), Param(M3, AutoType)], None, BlockStmt([]))
+])

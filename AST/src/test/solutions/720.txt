@@ -1,0 +1,6 @@
+Program([
+	FuncDecl(K, ArrayType([0], FloatType), [InheritOutParam(lC, IntegerType), OutParam(M, ArrayType([8], StringType))], s, BlockStmt([]))
+	FuncDecl(U, VoidType, [], t, BlockStmt([BlockStmt([ContinueStmt(), ReturnStmt()])]))
+	VarDecl(_JSZ3w, AutoType)
+	VarDecl(Ft, AutoType)
+])

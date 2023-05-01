@@ -1,0 +1,3 @@
+Program([
+	VarDecl(O5PnoE, FloatType, BinExpr(>=, BinExpr(||, BinExpr(||, BinExpr(&&, Id(Y2o), Id(L)), BinExpr(-, BinExpr(%, Id(YEd), Id(K)), BinExpr(*, UnExpr(!, Id(K7)), Id(O)))), Id(C)), BinExpr(+, ArrayLit([]), FuncCall(CA0n, []))))
+])

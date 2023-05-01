@@ -1,0 +1,4 @@
+Program([
+	VarDecl(wb, ArrayType([0], IntegerType), UnExpr(-, UnExpr(!, UnExpr(-, Id(S)))))
+	FuncDecl(F0, VoidType, [], Z, BlockStmt([]))
+])

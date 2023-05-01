@@ -1,0 +1,4 @@
+Program([
+	FuncDecl(W4H, AutoType, [], Fe, BlockStmt([VarDecl(O, BooleanType, BinExpr(::, BinExpr(+, Id(G), Id(e)), BinExpr(%, Id(Tt_c2), Id(a)))), VarDecl(kJ, BooleanType, BinExpr(-, Id(_), Id(Ydw)))]))
+	FuncDecl(zX, AutoType, [], v, BlockStmt([]))
+])

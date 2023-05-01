@@ -1,0 +1,10 @@
+Program([
+	FuncDecl(g, VoidType, [], None, BlockStmt([]))
+	VarDecl(EDg, AutoType, BinExpr(<=, BinExpr(&&, BinExpr(/, UnExpr(!, Id(n)), Id(b)), BinExpr(-, Id(y), UnExpr(-, Id(v)))), BinExpr(||, BinExpr(/, BinExpr(*, Id(vw6), Id(q)), StringLit()), Id(Wm))))
+	VarDecl(u8, AutoType, BinExpr(||, BinExpr(+, UnExpr(!, Id(RaQ)), BinExpr(%, Id(i), Id(c))), Id(w)))
+	VarDecl(g, AutoType, BinExpr(::, BinExpr(&&, BinExpr(-, UnExpr(!, Id(Y9c)), Id(u)), UnExpr(-, Id(f))), FuncCall(n9I, [])))
+	VarDecl(j, AutoType, BinExpr(>=, BinExpr(||, BinExpr(/, UnExpr(!, Id(X0)), Id(E)), BinExpr(+, Id(L), Id(N))), BinExpr(%, IntegerLit(0), Id(m))))
+	VarDecl(s, AutoType, BinExpr(::, BinExpr(<, UnExpr(!, UnExpr(-, StringLit())), BinExpr(+, UnExpr(!, UnExpr(-, Id(dny4))), UnExpr(!, Id(kFXAS)))), BinExpr(&&, BinExpr(&&, BinExpr(+, Id(HDXk), Id(rz_xbVuM)), UnExpr(-, Id(T))), BinExpr(/, UnExpr(-, Id(yh)), Id(t)))))
+	VarDecl(wW, AutoType, BinExpr(::, BinExpr(<, StringLit(), BinExpr(||, BinExpr(/, UnExpr(-, StringLit()), Id(j)), Id(E))), BinExpr(<, BinExpr(||, UnExpr(!, UnExpr(-, Id(GHEG))), StringLit()), Id(a8Q))))
+	VarDecl(oA, AutoType, BinExpr(==, UnExpr(!, UnExpr(!, UnExpr(!, Id(o)))), BinExpr(*, BooleanLit(False), UnExpr(!, UnExpr(!, Id(u))))))
+])

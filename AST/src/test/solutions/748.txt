@@ -1,0 +1,6 @@
+Program([
+	VarDecl(b_, ArrayType([0], StringType))
+	VarDecl(ir, ArrayType([0], StringType))
+	VarDecl(N, ArrayType([0], StringType))
+	VarDecl(Su, ArrayType([0], StringType))
+])

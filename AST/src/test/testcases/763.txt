@@ -1,0 +1,1 @@
+z : function auto  ( le : auto    ) inherit iE2 { }    

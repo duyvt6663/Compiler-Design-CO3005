@@ -1,0 +1,4 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  _zWl , z  : auto  = foo ( )    || ( z     )      , printInteger ( )    % z [ z   * super ( )       , ( readInteger ( )      )   - 4_9_4_6E+1        ]        ;
+  _zWl , mDZY , I  : float   ;
+   im , A291p9  : array [ 0 ] of boolean    = im [ - mDZY      , bar ( 0      , foo ( )    >= preventDefault ( - A291p9      )      )       ]    / ( _zWl     )     :: im     , A291p9   && A291p9       ;
+   

@@ -1,0 +1,2 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  t4  : auto  = t4 [ t4    :: t4      ]    - printInteger ( t4 [ t4    :: foo ( )    - t4      , bar ( )     :: ""       ]      )        ;
+  J : function void ( t4 : string     ) { }    

@@ -1,0 +1,3 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  M  : array [ 0 , 6 ] of float    = ! bar ( )        ;
+  M  : auto  = M   == { }        ;
+   

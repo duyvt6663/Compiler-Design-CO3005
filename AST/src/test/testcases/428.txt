@@ -1,0 +1,1 @@
+or : function array [ 0 ] of float    ( inherit out Nh : auto    ) inherit SGvW { }    

@@ -1,0 +1,1 @@
+J : function void ( ) { }    Q : function array [ 0 ] of integer    ( inherit out M : array [ 9_8_9 , 2_5 , 0 ] of string      ) { }    c , o , F  : auto  ;   

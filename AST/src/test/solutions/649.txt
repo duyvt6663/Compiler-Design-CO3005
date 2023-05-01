@@ -1,0 +1,5 @@
+Program([
+	FuncDecl(rp, ArrayType([8], StringType), [Param(m, AutoType)], sp, BlockStmt([VarDecl(p, BooleanType), VarDecl(y, BooleanType), VarDecl(n, BooleanType), VarDecl(wW, IntegerType), VarDecl(XV7C, IntegerType), VarDecl(f, IntegerType)]))
+	FuncDecl(MR, ArrayType([0, 0], IntegerType), [], None, BlockStmt([]))
+	FuncDecl(z, VoidType, [OutParam(Om, AutoType)], None, BlockStmt([]))
+])

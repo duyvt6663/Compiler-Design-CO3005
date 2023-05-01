@@ -1,0 +1,3 @@
+Program([
+	VarDecl(O, ArrayType([0, 0, 0, 9], StringType), BinExpr(::, BinExpr(<, BinExpr(&&, BinExpr(&&, BinExpr(&&, UnExpr(-, Id(KIlN)), Id(j)), Id(LAD)), Id(d)), BinExpr(-, StringLit(), UnExpr(-, UnExpr(!, Id(Q))))), BinExpr(==, BinExpr(-, BinExpr(+, BinExpr(+, UnExpr(-, Id(Ae)), Id(uWO)), Id(k)), UnExpr(!, Id(VSG))), Id(i))))
+])

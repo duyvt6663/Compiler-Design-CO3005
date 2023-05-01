@@ -1,0 +1,1 @@
+wb  : array [ 0 ] of integer    = - ! - S         ;   F0 : function void ( ) inherit Z { }    

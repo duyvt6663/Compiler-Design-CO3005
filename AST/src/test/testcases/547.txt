@@ -1,0 +1,1 @@
+G  : array [ 0 , 78_8004 ] of float    = I   && V    * v   % JX     % X   / zo    % L2AR   || D       :: 60       ;   

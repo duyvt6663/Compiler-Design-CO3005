@@ -1,0 +1,3 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  q  : array [ 0 , 0 ] of string    = 61    >= ( 0      )      ;
+  Ug  : array [ 0 , 0 , 5 , 8176_791_8640 , 813810_93 ] of integer    = .E9    - q       ;
+   

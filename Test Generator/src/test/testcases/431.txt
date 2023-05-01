@@ -1,0 +1,6 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  T , aLK1 , tqhs  : auto  ;
+  YP : function float   ( inherit out u : auto    ) { break ;
+   }    YP , aLK1  : array [ 238_68_8 ] of boolean    = bar ( )    >= aLK1 [ YP    :: YP [ ""     :: ""      , false       ]       ]      , { tqhs   - printBoolean ( YP [ printString ( )    + aLK1      , { }     && readBoolean ( super ( )    / bar ( )       )        ]      )       , YP     , tqhs     }     <= 0     :: ! tqhs       ;
+   FfHd , c  : string   = - ( 0      )      , foo ( tqhs     , YP ( T     )     :: ""      )       ;
+   ji : function auto  ( inherit p : auto   , inherit out V : array [ 554_35_0_5_6 ] of string     , inherit out W : integer     ) { }    T : function boolean   ( ) { }    CxDtp  : auto  = 96    <= 0       ;
+   C : function void ( ji : array [ 7_0_437_45 , 5_8 ] of string     , out z6Km : auto   , d : array [ 0 , 2_35_15_7 , 5 ] of integer      ) inherit T { }    E : function array [ 8403 , 0 , 0 ] of string    ( ) { }    

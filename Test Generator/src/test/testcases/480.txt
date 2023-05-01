@@ -1,0 +1,6 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  y  : array [ 0 ] of float    = 6_57    % y       ;
+  readString : function auto  ( inherit l : boolean    , inherit out b : array [ 67_3 ] of float      ) inherit foo { super ( false , { y [ ! printInteger ( y     )        ]      , a    :: foo ( )    != a     , ""     :: "\b"      }  ) ;
+  { li  : float   = li   - 4_50_74.6        ;
+  }   X , li , Si , eC , C , b , li  : boolean   ;
+  break ;
+   }    

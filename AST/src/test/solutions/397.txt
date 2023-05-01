@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(ti, IntegerType, [OutParam(TtTYgr, BooleanType), InheritOutParam(wyD, FloatType), OutParam(F, ArrayType([94, 3], IntegerType)), Param(G, StringType)], None, BlockStmt([]))
+])

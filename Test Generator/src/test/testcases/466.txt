@@ -1,0 +1,3 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  Ur , dUNI3 , WN , P38R  : auto  ;
+  Wl  : array [ 8_9_1049 , 0 , 0 , 286 , 20 , 83_3_2_13040_5_959678441 , 3 , 80_4 ] of string    = Wl   <= dUNI3      ;
+   

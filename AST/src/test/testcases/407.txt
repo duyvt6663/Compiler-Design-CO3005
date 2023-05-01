@@ -1,0 +1,1 @@
+CA15 : function array [ 0 , 0 ] of integer    ( ) inherit y { Fh  : auto  ;  e , Z  : array [ 77 ] of integer    ;  }    

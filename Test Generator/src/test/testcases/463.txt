@@ -1,0 +1,3 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  S  : array [ 3 ] of integer    ;
+  e5  : boolean   = printString ( bar ( e5     , e5     )     :: S [ ! e5       ]      )    > S [ ! e5      , 6020    < e5     , ! { }        , S   != S [ 0    + S       ]      , e5   - readBoolean ( )        ]       ;
+   

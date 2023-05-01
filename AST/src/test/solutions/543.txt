@@ -1,0 +1,4 @@
+Program([
+	VarDecl(qWqa, AutoType)
+	FuncDecl(S, FloatType, [], None, BlockStmt([VarDecl(ug, AutoType), BreakStmt(), VarDecl(PF, AutoType, FuncCall(P, []))]))
+])

@@ -1,0 +1,9 @@
+Program([
+	FuncDecl(rhDN, VoidType, [], None, BlockStmt([VarDecl(v, BooleanType), IfStmt(BinExpr(::, Id(v), UnExpr(-, Id(zkcYVU))), CallStmt(k, )), VarDecl(Vs, AutoType, BinExpr(&&, Id(u), Id(O))), ReturnStmt()]))
+	VarDecl(jdy, AutoType)
+	VarDecl(MAw5J, AutoType)
+	VarDecl(K, AutoType)
+	VarDecl(CkS, AutoType)
+	VarDecl(b, AutoType)
+	VarDecl(Wk, AutoType)
+])

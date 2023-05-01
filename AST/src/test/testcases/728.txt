@@ -1,0 +1,1 @@
+h , G , SZ7 , zZ , _ , X  : array [ 91126 ] of boolean    ;   

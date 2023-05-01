@@ -1,0 +1,7 @@
+Program([
+	VarDecl(h, ArrayType([0, 6, 0], BooleanType))
+	VarDecl(O, ArrayType([0, 6, 0], BooleanType))
+	VarDecl(v, ArrayType([0, 6, 0], BooleanType))
+	VarDecl(i, ArrayType([3748581, 742], StringType))
+	VarDecl(O, ArrayType([3748581, 742], StringType))
+])

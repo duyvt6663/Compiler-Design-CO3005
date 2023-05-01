@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(f, VoidType, [InheritOutParam(i, FloatType), InheritParam(S9, FloatType)], HJ, BlockStmt([VarDecl(L, StringType, BinExpr(::, BinExpr(!=, BinExpr(&&, Id(E), Id(ErI)), BinExpr(-, Id(r), Id(l))), UnExpr(!, Id(M8))))]))
+])

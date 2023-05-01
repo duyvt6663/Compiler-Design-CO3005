@@ -1,0 +1,4 @@
+Program([
+	VarDecl(O, ArrayType([569], IntegerType))
+	VarDecl(x, ArrayType([569], IntegerType))
+])

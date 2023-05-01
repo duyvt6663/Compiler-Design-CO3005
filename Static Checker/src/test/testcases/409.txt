@@ -1,0 +1,9 @@
+
+            man: function void(out k: string)inherit foo{
+                super(1);
+                d = "bro";
+            }
+            foo: function integer(inherit c: integer)inherit bar{}
+            bar: function void(inherit d: string){}
+            main: function void(){}
+        

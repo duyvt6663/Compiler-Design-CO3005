@@ -1,0 +1,5 @@
+
+            foo: function integer(inherit k: integer){}
+            man: function void(out k: string)inherit foo{ }
+            main: function void(){}
+        

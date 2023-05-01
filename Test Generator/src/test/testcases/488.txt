@@ -1,0 +1,5 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  jd  : array [ 1 ] of integer    ;
+  foo , CcHX3  : auto  = foo   <= ( .E1      )     , { jd     }     && CcHX3       ;
+   h : function integer   ( R : boolean    , out h : string     ) { }    B : function void ( ) inherit foo { preventDefault ( )  ;
+  }    r : function void ( out X : array [ 0 ] of integer      ) { }    L , bar  : auto  ;
+   

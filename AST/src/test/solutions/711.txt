@@ -1,0 +1,5 @@
+Program([
+	FuncDecl(q, VoidType, [], B, BlockStmt([]))
+	VarDecl(ws, ArrayType([0, 45540], BooleanType))
+	VarDecl(F, AutoType)
+])

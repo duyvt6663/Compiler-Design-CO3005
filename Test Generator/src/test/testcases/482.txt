@@ -1,0 +1,5 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  wKt  : array [ 0 , 0 , 48_8102 ] of string    ;
+  a : function void ( inherit s : auto    ) inherit bar { super ( x    :: ( bar ( )     :: ""      )     ) ;
+  t  : float   = t   > wKt [ ( { x   == x     , t   <= 25_20      , wKt   == wKt     , 0    < wKt [ x   > x      ]      }       )   || { }         ]      , 0    <= super ( )       ;
+  }    q  : auto  ;
+   T : function integer   ( out Q : auto   , a : array [ 7_9_8 ] of boolean     , out P : auto   , a : auto    ) inherit foo { }    

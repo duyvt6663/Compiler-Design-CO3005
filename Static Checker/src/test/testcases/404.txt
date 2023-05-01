@@ -1,0 +1,5 @@
+
+        foo: function auto() {}
+        a: float = -foo();
+        c: integer = foo();
+        

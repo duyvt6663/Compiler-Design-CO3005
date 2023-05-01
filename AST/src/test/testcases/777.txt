@@ -1,0 +1,1 @@
+F : function auto  ( inherit D5 : array [ 0 , 0 , 6_095 ] of integer     , out qP : auto    ) inherit ZG { fqb  = w   && E    >= - pd     :: pzR   - WYJVA    < xV   && DvQ      ;   j  : auto  = ""    > - x     :: Q   && h9    < ""       ;  QLAX  = v9   > QEV9l   - sU     :: XwgWmP   + i    >= s03   / D      ;   }    

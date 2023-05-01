@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(yHEnX, VoidType, [], r, BlockStmt([BlockStmt([VarDecl(rZ, ArrayType([634, 0, 0, 0, 0], BooleanType))])]))
+])

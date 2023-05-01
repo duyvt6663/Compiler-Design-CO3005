@@ -1,0 +1,6 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  PiG  : string   ;
+  ev2k  : auto  ;
+   pMaL : function auto  ( foo : string    , inherit out L : string    , zT : integer     ) inherit preventDefault { super ( "\\\f\"\n\'" , "" , 0 ) ;
+  }    d : function array [ 0 ] of string    ( ) inherit readString { super ( ) ;
+  }    wESl , y , r , W , l  : integer   = ! { - 9_335_36_0.       }        , PiG    :: foo ( )      , PiG    :: PiG     , 31_911e4    / foo ( wESl     , ""     :: bar ( ( 389_2_884E-3      )     , y   < 5_1690_0_7295_7319_9      )      )       , 0.e8    / ev2k       ;
+   

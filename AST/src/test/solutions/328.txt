@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(jOpteT, AutoType, [InheritParam(x, ArrayType([0, 89, 798], FloatType))], T, BlockStmt([]))
+])

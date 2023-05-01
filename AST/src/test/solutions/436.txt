@@ -1,0 +1,5 @@
+Program([
+	VarDecl(lb, IntegerType)
+	VarDecl(zH, IntegerType)
+	VarDecl(Y, IntegerType)
+])

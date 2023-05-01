@@ -1,0 +1,4 @@
+Program([
+	FuncDecl(XX, VoidType, [], None, BlockStmt([DoWhileStmt(BinExpr(!=, BinExpr(+, Id(E), Id(T)), BinExpr(||, Id(eo), Id(H))), BlockStmt([]))]))
+	FuncDecl(Y, VoidType, [InheritParam(uo1c, ArrayType([0], FloatType))], None, BlockStmt([VarDecl(Au, ArrayType([0, 64], BooleanType), BinExpr(>=, BinExpr(*, Id(Ko), Id(Q)), UnExpr(!, Id(W)))), VarDecl(oPOmp, ArrayType([0, 64], BooleanType), Id(G))]))
+])

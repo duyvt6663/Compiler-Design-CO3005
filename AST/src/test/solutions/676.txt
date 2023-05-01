@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(O, StringType, [], None, BlockStmt([VarDecl(v, AutoType)]))
+])

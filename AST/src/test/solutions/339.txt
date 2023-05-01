@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(wY, VoidType, [], None, BlockStmt([VarDecl(n, ArrayType([216, 0, 0], IntegerType))]))
+])

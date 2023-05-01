@@ -1,0 +1,2 @@
+foo : function void ( inherit out a : integer , inherit out b : string ) { }  bar : function integer ( inherit out x : integer , inherit out y : boolean ) { }  T  : array [ 0 , 6624 , 0 , 4_4 ] of float    = ""     :: T [ ! bar ( printFloat ( )      , ( T     )   >= T     )        ]       ;
+  R : function void ( inherit out U : boolean    , inherit out DHgp : array [ 88 ] of boolean     , inherit k6FK : integer    , Ib : auto    ) { }    

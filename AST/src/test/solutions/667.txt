@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(_2sR, FloatType, [OutParam(N, FloatType), Param(f4, IntegerType)], o, BlockStmt([VarDecl(G, AutoType), VarDecl(D, AutoType), VarDecl(V, AutoType), VarDecl(wQ3Ii, FloatType), VarDecl(g, FloatType)]))
+])

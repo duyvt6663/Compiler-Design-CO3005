@@ -1,0 +1,3 @@
+Program([
+	FuncDecl(k, VoidType, [Param(F, ArrayType([0], StringType))], tx, BlockStmt([]))
+])
