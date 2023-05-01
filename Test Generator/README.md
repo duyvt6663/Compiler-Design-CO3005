@@ -5,4 +5,5 @@ How to run
   python TestGen.py
 ```
 The program produces a new ASTGenSuite.py/ParserSuite.py/CheckerSuite.py with
-fresh testcases everytime. Use at your own risk. For further info of how to create this, contact me.
+fresh testcases everytime. Use at your own risk.  
+For further info of how to create this, contact me.
