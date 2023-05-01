@@ -2,7 +2,7 @@
 
 How to run
 ---
-cd src/test
+cd src/test  
 python TestGen.py
 ---
 The program produces a new ASTGenSuite.py/ParserSuite.py/CheckerSuite.py with
