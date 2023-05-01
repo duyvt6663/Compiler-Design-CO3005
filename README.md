@@ -16,5 +16,6 @@ Then type: python run.py test ParserSuite
 Then type: python run.py test ASTGenSuite  
 Then type: python run.py test CheckerSuite  
 Then type: python run.py test CodeGenSuite  
+
 ---
 Contact: duy.le1201@hcmut.edu.vn
