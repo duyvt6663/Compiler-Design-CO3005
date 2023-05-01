@@ -1,5 +1,5 @@
 # Compiler-Design-CO3005
-Assignment from course CO3005 - Principle of Programming Languages
+Assignment from course CO3005 - Principle of Programming Languages.
 
 * Lexer + Parser: implemented using Antlr.
 * AST: implemented using visitor pattern on the tokens/grammar produced by Lexer+Parser.
